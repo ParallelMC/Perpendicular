@@ -1,0 +1,13 @@
+name = "Perpendicular"
+author = "Diamondback88"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "898c8609e78e2e46da767dba9e128e4351eb751156f9905a935621f3e482d9e1"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
