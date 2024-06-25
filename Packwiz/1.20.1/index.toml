@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosby/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+file = "config/modernfix-mixins.properties"
+hash = "53d93b1fcafe2c2db8dc23602d3aeb9cefcfc7ba49103a60c273cd893697f5ea"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
