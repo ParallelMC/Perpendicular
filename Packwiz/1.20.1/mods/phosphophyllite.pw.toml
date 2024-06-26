@@ -1,0 +1,13 @@
+name = "Phosphophyllite"
+filename = "phosphophyllite-1.20.1-0.7.0-alpha.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0959f1e41302b1d6c8a377abbb028ef681ad7f25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4806749
+project-id = 412551
