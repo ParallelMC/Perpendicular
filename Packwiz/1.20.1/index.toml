@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "4f67a496fbfcafd42b29b32e6b4a0147858f4bbb913bb7bd095c4264cf5224b9"
+hash = "448a3203add88c61aa56a50b111c75ed669da1a41b8173a675547e9b143c43f7"
 metafile = true
 
 [[files]]
