@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "107ccdf065f55acc15658875a12b41612f4c7ca6e24546f64b9277194b5e6431"
+hash = "4e6da4cf2017bca4146c97269e1a0c80eb377e9250b2629bcbc86476bc87fc55"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "28eea701f25fbad77584d331d32caa197584fdc24ad07394453418c2e6390b09"
+hash = "8fed46897c8b28c832e0c3c6733d591ce462530280a8b0e84b9f5b84d222d93b"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "448a3203add88c61aa56a50b111c75ed669da1a41b8173a675547e9b143c43f7"
+hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
