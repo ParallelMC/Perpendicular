@@ -184,16 +184,6 @@ hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -374,11 +364,6 @@ hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
@@ -495,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+hash = "3b4e1986cfa48a12d737ed89033085a0668d51dcaff6b07b00831a3f99e90572"
 metafile = true
 
 [[files]]
@@ -784,8 +769,8 @@ hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
 
 [[files]]
-file = "mods/wandering-collector.pw.toml"
-hash = "175f5c5859efb2bba2a2d348a63ee28f298572edf5fc2373fdd2275f4c907cc5"
+file = "mods/water-balloon.pw.toml"
+hash = "c885fabe71512b8a03f1b413b87f3df2c4b08507acab5b9dc96d95d9040c4f42"
 metafile = true
 
 [[files]]

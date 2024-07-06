@@ -1,0 +1,13 @@
+name = "Water Balloon"
+filename = "waterballoon-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JEAyza5/versions/pNisILKv/waterballoon-forge-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b9a784e6b9637ec8f92ce91cfff5ecfcadb6371c"
+
+[update]
+[update.modrinth]
+mod-id = "2JEAyza5"
+version = "pNisILKv"
