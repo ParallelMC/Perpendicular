@@ -44,11 +44,6 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
-file = "mods/async-locator.pw.toml"
-hash = "16547af18d4d618164f2aac97bf51c7aebf7fbcf948b3e0fcd18048ce718ebd1"
-metafile = true
-
-[[files]]
 file = "mods/autumnity.pw.toml"
 hash = "ad9187e9de71c0259c492269a0bdf2959c98a86822bd8575678172620fabd0dd"
 metafile = true
@@ -721,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
 metafile = true
 
 [[files]]
