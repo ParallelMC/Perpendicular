@@ -404,11 +404,6 @@ hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
 metafile = true
 
 [[files]]
-file = "mods/idas.pw.toml"
-hash = "0ec095ae6218bf78accce8696cdffac8b2caa9e98e6a9cec18adda16bb8965dd"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7034bfc4241e0b708b19576e7dff581ff219a406de2abf6285469e9f2cb562de"
 metafile = true
@@ -436,21 +431,6 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "80117d3d7c4cf4ae0af08837f889e06ab8bc8c7f022f34b8629f266cf9f4ebdc"
-metafile = true
-
-[[files]]
-file = "mods/integrated-api.pw.toml"
-hash = "56eb691a13dd6219a8195d2df15365734d59ff83e82bc36fdc63bee18b123885"
-metafile = true
-
-[[files]]
-file = "mods/integrated-stronghold.pw.toml"
-hash = "bf404059848bec2c6b0c3a915668ec04d46000a5d8520debb62fa1fc5d2a6c99"
-metafile = true
-
-[[files]]
-file = "mods/integrated-villages.pw.toml"
-hash = "67a5e960c850f90b4a47e3668c301e64e64b1f473dd8c426c367fbdc9cfdda6b"
 metafile = true
 
 [[files]]
@@ -851,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
 hash = "9ad77d663f0a287c2a902d71ccf7221f4ab49a29946743432e4ccb7506e86c21"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "584b719bb17c63ca4bb1432f45af46a17e1bce6307565f13b9c0298bb80f6945"
 metafile = true
 
 [[files]]
