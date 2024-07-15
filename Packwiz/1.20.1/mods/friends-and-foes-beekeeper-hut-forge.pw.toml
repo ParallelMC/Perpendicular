@@ -1,13 +1,13 @@
 name = "Friends&Foes - Beekeeper Hut (Forge/NeoForge)"
-filename = "friendsandfoes-beekeeperhut-forge-mc1.20.1-2.0.0.jar"
+filename = "beekeeperhut-forge-mc1.20.1-2.0.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/K62sN7Sd/versions/Xf3qcgni/friendsandfoes-beekeeperhut-forge-mc1.20.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/K62sN7Sd/versions/ilMkQEQF/beekeeperhut-forge-mc1.20.1-2.0.1.jar"
 hash-format = "sha1"
-hash = "54cffc778d1e2406824db38d4e72ff86f86e88d6"
+hash = "c058de89540ffb821d069281982b0312fae9b0d5"
 
 [update]
 [update.modrinth]
 mod-id = "K62sN7Sd"
-version = "Xf3qcgni"
+version = "ilMkQEQF"

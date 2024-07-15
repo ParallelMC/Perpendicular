@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "85b1204ccdbcb871f99b2ec44bcfb38f8a598b1f5d2666c58d854feef40754a7"
+hash = "a7fb9500cabe1be704a1a9ddac2ed1bd218e67dfcff21ae1f6c02142c8cd836f"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b4f9b12cd97a29b22a38b4fe2ae37c7c7fc15d187bc09db788db92b3c147f7b4"
+hash = "c97e8587e3659228a57e6070e9b07d6768f0c8e6ee5a7e095b27c3b8152fe87e"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "9261b71e382b07771083e0998e2a8e6997a874e8384fd0e1020774ae8c64baba"
+hash = "2768028d4371f93003ac2af68fce97aff74cc3a71d4cebd0d3a5b2279a0f375d"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e5a2825f8de2b1b4f9e6aee34417b6c1ae2fcf826a6033c3b542d35091e70b41"
+hash = "70f677a3c35b5bb6f63450fe9b231529d2f17aefa5cca2cedcd56cb4d5e01e00"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderio.pw.toml"
-hash = "3acea0646e5617698fee7457a0d32559e9ce8cc20c1873ba4dc9743c18f413df"
+hash = "79f11d8097e81910147a265ab53ff172ad099ae3ce463e5d3fff9a0fabe963eb"
 metafile = true
 
 [[files]]
@@ -365,17 +365,17 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
-hash = "ec26dd9aeef215d77bee70cadf269be7629578d3225037720a76de95d9914553"
+hash = "ce859847c277508d2b73a6a32332d0b5d318412c99cb7f0b30dfbd67efeabf75"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
-hash = "cdca69b8fd167110b244e26b774a1f8e30e6bee1043c7e704ebdeb63b702eaa2"
+hash = "1c8f64426eb7bf451313a2d8cbf8eac4e1c77df285b77b683c27cd4d143a4c57"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "6fc94d2d33d11dea34b96e77f7569ffe5196ca2f63dedd8eff3dbe149b7e9d05"
+hash = "28847e5ec7d75246c16e26a294df96262c7ad4f6c9a4f6fc8741c99b22417f16"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
-hash = "238e620eae04c0d0a9a88c46c96fa9aa773b11697231f7c81a503eb945b20755"
+hash = "9b26aef9bca26cc8ae004539eb52ba1af0fd211e14f347b4d781970479f1002f"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2f18b67d7c5e0bf4dca773a0fe661ba95b424e75f686eb7cc7d5a5eada69815"
+hash = "886f370aa49b61b6ec0151acaf1d4450834f82ea86241dc11443dbfe08e1dba9"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "aecc8baf9e0e87c9ad4b34a0ec027f88f4f4705a75157499761891734e58679f"
+hash = "3e8cd4a93f26b4ac2cf59c61192fbc3f901ede5b894768bffd8d0fd6fa0973a6"
 metafile = true
 
 [[files]]
@@ -695,12 +695,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7f69355773dcd86239a2f75f04003ca739df2e2c670fe440b2720ec53b1b2610"
+hash = "0f497918229968f782522446548e80f18d02f92641328db0548354ff5075f68f"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "e4ab43d334081c68d199162c9a5da630b667d693a782464ed1bd01d21887f867"
+hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
