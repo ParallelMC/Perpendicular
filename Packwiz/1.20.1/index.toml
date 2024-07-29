@@ -9,6 +9,10 @@ file = "config/modernfix-mixins.properties"
 hash = "7444839136b181384e0230a94cddbbf447daf700c6938f08561bb1b4f834a670"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "4af0f50a09a66b4bdb7ebda618b48d15bf8e0012cb0ddfd9c0ddaffe68902ceb"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
 metafile = true
