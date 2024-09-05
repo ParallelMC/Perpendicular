@@ -1,0 +1,12 @@
+{
+	"tooltip": {
+		/* Shows info about the current loot table of the item if present.
+		   Visible only when Tooltip Type is set to Modded.
+		   HIDE: No loot table info, default.
+		   SIMPLE: Displays whether the stack uses a loot table.
+		   ADVANCED: Shows the loot table used by the item.
+		   (default value: HIDE)
+		*/
+		"lootTableInfoType": "ADVANCED"
+	}
+}

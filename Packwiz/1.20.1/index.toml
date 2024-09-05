@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Obscuria/obscure-api-client.toml"
+hash = "978e952719c35724ffc46d0839646e5fa9eecfd268df41de0389da009a5ec80e"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "1a3677c27a5e93fb382b12956cafb772f92bfbb375c18544fa3353b2abdc2d75"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
+
+[[files]]
+file = "config/fml.toml"
+hash = "0f9288c07c2b5f5f1664f39e58ccda1a6267c08620ffb4dd5427b2dd6877d273"
+
+[[files]]
 file = "config/forge-client.toml"
-hash = "ac510c039bea13c5756fbbc2ad7860ec2780a92ead31105bb665734c1aaea33e"
+hash = "a3fd6f887e4321019fbb99cbafd2eb5e14e3cb5c5b8ebd8cd3faa68c7572f92a"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -10,7 +26,35 @@ hash = "929e9adcf4f1df1155b9440ce29a6fb86136bc7b815fdef7f98a3dd03791002b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e9525289d76f4a8b2b4acd4f44519a75763e01d0bc09396109d906e59bf9bca8"
+hash = "bd73f39de2203c99063ee3343ba74e80e3fd9c964bdae7e8791207461d5d1167"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "cdeae28221b386709f633bf20e638bed161454f45a5bd7ad0279e1edf74593be"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "4e476ed5148f75d4e0fa1030dafcc21930bb970c186a4f7d3064229183fc4413"
+
+[[files]]
+file = "config/yosby/config/betteradvancements-client.toml"
+hash = "3e818046a3ccfb04213dcfc10925c136e8674cfe06fcf08ed30111fca8330ee0"
+
+[[files]]
+file = "config/yosby/config/bobby.toml"
+hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
+
+[[files]]
+file = "config/yosby/config/oculus.properties"
+hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
+
+[[files]]
+file = "config/yosby/config/shulkerboxtooltip.json5"
+hash = "417050492aed51c7056ef3d7af1610ddfc5d00743ec8a7c329926a7e90e611d6"
+
+[[files]]
+file = "config/yosby/config/watut-common.toml"
+hash = "33022fe9416d6e50a720174d2ecbf00be8a7042afc004b67d76f5b083ffface1"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
