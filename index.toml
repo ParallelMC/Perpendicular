@@ -253,10 +253,6 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "f03f873b21efa44d906a691800c796a150f3aba77b9620289d2348590b83c7f4"
 
 [[files]]
-file = "mmc-export.toml"
-hash = "eeb3a9b14a441baca4d4fb2725cdb6fc57973810ec82bcf059d5734f243cf493"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
@@ -864,11 +860,6 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e932f7abbc799791d19e9bb6dba0dacf5ed75ef165911bf375cf584141c657d8"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "ce5b6e5f46fe0386b0a1c6e7aa2e811d45ff9eaa36b8ede42678939ee86de8eb"
 metafile = true
 
 [[files]]
