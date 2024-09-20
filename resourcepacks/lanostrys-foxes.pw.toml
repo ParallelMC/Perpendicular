@@ -1,0 +1,13 @@
+name = "Lanostry's foxes"
+filename = "lanostry_foxes.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c225eaa293497013468eb6a23ad33643d9d1e174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5531142
+project-id = 1050788

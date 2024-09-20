@@ -1,0 +1,13 @@
+name = "Wesley's Roguelike Dungeons"
+filename = "Wesley's Roguelike Dungeons 1.20.1-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12656e2ff55da79185ff51d6a2a5076889892948"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4986483
+project-id = 332234

@@ -1,0 +1,13 @@
+name = "Detailed Animations"
+filename = "DetailedAnimationsReworkedXJustExpressions - 1.14 R.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9pR04wDX/versions/Go9InwGi/DetailedAnimationsReworkedXJustExpressions%20-%201.14%20R.zip"
+hash-format = "sha512"
+hash = "77b00a564d0f895603b1651c883c79db3ab1ec4fb76926455246a8d40790aca987f2df6becfa52cad5876fa068bc8a2da1729e37dbb8ca38a115faa78c88fce2"
+
+[update]
+[update.modrinth]
+mod-id = "9pR04wDX"
+version = "Go9InwGi"
