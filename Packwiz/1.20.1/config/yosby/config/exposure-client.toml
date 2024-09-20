@@ -1,0 +1,4 @@
+
+[UI]
+	#Photographer name will be shown in Photograph's tooltip.
+	PhotographPhotographerNameTooltip = true
