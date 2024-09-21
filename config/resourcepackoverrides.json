@@ -1,0 +1,22 @@
+{
+    "schema_version": 2,
+    "default_packs": [
+        "file/DetailedAnimationsReworkedXJustExpressions - 1.14 R.zip",
+        "file/FreshAnimations_v1.9.2.zip",
+        "file/Splendous Sniffers.zip",
+        "file/lanostry_foxes.zip",
+        "file/Updated_Engineering_v1.7.zip",
+        "file/updated_aquaculture-1.0.zip",
+        "file/Aether Regenerated v1.2.1.zip"
+    ],
+    "default_overrides": {
+        "force_compatible": true
+    },
+    "required_packs": [
+        "file/Splendous Sniffers.zip",
+        "file/lanostry_foxes.zip"
+    ],
+    "$$required_packs": {
+        "required": true
+    }
+}

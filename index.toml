@@ -62,11 +62,11 @@ hash = "950cdae0262dff23a0397cb7896eff04f3f9d665271386776ece980e69c2350e"
 
 [[files]]
 file = "config/fml.toml"
-hash = "0f9288c07c2b5f5f1664f39e58ccda1a6267c08620ffb4dd5427b2dd6877d273"
+hash = "845926b0fad854b5dfccc8005e6a65fbf183fc465fd0ba8060101fe56c558ad8"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "a3fd6f887e4321019fbb99cbafd2eb5e14e3cb5c5b8ebd8cd3faa68c7572f92a"
+hash = "613d60015c3671d95f59f4ce70c0b9956c377a3050219560d0b824cd1e9648b7"
 
 [[files]]
 file = "config/forgery/features.ini"
@@ -95,6 +95,10 @@ hash = "29fcdd3b18a2a318be06aa0c26aeec8e7dd1ba8cd578d729fd50f8f66e655a4b"
 [[files]]
 file = "config/rats-common.toml"
 hash = "f0144087d7c3b42e05097109d47d220900c4cef865ad8afe75d37cbc2b70ec00"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "4ebbf740c0ff67642f253023f867c2640454574b8ed0ed77688e49e983f1169b"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
@@ -181,12 +185,8 @@ file = "config/yosby/config/oculus.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
 [[files]]
-file = "config/yosby/config/options.txt"
-hash = "522170be22f840571a2726d56c4b026036a51f4199b960cb0fc93ed589838788"
-
-[[files]]
 file = "config/yosby/config/personality-client.toml"
-hash = "4e3e4811274abac110ee67e89e12b8e3925ff45cf81f60b688b5dba0e3a0b496"
+hash = "975b7803479989f2f158917a542ffd5e0d7b7ce7c0ca8116e801086710cbd82b"
 
 [[files]]
 file = "config/yosby/config/shulkerboxtooltip.json5"
@@ -223,6 +223,10 @@ hash = "f50e212d10dd3b23aa0bbebaaa7a8108a630e6b7e1f33e4b1e53b115344903e2"
 [[files]]
 file = "config/yosby/config/zume.json5"
 hash = "6e478dd748af2e6d1ea234dec8af16776bea72ec9dcf51b2562852cdd4a4c950"
+
+[[files]]
+file = "config/yosby/options.txt"
+hash = "96d1c3df0593ccc4a450ad233dcb14943978477882f00c75b24a76e722483b57"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
@@ -520,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
 metafile = true
 
 [[files]]
@@ -1410,6 +1419,11 @@ metafile = true
 [[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "53e37bfb8b489847eaf10f0303046c4bb098ade9e3bb8b8ef262dad31a98bd8e"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "e6958cb835e0e110d78eee6efa68f2c3cd0fde36161d5a705556964b93a6f959"
 metafile = true
 
 [[files]]
