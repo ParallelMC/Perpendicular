@@ -226,7 +226,7 @@ hash = "6e478dd748af2e6d1ea234dec8af16776bea72ec9dcf51b2562852cdd4a4c950"
 
 [[files]]
 file = "config/yosby/options.txt"
-hash = "96d1c3df0593ccc4a450ad233dcb14943978477882f00c75b24a76e722483b57"
+hash = "21c3a31225c8637a2e64a033b2462a2d0790bf57b188ef70e0620b9e5644fb91"
 
 [[files]]
 file = "defaultconfigs/cofh_core-server.toml"
