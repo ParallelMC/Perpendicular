@@ -720,11 +720,6 @@ hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true
 
 [[files]]
-file = "mods/dawn-of-time.pw.toml"
-hash = "c2b18788f2baea34c91a5ce7c7e2f888be4bfe65b9ef42811c00c8d87b058589"
-metafile = true
-
-[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "6ca2ffc95ff19d972d0a73cb93e314ac2f016dd0325def70791e731d2ee5851a"
 metafile = true
