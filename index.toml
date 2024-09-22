@@ -1370,6 +1370,11 @@ hash = "6cc25b6d76c344418c2e5b6aca3fbe79b72336ce114ee2cad99c8316ba22d960"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "27ad4bffaba1b21dbb4a7d3208d3a7f1bd6d16540d8376659774fe696f05a865"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "71bdf7a2baf2b49de4292b8a0ff48419119b0a9bbf1c06d4f8dd92fd97fe6416"
 metafile = true
@@ -1492,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "9048fa8d3c08b8ed2056b95936b056cc588f714f5492ffbf7c03046802c669ae"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "e7caecf5abde0fb5e410ec4f1ef2af76ce1eef2624679f46191704e983c9a7ad"
 metafile = true
 
 [[files]]
