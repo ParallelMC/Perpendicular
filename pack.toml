@@ -1,12 +1,12 @@
 name = "Perpendicular"
 author = "Diamondback88"
-version = "Alpha-1.0.0"
+version = "Alpha 1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7dda1843361e66cf060a5a04782c59c2e6e503c117995c67724ff1b8f7b39122"
+hash = "6ada78c68f409dd99bc20b67ca26dc9ed2a101f7315fe6efff4d2947c8168ba9"
 
 [versions]
 forge = "47.3.0"
