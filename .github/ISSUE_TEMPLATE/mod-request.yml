@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Before requesting a mod, [please search](https://github.com/ParallelMC/Perpendicular/issues) to make sure it hasn't already been requested. Also, if you want to pitch your mod idea to others, head to the ParallelMC [Discord server!](https://discord.parallelmc.org)
+      Before requesting a mod, [please search](https://github.com/ParallelMC/Perpendicular/issues) to make sure it hasn't already been requested. Also, if you want to pitch your mod idea to others, head to the [ParallelMC Discord server!](https://discord.parallelmc.org)
 
 - type: input
   attributes:
