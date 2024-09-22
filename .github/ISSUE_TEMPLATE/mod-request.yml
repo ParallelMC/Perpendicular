@@ -19,7 +19,7 @@ body:
   attributes:
     label: Compatibility Confirmation
     options:
-      - label: This mod is compatible with Forge 1.20.1.
+      - label: This mod is compatible with Forge 1.20.1. If it isn't, I should close this mod request or request a similar mod that is compatible.
         required: true    
 
 - type: textarea
