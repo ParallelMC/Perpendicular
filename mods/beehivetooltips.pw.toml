@@ -1,6 +1,6 @@
 name = "[Forge/NeoForged/Fabric] BeehiveTooltips"
 filename = "beehive-tooltips-forge-1.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

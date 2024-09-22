@@ -1,6 +1,6 @@
 name = "Lanostry's foxes"
 filename = "lanostry_foxes.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

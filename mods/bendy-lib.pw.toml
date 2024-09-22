@@ -1,6 +1,6 @@
 name = "bendy-lib"
 filename = "bendy-lib-forge-4.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

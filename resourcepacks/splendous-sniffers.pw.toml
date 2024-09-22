@@ -1,6 +1,6 @@
 name = "Splendous Sniffers"
 filename = "Splendous Sniffers.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
