@@ -134,7 +134,7 @@ hash = "262458a29fb01819e1e0a22fe8fed3f06eb78b9b917fd8cdca7f69ac92c2a7c0"
 
 [[files]]
 file = "config/yosby/config/ambientsounds-client.json"
-hash = "ba99fdddbd72fa150d1d83135b22c8cb5e048b90d633b8ea323f0a799dbae5eb"
+hash = "76e82e8b170d7023601be164c1436d275278b8ce3426f30b8f4cd6553b6bb959"
 
 [[files]]
 file = "config/yosby/config/betteradvancements-client.toml"
