@@ -130,11 +130,11 @@ hash = "4e476ed5148f75d4e0fa1030dafcc21930bb970c186a4f7d3064229183fc4413"
 
 [[files]]
 file = "config/yosby/config/aether_redux_client.toml"
-hash = "262458a29fb01819e1e0a22fe8fed3f06eb78b9b917fd8cdca7f69ac92c2a7c0"
+hash = "7e4549093a5c697ca19b6c5637a6a10d0d1fe328aa1ae618e640ed4b72cd95f3"
 
 [[files]]
 file = "config/yosby/config/betteradvancements-client.toml"
-hash = "5ed21a9da34e9e42be363e60cc9af942d38cc2ba328adc4b182cbf672c5b3935"
+hash = "1ecba87b0813f507046abe6d8466363da557d52ee28deb8454306b0a01b04b81"
 
 [[files]]
 file = "config/yosby/config/betterf3.toml"
