@@ -130,7 +130,11 @@ hash = "4e476ed5148f75d4e0fa1030dafcc21930bb970c186a4f7d3064229183fc4413"
 
 [[files]]
 file = "config/yosby/config/aether_redux_client.toml"
-hash = "262458a29fb01819e1e0a22fe8fed3f06eb78b9b917fd8cdca7f69ac92c2a7c0"
+hash = "7e4549093a5c697ca19b6c5637a6a10d0d1fe328aa1ae618e640ed4b72cd95f3"
+
+[[files]]
+file = "config/yosby/config/ambientsounds-client.json"
+hash = "275f5137560a48b9c4cda284d92daa7f54e45a69d51172c208aaed26fd65b3ec"
 
 [[files]]
 file = "config/yosby/config/betteradvancements-client.toml"
@@ -138,7 +142,7 @@ hash = "1ecba87b0813f507046abe6d8466363da557d52ee28deb8454306b0a01b04b81"
 
 [[files]]
 file = "config/yosby/config/betterf3.toml"
-hash = "bb00e42916bc57e39478a48929879e8c3b905dc697da644a10ffde6e90155d40"
+hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
 
 [[files]]
 file = "config/yosby/config/bobby.toml"
@@ -146,7 +150,7 @@ hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
 
 [[files]]
 file = "config/yosby/config/emotecraft.json"
-hash = "29c8e3ff81fac301b4e104385d763f484d8a2c26329d9700cb9e079c519bca16"
+hash = "9ec7b86143996d1dc0e4573453096a2da5e9f0c1370d19ef0872692cc1e3f729"
 
 [[files]]
 file = "config/yosby/config/enchdesc.json"

@@ -1,3 +1,4 @@
 [Internal]
+	#Internal value to do menu changes. Set this to false in modpacks if you want to use your own menu.
 	"First Startup - Menu Setup" = false
 
