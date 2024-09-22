@@ -1,6 +1,6 @@
 name = "Prometheus"
 filename = "prometheus-forge-1.20.1-1.2.5.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
