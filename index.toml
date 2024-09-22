@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d1b283363d1599ea3900400275b3405362bfe062b03f7d15346aaec5a7e1671e"
+hash = "0aefabc3993c780f44f02e6e88b7acdba7ea5f6f7b5f1be760246bfdc3d99749"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0cb00c8e3e1e70e5d6a96ff83f6d7737b789a48e1b184c02066d1ee497a9e391"
+hash = "37705a0bc0cd03ca5dc10f99d6ffac19cd99d6518686e00895ff4293eac7e35f"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "bb1e19411760131d3a45f20805a917a75124c80e73a2083d4c1b1965badb14a4"
+hash = "f7c4bd36e1c3e7a9d18909d05b3dee3969b48949f322900bb6cd2933b91f4bcb"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "5c7c4b36c5f55ab35da64788cbc951eeca254d7d2388ddd5e9cf5a9776e44a93"
+hash = "dbdc15d628ed497beef7ea9ddbb60cc9c3ae1d07d73824c22b3b7d030490577b"
 metafile = true
 
 [[files]]
