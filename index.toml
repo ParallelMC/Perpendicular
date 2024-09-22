@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn-of-time.pw.toml"
-hash = "884ca5ecaf72ca31258e0fc7d4801d5c3bd2658e2c059d1bd1ae8be372e70278"
+hash = "c2b18788f2baea34c91a5ce7c7e2f888be4bfe65b9ef42811c00c8d87b058589"
 metafile = true
 
 [[files]]
