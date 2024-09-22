@@ -980,11 +980,6 @@ hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook-mod.pw.toml"
-hash = "e0607c5e42eb3e9e9f535e4a71392261f3a9ee4f6f84850d5490ff48f82f1ca8"
-metafile = true
-
-[[files]]
 file = "mods/hellions-sniffer.pw.toml"
 hash = "b4a2350e44ce6b407c337fe70b3cb34315ae12ed515b3487ff64b2b6223f88d4"
 metafile = true
