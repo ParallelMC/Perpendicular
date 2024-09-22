@@ -150,7 +150,7 @@ hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
 
 [[files]]
 file = "config/yosby/config/emotecraft.json"
-hash = "9ec7b86143996d1dc0e4573453096a2da5e9f0c1370d19ef0872692cc1e3f729"
+hash = "be446dabb065073a720325262845a5ba16828c623817c42e39a81fb64b827cda"
 
 [[files]]
 file = "config/yosby/config/enchdesc.json"
@@ -194,7 +194,7 @@ hash = "975b7803479989f2f158917a542ffd5e0d7b7ce7c0ca8116e801086710cbd82b"
 
 [[files]]
 file = "config/yosby/config/shulkerboxtooltip.json5"
-hash = "417050492aed51c7056ef3d7af1610ddfc5d00743ec8a7c329926a7e90e611d6"
+hash = "625f185b95cd1256b69b36a289756b4ba1f79c4e68a7b0c8ab906b39a2ac49f7"
 
 [[files]]
 file = "config/yosby/config/sleep_tight-client.toml"
