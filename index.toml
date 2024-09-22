@@ -133,12 +133,8 @@ file = "config/yosby/config/aether_redux_client.toml"
 hash = "262458a29fb01819e1e0a22fe8fed3f06eb78b9b917fd8cdca7f69ac92c2a7c0"
 
 [[files]]
-file = "config/yosby/config/ambientsounds-client.json"
-hash = "76e82e8b170d7023601be164c1436d275278b8ce3426f30b8f4cd6553b6bb959"
-
-[[files]]
 file = "config/yosby/config/betteradvancements-client.toml"
-hash = "3e818046a3ccfb04213dcfc10925c136e8674cfe06fcf08ed30111fca8330ee0"
+hash = "5ed21a9da34e9e42be363e60cc9af942d38cc2ba328adc4b182cbf672c5b3935"
 
 [[files]]
 file = "config/yosby/config/betterf3.toml"
