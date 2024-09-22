@@ -40,7 +40,7 @@ body:
   attributes:
     label: Confirm
     options:
-      - label: This bug report is about an issue with the modpack itself. I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue in the \#perpendicular channel in the ParallelMC [Discord server.](https://discord.parallelmc.org)
+      - label: This bug report is about an issue with the modpack itself. I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue in the \#perpendicular channel in the [ParallelMC Discord server.](https://discord.parallelmc.org)
         required: true
     
 - type: textarea
