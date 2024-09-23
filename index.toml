@@ -1150,6 +1150,11 @@ hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
+metafile = true
+
+[[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
 hash = "5bdb68030b5251475a27b1643b5cfec1eaaedacd44be643f108128bd76ee1c80"
 metafile = true
@@ -1357,11 +1362,6 @@ metafile = true
 [[files]]
 file = "mods/progressive-bosses.pw.toml"
 hash = "6cc25b6d76c344418c2e5b6aca3fbe79b72336ce114ee2cad99c8316ba22d960"
-metafile = true
-
-[[files]]
-file = "mods/prometheus.pw.toml"
-hash = "fe22cdeb0e43e7c55b0fb951bb897e097a7e53a40a2b95ace35a9d66537542bd"
 metafile = true
 
 [[files]]
