@@ -49,6 +49,10 @@ file = "config/creeperoverhaul.jsonc"
 hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 
 [[files]]
+file = "config/crossroads-server.toml"
+hash = "7afc8a5f5fc8e8348eebf1e653f6a65f1c72d946fde65200b7b73696a12bd693"
+
+[[files]]
 file = "config/dimdoors-config.json5"
 hash = "0df910f2ca96fa86fdd48288ec42f42f3a01b13be9fe1477c08f60b87c36de3d"
 
