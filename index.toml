@@ -470,11 +470,6 @@ hash = "192b4e3d282f8fb2b64de240e470a1f53c8b0b7a5b2a2a2f3d04c9fcfabb6334"
 metafile = true
 
 [[files]]
-file = "mods/bobby-reforged.pw.toml"
-hash = "c91d2c1a31238bbff9a84b119ecdb77f7673d578c6b68ea324e72c4e65b016a4"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -882,6 +877,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
 metafile = true
 
 [[files]]
