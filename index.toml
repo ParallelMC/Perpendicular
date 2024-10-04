@@ -290,6 +290,11 @@ hash = "6d3b191ea57c15c4f90ff5963cd6c0731a0c590fc066b1ef1d40b0671ac6460c"
 metafile = true
 
 [[files]]
+file = "mods/aether-lootr-compat.pw.toml"
+hash = "c1458cd373bdda6442cec7e314c29360b34f54eef969fde343319185e9dd16f3"
+metafile = true
+
+[[files]]
 file = "mods/aether-lost-content.pw.toml"
 hash = "0093665794d9745c4d0529f78694aad2c852f31ea0e8f8cdc2fdc0d42ab86ca6"
 metafile = true
@@ -527,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "b7b5d139282c441057c253e1d01d8333ed22b377a75242edac5c78bb26907ab2"
+metafile = true
+
+[[files]]
+file = "mods/cc-vs.pw.toml"
+hash = "a1135cfbd16a383627318aaa7b4676f7576224ccfa46df656eba4839031b3fcc"
 metafile = true
 
 [[files]]
@@ -1741,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "0604af4500f5e7ea46e38f7faef3459023c305b3155eacbf406e600073f643d9"
+hash = "d0d14c38427cf19c6f1244d4a6a0d05ad1a3d22d9f8b4f0eb083cef7f2ad407d"
 metafile = true
 
 [[files]]
@@ -1787,6 +1797,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "d48200a73fc05992c86bc1ec2ffd0bcf3d49f9f4cd7fc0bbc9a1599e686a47a7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "f328e47f0d6885c0bd947ec5e442eed31c07b48e4fde59faf81702ee7a5ab00c"
 metafile = true
 
 [[files]]
