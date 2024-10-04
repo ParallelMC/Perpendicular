@@ -26,7 +26,7 @@ hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2053ab18e4833ecf999fb5d031109c6cb27a811c7e367345e0e8993763f446ec"
+hash = "573f223eca94a400bc1502e219f95f23ef9eb46b8197713dbc72a8f62fb6015b"
 
 [[files]]
 file = "config/betternethermap-common.toml"
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether-lootr-compat.pw.toml"
-hash = "c1458cd373bdda6442cec7e314c29360b34f54eef969fde343319185e9dd16f3"
+hash = "9cbb41d903eceac42a9139c7839c58da8deff39e50cb2de442cc18ea478e0184"
 metafile = true
 
 [[files]]
