@@ -45,6 +45,10 @@ file = "config/configured-client.toml"
 hash = "1a3677c27a5e93fb382b12956cafb772f92bfbb375c18544fa3353b2abdc2d75"
 
 [[files]]
+file = "config/corgilib/announcement_config.json5"
+hash = "98556de3804a7d3285b9123aacbd68e58fa1541b201abe624fc565d301c1719f"
+
+[[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 
