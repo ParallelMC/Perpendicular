@@ -26,7 +26,7 @@ hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "573f223eca94a400bc1502e219f95f23ef9eb46b8197713dbc72a8f62fb6015b"
+hash = "00eded289e25a3b0839b982027a53288be707266b7ddf2640571ebfa93c996dd"
 
 [[files]]
 file = "config/betternethermap-common.toml"
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-caves.pw.toml"
-hash = "6beb1d0a4f6d842e107ee4dc4affe810b013ae2cdea91a1d35ad0266cb457804"
+hash = "6f864eef65f9a38f57eb0cc6fc71469b36ea70444a10c3e27502d617c5eaf917"
 metafile = true
 
 [[files]]
