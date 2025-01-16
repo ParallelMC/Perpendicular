@@ -1,0 +1,13 @@
+name = "Destroy (Create add-on)"
+filename = "destroy-1.20.1-0.1.0-snapshot-11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uY7EYHum/versions/7OBfApaZ/destroy-1.20.1-0.1.0-snapshot-11.jar"
+hash-format = "sha512"
+hash = "11fd47259b53e342c03df195efad8c0bbd46313424fe874cc6f19b4aaf77bcd32c52b9b7dce29dcd0c3d1293ff47bd0db354350e4defb8487ba5097bdbcde5f9"
+
+[update]
+[update.modrinth]
+mod-id = "uY7EYHum"
+version = "7OBfApaZ"

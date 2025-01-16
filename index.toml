@@ -53,10 +53,6 @@ file = "config/creeperoverhaul.jsonc"
 hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 
 [[files]]
-file = "config/destroy-client.toml"
-hash = "cdf8f9249fa93cc55ceb24d45cf4ae6b9e54224877bb0aca47a736c360ca579a"
-
-[[files]]
 file = "config/dimdoors-config.json5"
 hash = "0df910f2ca96fa86fdd48288ec42f42f3a01b13be9fe1477c08f60b87c36de3d"
 
@@ -159,6 +155,10 @@ hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
 [[files]]
 file = "config/yosby/config/bobby.toml"
 hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
+
+[[files]]
+file = "config/yosby/config/destroy-client.toml"
+hash = "76b39cf655a4125afb153d99a49ace399ba0f373d84fa4dfd7933fab901f7db6"
 
 [[files]]
 file = "config/yosby/config/emotecraft.json"
@@ -719,6 +719,11 @@ metafile = true
 [[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "6ca2ffc95ff19d972d0a73cb93e314ac2f016dd0325def70791e731d2ee5851a"
+metafile = true
+
+[[files]]
+file = "mods/destroy.pw.toml"
+hash = "a3f385b45e7573511deab7ce7faadf9db635bfcb156d09171b5b8e37aec43af5"
 metafile = true
 
 [[files]]
@@ -1319,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "baa01dee313f30743a8306dea4253e52975c2f36f04d9dbc9f982ad1686e9937"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "f0565200d7c4f12e00efad9fec7c4a87c559037a93b7cd8cc8418f188cb010c3"
 metafile = true
 
 [[files]]
