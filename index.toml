@@ -26,7 +26,7 @@ hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "8458200bbdfc84e1f447332a98e7b08725daf4b2c09474777286cc64550671f4"
+hash = "9ad3cf7aa07be537228888f057a7d5e398dcc18db04e6c74370cdea816783257"
 
 [[files]]
 file = "config/betternethermap-common.toml"
@@ -51,6 +51,10 @@ hash = "98556de3804a7d3285b9123aacbd68e58fa1541b201abe624fc565d301c1719f"
 [[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
+
+[[files]]
+file = "config/destroy-client.toml"
+hash = "cdf8f9249fa93cc55ceb24d45cf4ae6b9e54224877bb0aca47a736c360ca579a"
 
 [[files]]
 file = "config/dimdoors-config.json5"
@@ -155,10 +159,6 @@ hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
 [[files]]
 file = "config/yosby/config/bobby.toml"
 hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
-
-[[files]]
-file = "config/yosby/config/destroy-client.toml"
-hash = "f88eaa8f836d473cd144a1ffdfb594c300c725908cd90d5202c9db777a973f3f"
 
 [[files]]
 file = "config/yosby/config/emotecraft.json"
