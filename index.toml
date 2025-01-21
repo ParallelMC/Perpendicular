@@ -26,7 +26,7 @@ hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "9ad3cf7aa07be537228888f057a7d5e398dcc18db04e6c74370cdea816783257"
+hash = "4182eff92541715d1aa67a63d61f7cfc4556676a874e8912591d8965eb3b8a0b"
 
 [[files]]
 file = "config/betternethermap-common.toml"
