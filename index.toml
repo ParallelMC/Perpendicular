@@ -93,6 +93,10 @@ file = "config/notenoughanimations.json"
 hash = "e82aed56a645b66f51b804077fb17b02539c2728c9e2bfa7ca8eacf5fd41f5e3"
 
 [[files]]
+file = "config/observable.json"
+hash = "ff5fabd401a990ac21cb95d06608427d080a4371e24a177fb113f2d03bc1dca0"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "29fcdd3b18a2a318be06aa0c26aeec8e7dd1ba8cd578d729fd50f8f66e655a4b"
 
@@ -333,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "87b09eb7f4e82356400862f3e9dcfbe2dc5bdb04d19c35df12382242815e7c8b"
+hash = "e9a9096779dd21c783386d8ab91109064c013634c5eb89d7e5d5fdf2c2a35139"
 metafile = true
 
 [[files]]
@@ -417,6 +421,11 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "5a5864680935e720c4bf46baa39b72bd3edea1c4559335dcd3c652ef33e2c347"
+metafile = true
+
+[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "ac0e3e9b276e2f90b6223d3617c5e76aa7c002db2798d12d21e3886865d3aeed"
 metafile = true
@@ -459,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
+metafile = true
+
+[[files]]
+file = "mods/biggerreactors.pw.toml"
+hash = "2fd3dde1acdfa58ee1cd8e95930db1660cd061c1dc6388d05a7b3703c7c3b205"
 metafile = true
 
 [[files]]
@@ -747,6 +761,11 @@ hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
 metafile = true
@@ -824,11 +843,6 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "7e9f418a9012dc32a7d804b0eccea148afd6605829ed13536089ad190800c132"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "db24e053442fe37bee661829152d3e88fe4921683de4a2eca63a4ddc6605bb55"
 metafile = true
 
 [[files]]
@@ -1332,6 +1346,11 @@ hash = "f0565200d7c4f12e00efad9fec7c4a87c559037a93b7cd8cc8418f188cb010c3"
 metafile = true
 
 [[files]]
+file = "mods/phosphophyllite.pw.toml"
+hash = "bb8b27c977410a8c66eb0f1ea205798d010e4a875e25d9b288e4cb56e8cb0b3d"
+metafile = true
+
+[[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "292699d112b82cf020654cad8ffae85cc6d47e5fa0f81e3b2619b93ddbc22309"
 metafile = true
@@ -1384,6 +1403,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
+metafile = true
+
+[[files]]
+file = "mods/quartz.pw.toml"
+hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
@@ -1493,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9048fa8d3c08b8ed2056b95936b056cc588f714f5492ffbf7c03046802c669ae"
+hash = "0bcbce26618836400069f0f80acc73b4a709a1f5fb70ed65697cbaa00254a576"
 metafile = true
 
 [[files]]
