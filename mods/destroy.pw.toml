@@ -1,13 +1,13 @@
 name = "Destroy (Create add-on)"
-filename = "destroy-1.20.1-0.1.0-snapshot-11.jar"
+filename = "destroy-1.20.1-0.1.0-snapshot-16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uY7EYHum/versions/7OBfApaZ/destroy-1.20.1-0.1.0-snapshot-11.jar"
+url = "https://cdn.modrinth.com/data/uY7EYHum/versions/yRsxzGji/destroy-1.20.1-0.1.0-snapshot-16.jar"
 hash-format = "sha512"
-hash = "11fd47259b53e342c03df195efad8c0bbd46313424fe874cc6f19b4aaf77bcd32c52b9b7dce29dcd0c3d1293ff47bd0db354350e4defb8487ba5097bdbcde5f9"
+hash = "d8187e92d5f6e97e7cc22799331451f39a4f9ea2eb74c8e71a0cb449164291f827ed1d37b3fbe3630b0e32234504e8948562c984e8bfd2801812f93899226f6b"
 
 [update]
 [update.modrinth]
 mod-id = "uY7EYHum"
-version = "7OBfApaZ"
+version = "yRsxzGji"
