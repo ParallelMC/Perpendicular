@@ -1,0 +1,20 @@
+#.
+#The buttons to open Destroy's configurations which appear on the main menu and pause menu
+[buttonPositions]
+
+	#.
+	#.
+	[buttonPositions."Main Menu Button"]
+		#.
+		#Choose the menu row that the Destroy config button appears on in the main menu
+		#Set to 0 to disable the button altogether
+		#Range: 0 ~ 4
+		mainMenuConfigButtonRow = 0
+
+	#.
+	[buttonPositions."Pause Menu Button"]
+		#.
+		#Choose the menu row that the Destroy config button appears on in the pause menu
+		#Set to 0 to disable the button altogether
+		#Range: 0 ~ 5
+		ingameMenuConfigButtonRow = 0

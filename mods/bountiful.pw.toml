@@ -1,13 +1,13 @@
 name = "Bountiful"
-filename = "Bountiful-6.0.3+1.20.1-forge.jar"
+filename = "Bountiful-6.0.4+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ec42b8789b43bb71787c350a55e8e879d645c797"
+hash = "3627112f17aeef9018d98883a2469e7f90afc3c4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4650415
+file-id = 5937417
 project-id = 309516

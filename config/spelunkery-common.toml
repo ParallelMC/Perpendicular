@@ -3,8 +3,8 @@
 	#Range: 0 ~ 128
 	diamond_grindstone_deplete_chance = 20
 	enable_rough_gems = false
-	enable_raw_nuggets = false
-	spelunkery_creative_tab = false
+	enable_raw_nuggets = true
+	spelunkery_creative_tab = true
 	#Range: 0 ~ 128
 	parachute_opening_delay = 10
 	enable_mores = true
@@ -52,8 +52,8 @@
 	portal_fluid_drinking = true
 	instant_teleportation = true
 	piglins_give_crying_obsidian = true
-	dimensional_tears_from_crying_obsidian = false
+	dimensional_tears_from_crying_obsidian = true
 	dimensional_tears_from_respawn_anchor = true
-	portal_fluid_ocean = true
+	portal_fluid_ocean = false
 	end_ocean_bucketable = false
 
