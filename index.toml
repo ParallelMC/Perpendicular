@@ -1746,11 +1746,6 @@ hash = "924fda6f18c3a9629d442123ef211c601564d7f0923c85e418a15d1370dc61e7"
 metafile = true
 
 [[files]]
-file = "mods/woodworks.pw.toml"
-hash = "bd3e31f8c53d1e7ed9c1c513d1749c0e28b5c25b5fa07000b69242e9f322a786"
-metafile = true
-
-[[files]]
 file = "mods/wrd.pw.toml"
 hash = "f16bd24882307a9e4b3370d7ff4f2ff220f8dde3480a7f3bf32be39bc70c27af"
 metafile = true
