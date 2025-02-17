@@ -1157,6 +1157,11 @@ hash = "502589e30f5f931419a81caddf421a9b64e482c54d3d1ab27ba0f830287a2d32"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "3e009722a949ae7fccdbb1cc101fb43fda295022f4f56a3382c158c682597386"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
@@ -1714,6 +1719,11 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "f4d5af0d5ea461934bbcbc2d1657306803db3986105d2029173e4f096e1281c4"
+metafile = true
+
+[[files]]
+file = "mods/vibrative-voice.pw.toml"
+hash = "45940f6b99900cbf15ce9b7b014e9a980f83a7b4b708c402f3dcd97e6ebcbd93"
 metafile = true
 
 [[files]]
