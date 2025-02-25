@@ -1,4 +1,0 @@
-#Controls if item tooltips should contain the tags names of items. These tooltips are only visible in advanced tooltip mode (F3+H)
-tagTooltips = false
-#Set this to false to hide the update news in the manual
-showUpdateNews = false

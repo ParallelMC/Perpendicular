@@ -197,10 +197,6 @@ file = "config/yosby/config/figura.json"
 hash = "4c41984587658bee6d881af99f64458a58edf4d9a8665f5d2be5bffd43a100c2"
 
 [[files]]
-file = "config/yosby/config/immersiveengineering-client.toml"
-hash = "70f2198bb1e80bec6335034bd65414d57605a3501c43e5c88a655d8e475185ac"
-
-[[files]]
 file = "config/yosby/config/jade/jade.json"
 hash = "179ed745dc57f576eba02c23749ef3eb422073dc6583900dd48fe91cfbd5dd64"
 
