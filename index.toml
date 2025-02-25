@@ -93,6 +93,10 @@ file = "config/immediatelyfast.json"
 hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
 
 [[files]]
+file = "config/immersive_optimization.json"
+hash = "046e4a41dde319ef94670c8847b923dea953633cbf85d1012f9b5aed28fb499f"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
@@ -289,6 +293,11 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "f03f873b21efa44d906a691800c796a150f3aba77b9620289d2348590b83c7f4"
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "2aa8ec6a3cab2c9d7cbc728bbde3364c4f36cc8c71b7527cd683edfb59cb6f5a"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "5c19a17173b9a7e9932e0ca44691cdd59f95c4faa5faa309a41684e97673dfba"
 metafile = true
@@ -301,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "b0c61413cc2dd7fca52014fa070c40aa478dc9007dc7a94330b97f1be7827bd5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "6a3dc5fdb55d7a17c6ad61f788ae28cee197c73dfc0beac77324b618cd38f9b8"
 metafile = true
 
 [[files]]
@@ -384,6 +398,11 @@ hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics-addon.pw.toml"
+hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "c6cef4430ac97995e435b526f54876ade62e57a5a5b5d9f740760fc4026349cf"
 metafile = true
@@ -406,6 +425,31 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "f21c4e0ad9099df15ca3000c9b3e52d902451f5689ecdcc203f6a1fd9691acd1"
+metafile = true
+
+[[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "0bc8fe3b019589fd473d9c1aacd1b5108fa7b2ee8bf9d0521158f950291c3dee"
+metafile = true
+
+[[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "7fd2cae6cdbdf609a729b64874a16fee503970417c8c26aacc9908ad0253b076"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "b4cc8e095b7f51683e7938042c97cae5a281fa353a4fb421a8182b39de08825f"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "fe693ae80d95c3b06c0c91285417bf58d13e1e1d69496d35224dbf0002d54476"
 metafile = true
 
 [[files]]
@@ -491,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "a158256854c35f7655d531929258a29f1a410214e613af5ba232c4ba49b85f22"
 metafile = true
 
 [[files]]
@@ -649,6 +698,11 @@ hash = "f5da0bd02c69394b819a539587c807f57bc373ea52f9db814c6ffb8f80f5eb73"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity.pw.toml"
+hash = "39fc70ada6da75706190a552190ef37e0707d15c6126abdf48baecb3b7359c13"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
 metafile = true
@@ -676,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "ebf402b07f881c81c04dad51f2b7780d7f98bc03b9be811777c81714958f1faa"
 metafile = true
 
 [[files]]
@@ -879,6 +938,11 @@ hash = "83e74ad407f51b12d1dd2f477323fbb012e03c50b7921416674329e5265d09a4"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "465a08b94fd481587895e2f23725ed7d62a88a8df9274a15dd647c648e21b63e"
+metafile = true
+
+[[files]]
 file = "mods/experienced-crops.pw.toml"
 hash = "8b13f533ec44e4cad19240d5235cc120346a1e3c3ea9cd5c5e97e324345fded2"
 metafile = true
@@ -994,6 +1058,11 @@ hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "688e9b736298e1d1b31731a8e76455198bfb686e8f7ac40310ff1cb0dd65612a"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "1be92368ec20f1f493c46ad2afdccd1caf3bf605f54862d8badd3f25c9729df0"
 metafile = true
@@ -1009,8 +1078,18 @@ hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
 file = "mods/hellions-sniffer.pw.toml"
 hash = "b4a2350e44ce6b407c337fe70b3cb34315ae12ed515b3487ff64b2b6223f88d4"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
@@ -1021,6 +1100,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "600d67f2aca5df16c7cc4526583f852b569049cd052beb9efc465cbe247c0d64"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "fd729f238b96f0db94e161e1344b082d6812580144e765adccaf7e7fae0d58e6"
 metafile = true
 
 [[files]]
@@ -1046,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "3e53a00faa4c4b7a182fef776a740bc6df256b81a4ec77b299363e1dda62813a"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "4e048739341eb32c3e1847598e3710de189b53de636df8b63ea69f4db2c0e483"
 metafile = true
 
 [[files]]
@@ -1204,6 +1293,11 @@ hash = "bd52722f1417e24a4acee3bf4fc59c5bf074627f7aaaaf8fd33056c7ef170bc3"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "2e1e73a8c4cc02b3bff1084940a6c0a7156c8925d881f8d98fb0495e050c65d1"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "61bd195dce94baeb29f5ef15f1771807400f87d7da44138af1761fcd5b396e08"
 metafile = true
@@ -1341,6 +1435,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "a7c0ebd38acb25387eeb4e77ddf4f9e09ce0e03e1ce6e59758fe25e678250d02"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "8fd54c7041c3ee848f039f404783d584a8fe9c1d89825128f2638d0820f075b9"
 metafile = true
 
 [[files]]
@@ -1571,6 +1670,11 @@ metafile = true
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "c299b04f0f4433583caa76fd867684bb04373632e1663f288be2527e1875dbcb"
+metafile = true
+
+[[files]]
+file = "mods/some-more-blocks.pw.toml"
+hash = "631fc6b6e4999a412c14852992397f7cfb7173251c041826304c280f0caaa57b"
 metafile = true
 
 [[files]]
