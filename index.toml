@@ -5,8 +5,16 @@ file = "config/Obscuria/obscure-api-client.toml"
 hash = "978e952719c35724ffc46d0839646e5fa9eecfd268df41de0389da009a5ec80e"
 
 [[files]]
+file = "config/additionalplacements-client.toml"
+hash = "c819262648f654c566226e67e562c5481d0d8424197e8bf9fae73ba5975abe7c"
+
+[[files]]
 file = "config/additionalplacements-common.toml"
 hash = "7e77de175db39b18bc300e6bf2b61f7b47d7a0c562e349da06a61405b1f6b5c4"
+
+[[files]]
+file = "config/ae2/client.json"
+hash = "743a039266ee201f8a02fdf2f99c61f39aa9ea6744a8c5230094fb46abf87c7e"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -986,11 +994,6 @@ hash = "3de7e29cd28529757e0a09db7466b7d50b791ba4235de2f125a86921a5c60ea7"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "652b1469721f16b30e91c3936e56e985714cf68d3687cd0547846e806ce49c68"
-metafile = true
-
-[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "1be92368ec20f1f493c46ad2afdccd1caf3bf605f54862d8badd3f25c9729df0"
 metafile = true
@@ -1021,11 +1024,6 @@ hash = "600d67f2aca5df16c7cc4526583f852b569049cd052beb9efc465cbe247c0d64"
 metafile = true
 
 [[files]]
-file = "mods/immersive-engineering.pw.toml"
-hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
-metafile = true
-
-[[files]]
 file = "mods/incubation.pw.toml"
 hash = "0369534c917c40abad906a7087198ec286f543860a38b68453111a80ca755e2a"
 metafile = true
@@ -1042,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "6d7e035fcf702247656905b42bb9e4a13f51915650190f9b864088d117bbeada"
+hash = "3e815ed283875622d9b52e102b9e841b629d7c5d6dd4d0b5ab9cb12ca7cbecaf"
 metafile = true
 
 [[files]]
@@ -1446,16 +1444,6 @@ hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "46ea9007d32c553d56bfa1bbd8f070a99f1c82eeb8dbd326dc07df9512df41e3"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
-metafile = true
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "0fb014967acd6c2724313beefa286a1b72ed24a285377add8593a506fa73c30c"
 metafile = true
@@ -1628,11 +1616,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
@@ -1857,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/detailed-animations.pw.toml"
-hash = "c608c0110d11711e3295066b7929c4ae1a0296ac66e0c2ba04619a92f395e1d0"
+hash = "83c4c1d2842e1cd129a0ac8028bdcb3e0e228388cad3cd48db576257915b6998"
 metafile = true
 
 [[files]]
