@@ -1009,11 +1009,6 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "f962525c872e0e925ea0065fccf4efe99ed534c376003db5cf3f6e7faa6b09fb"
-metafile = true
-
-[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
 metafile = true
