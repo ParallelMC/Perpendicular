@@ -1,5 +1,5 @@
 name = "Fzzy Config"
-side = "client"
+side = "both"
 filename = "fzzy_config-0.6.4+1.20.1+forge.jar"
 
 [update.curseforge]
