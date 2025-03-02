@@ -130,7 +130,7 @@ hash = "a051b787c5a222db95e6d15b5ba9d6ce9b7619aaceca17983e770df3af3edc6d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "3d2bd24b5763c31453a0d53f2848005213e1cc6f6e5e964a8af763f518bf5c68"
+hash = "eff89385acec187d5780bb58c19ee7ceff9deb45113279447c8fd1c78deb360c"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
