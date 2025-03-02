@@ -1,0 +1,13 @@
+name = "Abnormally Fresh"
+filename = "Abnormally Fresh.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "933a87d2c4eab4a1296023c92c3e679b0a58ee15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6150999
+project-id = 1187826

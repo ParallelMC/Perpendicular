@@ -1,13 +1,13 @@
 name = "Detailed Animations"
-side = "client"
-filename = "DetailedAnimationsReworkedXJustExpressions - 1.14 R.zip"
+side = "both"
+filename = "DetailedAnimationsReworkedXJustExpressions - V1.15 PATCH.zip"
 pin = true
 
-[update.modrinth]
-mod-id = "9pR04wDX"
-version = "Go9InwGi"
+[update.curseforge]
+file-id = 6012723
+project-id = 1019617
 
 [download]
-hash-format = "sha512"
-url = "https://cdn.modrinth.com/data/9pR04wDX/versions/Go9InwGi/DetailedAnimationsReworkedXJustExpressions%20-%201.14%20R.zip"
-hash = "77b00a564d0f895603b1651c883c79db3ab1ec4fb76926455246a8d40790aca987f2df6becfa52cad5876fa068bc8a2da1729e37dbb8ca38a115faa78c88fce2"
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "05227b1366428af662aaea116749e92f9a4420c1"

@@ -1,13 +1,13 @@
 name = "The Bumblezone (NeoForge/Forge)"
-filename = "the_bumblezone-7.5.15+1.20.1-forge.jar"
+filename = "the_bumblezone-7.5.16+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65d09b0461105cb2c049cd7ef3de350007db827b"
+hash = "26d5e323558b7d62d6644164e732a0786785c732"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6229607
+file-id = 6241680
 project-id = 362479

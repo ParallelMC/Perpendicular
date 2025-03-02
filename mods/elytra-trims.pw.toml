@@ -1,0 +1,13 @@
+name = "Elytra Trims"
+filename = "elytratrims-forge-3.5.7+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d85792b2f36ee63abc24658183445fb4d54a9f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6193032
+project-id = 876199

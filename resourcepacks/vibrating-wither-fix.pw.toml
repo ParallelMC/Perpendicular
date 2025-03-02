@@ -1,0 +1,13 @@
+name = "Vibrating Wither Fix"
+filename = "Vibrating Wither Fix.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee058f6a5e69eab4e0a8774ea050d544eff29441"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4748038
+project-id = 746479

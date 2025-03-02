@@ -1,20 +1,32 @@
 {
     "schema_version": 2,
     "default_packs": [
-        "file/DetailedAnimationsReworkedXJustExpressions - 1.14 R.zip",
-        "file/FreshAnimations_v1.9.2.zip",
+        "file/FreshAnimations_v1.9.2.zip",	
+        "file/DetailedAnimationsReworkedXJustExpressions - V1.15 PATCH.zip",
+		"file/Abnormally Fresh.zip",
+		"file/FreshCompats_v1.6.zip",
+		"file/freshly-modded-1-5-10.zip",
+		"file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip",
+		"file/FA+Emissive-v1.2.zip",
+		"file/Vibrating Wither Fix.zip",		
+        "file/updated_aquaculture-1.0.zip",		
         "file/Splendous Sniffers.zip",
-        "file/lanostry_foxes.zip",
-        "file/Updated_Engineering_v1.7.zip",
-        "file/updated_aquaculture-1.0.zip",
-        "file/Aether Regenerated v1.2.1.zip"
+		"file/PS Shielded - Xaero Frame 1.0.0.zip",
+		"file/MobCrates_1.21.4_v2.zip",
+        "file/lanostry_foxes.zip",		
+        "file/Aether Regenerated v1.2.1.zip"		
     ],
     "default_overrides": {
         "force_compatible": true
     },
     "required_packs": [
+		"file/Vibrating Wither Fix.zip",		
+        "file/updated_aquaculture-1.0.zip",		
         "file/Splendous Sniffers.zip",
-        "file/lanostry_foxes.zip"
+		"file/PS Shielded - Xaero Frame 1.0.0.zip",
+		"file/MobCrates_1.21.4_v2.zip",
+        "file/lanostry_foxes.zip",		
+        "file/Aether Regenerated v1.2.1.zip"	
     ],
     "$$required_packs": {
         "required": true

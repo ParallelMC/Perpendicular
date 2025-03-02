@@ -1,0 +1,13 @@
+name = "LDShadowLady's Flower Breeding: Replanted"
+filename = "FlowerBreeding-Fabric-Neo-Forge-Quilt-1.20.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "092798fac0d9a994c5dc389ef8fa8cdf00b594d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4947945
+project-id = 850779
