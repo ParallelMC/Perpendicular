@@ -1468,6 +1468,11 @@ hash = "638e186b45ba62fc78a33f7483ab9c09f2276bf59f289fd48390e4432d0e54bd"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "165612664bf8ecd6f5d3ff6a6181293cc1233116f72c71c7a1cbb8c59aca1944"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "5dd8e869fbebed8abe7886fd28f1f192c420d3fefd9f714939c2a501d3a4a1af"
 metafile = true
