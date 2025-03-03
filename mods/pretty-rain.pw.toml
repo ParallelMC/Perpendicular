@@ -1,5 +1,5 @@
 name = "Pretty Rain"
-side = "client"
+side = "both"
 filename = "Pretty Rain-1.20.1-Forge-1.1.0.jar"
 
 [update.curseforge]

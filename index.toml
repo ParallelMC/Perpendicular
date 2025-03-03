@@ -130,7 +130,7 @@ hash = "a051b787c5a222db95e6d15b5ba9d6ce9b7619aaceca17983e770df3af3edc6d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "eff89385acec187d5780bb58c19ee7ceff9deb45113279447c8fd1c78deb360c"
+hash = "0e01a5c9bbf1d29206f600ecf91f914e06395c392c67acab62ff902180df8e54"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
@@ -1594,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "574ad04406e74533c0b80b6f5aae7ffce7fcc85866027f13ce2f192584ee678b"
+hash = "2aa0034053fac6f79cb965879dd492f2544a6391edcaa5a71b8cf26b8ba4422e"
 metafile = true
 
 [[files]]
