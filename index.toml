@@ -13,6 +13,10 @@ file = "config/additionalplacements-common.toml"
 hash = "7e77de175db39b18bc300e6bf2b61f7b47d7a0c562e349da06a61405b1f6b5c4"
 
 [[files]]
+file = "config/advancementframes-client.toml"
+hash = "6f150c2fa06c6c23a4c0146cfa911222d70192fa38dd5cadb50517116191e0c9"
+
+[[files]]
 file = "config/ae2/client.json"
 hash = "743a039266ee201f8a02fdf2f99c61f39aa9ea6744a8c5230094fb46abf87c7e"
 
@@ -69,6 +73,10 @@ file = "config/domestication-innovation.toml"
 hash = "331ddf98fc510ed2e4878aa6783e298b8614ce309c0a8ed86eac64b1c54605b9"
 
 [[files]]
+file = "config/dummmmmmy-common.toml"
+hash = "4593e67d665ff9c888543c9488548b060aecb48e4ed50ccd8dcfe5e2d52ae3f5"
+
+[[files]]
 file = "config/fallingleaves-client.toml"
 hash = "950cdae0262dff23a0397cb7896eff04f3f9d665271386776ece980e69c2350e"
 
@@ -89,12 +97,20 @@ file = "config/friendsandfoes.json"
 hash = "4b98288f2b06c241151325bbb48960d3404b9ddae2c741049ba39ab0e8a8f5e5"
 
 [[files]]
+file = "config/hauntedharvest-common.toml"
+hash = "529b12685a4176f1d1eecb0651da01bc5d9ae20264fd217707667f103ec07df1"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
 
 [[files]]
 file = "config/immersive_optimization.json"
 hash = "046e4a41dde319ef94670c8847b923dea953633cbf85d1012f9b5aed28fb499f"
+
+[[files]]
+file = "config/lmft.json"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -130,7 +146,7 @@ hash = "a051b787c5a222db95e6d15b5ba9d6ce9b7619aaceca17983e770df3af3edc6d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "0e01a5c9bbf1d29206f600ecf91f914e06395c392c67acab62ff902180df8e54"
+hash = "01ccc27dddaf5e51cd53c93c4ce8b7727a37d5d6181c433db4bbcfc6ab9c6f37"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
@@ -170,7 +186,7 @@ hash = "7e4549093a5c697ca19b6c5637a6a10d0d1fe328aa1ae618e640ed4b72cd95f3"
 
 [[files]]
 file = "config/yosby/config/ambientsounds-client.json"
-hash = "275f5137560a48b9c4cda284d92daa7f54e45a69d51172c208aaed26fd65b3ec"
+hash = "13cc671e2649b7cca6fc55de5e8a4a3fb9127db80275d078563d289b7e4ade3f"
 
 [[files]]
 file = "config/yosby/config/ars_nouveau-client.toml"
@@ -187,6 +203,10 @@ hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
 [[files]]
 file = "config/yosby/config/bobby.toml"
 hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
+
+[[files]]
+file = "config/yosby/config/dummmmmmy-client.toml"
+hash = "3e0b01e23a2e4b185b64565a644442996d9465962beb18c48710299c4a735a9e"
 
 [[files]]
 file = "config/yosby/config/emotecraft.json"
@@ -293,6 +313,14 @@ file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "f03f873b21efa44d906a691800c796a150f3aba77b9620289d2348590b83c7f4"
 
 [[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "1eefb330073e04c0249c740d09e13070efee7f75d4a76b16d2f3e09b67d38356"
+
+[[files]]
+file = "defaultconfigs/torchslabmod-server.toml"
+hash = "e9cedcecd88b82e97337e66f710183b33a4dc6db5e791a79b541c38e9619e7c5"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "2aa8ec6a3cab2c9d7cbc728bbde3364c4f36cc8c71b7527cd683edfb59cb6f5a"
 metafile = true
@@ -300,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "5c19a17173b9a7e9932e0ca44691cdd59f95c4faa5faa309a41684e97673dfba"
-metafile = true
-
-[[files]]
-file = "mods/additional-placements.pw.toml"
-hash = "3e339a6d4a830a05da9e13874b5243d8b0916fb0cc7078df11c3c17fd4a89141"
 metafile = true
 
 [[files]]
@@ -505,11 +528,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "1611542f5f481a64e11b4a32789bd71f43e16a07e5c548ccc668c4b5de05e2bd"
-metafile = true
-
-[[files]]
-file = "mods/beans-backpacks.pw.toml"
-hash = "5a5864680935e720c4bf46baa39b72bd3edea1c4559335dcd3c652ef33e2c347"
 metafile = true
 
 [[files]]
@@ -715,11 +733,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "4701717d9153e470a0306e06b8435fcd2cb00902ca3843da41286359c3367f48"
-metafile = true
-
-[[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "f5da0bd02c69394b819a539587c807f57bc373ea52f9db814c6ffb8f80f5eb73"
 metafile = true
 
 [[files]]
@@ -1283,11 +1296,6 @@ hash = "7923eace31678f02b226afaff1840bca064c0fc8d3194e422a79783ebdb9ffbf"
 metafile = true
 
 [[files]]
-file = "mods/ldshadowladys-flower-breeding-replanted.pw.toml"
-hash = "f41cdfae5053d156293115e40e8ff016e4dceeca86b67b596d0e28a73e99b019"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
@@ -1325,11 +1333,6 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
-metafile = true
-
-[[files]]
-file = "mods/littletiles.pw.toml"
-hash = "0c8d657fc12ac8b0d42c10fdddb71ac5f4f49824f8befc22d786746687d43a17"
 metafile = true
 
 [[files]]
@@ -1634,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "81aa10e3701585e80331f9936e98f5c13d44a2f8cfbd9ae6ec67c04f7ea53080"
+hash = "41c7031bd25931b5029e1ec65e9c39937ee1db5d5a9644682fdba52a26679ec7"
 metafile = true
 
 [[files]]
@@ -1968,11 +1971,6 @@ hash = "924fda6f18c3a9629d442123ef211c601564d7f0923c85e418a15d1370dc61e7"
 metafile = true
 
 [[files]]
-file = "mods/wrd.pw.toml"
-hash = "f16bd24882307a9e4b3370d7ff4f2ff220f8dde3480a7f3bf32be39bc70c27af"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "8c345dee68c04839ed832b0f9428df7701d214bd729c453017fa601bd051f84f"
 metafile = true
@@ -2078,11 +2076,6 @@ hash = "7d24b0c83c5abbbe68ad6aea7e7e48191025492503c73de750f436f3afbffd92"
 metafile = true
 
 [[files]]
-file = "resourcepacks/abnormally-fresh.pw.toml"
-hash = "8111cd0af1cd0bae128a1d6b7d029f29e2d4d07188b744bf51b520a4c46eb2c2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/aether-regenerated.pw.toml"
 hash = "6294ec0546cf75b9ff9f9acf368bff49aa9413c990a87171e3385de1bf1711b6"
 metafile = true
@@ -2098,26 +2091,6 @@ hash = "926e8af46d2bf81d204b3f38add69b9c61061a80538fd04b4cdb10f9e4f72737"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "2142b982b067d51b03d0159afa94a7ca17f668a358b9190567f2582e08543a1b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "33c625f334d68395ca1084fc7a3efb1cdd80d2d8c9eaf234150c64bd62054f1d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-compats-emf.pw.toml"
-hash = "99c7fb6556e7c3678b8b8fd90a3500ace424d33ed85f00c0eb628004c526bf5d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/freshly-modded.pw.toml"
-hash = "bbfaee55a0a6382a69db198d7b9f14fcd36d3b7d995bf19e1e54556ad849cd08"
-metafile = true
-
-[[files]]
 file = "resourcepacks/lanostrys-foxes.pw.toml"
 hash = "3c521342a084e79493fb18940107a27dbd05cc811961229143ea6ee796633a2c"
 metafile = true
@@ -2125,11 +2098,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "af0077482760f75abc154ea196a663af86a798d5b8facb76b8e14cf9d48f6757"
-metafile = true
-
-[[files]]
-file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
-hash = "1a8216aaa57ab8e69a4c876c6412276cab3f4468291afc6f9ca3f778574b5365"
 metafile = true
 
 [[files]]
