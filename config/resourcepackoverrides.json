@@ -1,13 +1,7 @@
 {
     "schema_version": 2,
     "default_packs": [
-        "file/FreshAnimations_v1.9.2.zip",	
         "file/DetailedAnimationsReworkedXJustExpressions - V1.15.zip",
-		"file/Abnormally Fresh.zip",
-		"file/FreshCompats_v1.6.zip",
-		"file/freshly-modded-1-5-10.zip",
-		"file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip",
-		"file/FA+Emissive-v1.2.zip",
 		"file/PS Shielded - Xaero Frame 1.0.0.zip",		
 		"file/Vibrating Wither Fix.zip",		
         "file/updated_aquaculture-1.0.zip",		
