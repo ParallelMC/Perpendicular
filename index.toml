@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
+hash = "df431350484a23c4ca7046419698469f83b180df54d838c481e1939f93a14f7a"
 metafile = true
 
 [[files]]
@@ -1937,7 +1937,7 @@ metafile = true
 
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
-hash = "91919507be53d7f825916df9f83d1b17ebfd8ce816286bde944dcc57bd973faa"
+hash = "8bf04693eac8fc35571207223c2e6e144358e5b7862c311a36fed81228980564"
 metafile = true
 
 [[files]]
