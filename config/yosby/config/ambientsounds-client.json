@@ -208,7 +208,7 @@
       "cicadas": 0,
       "cricket": {
         "cricket": 1,
-        "cricket_day": 1,
+        "cricket_day": 0,
         "cricket_night": 1
       }
     },
