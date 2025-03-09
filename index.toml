@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f4c04d35eca1714e7d3f07f6f1756a75b24892a3c3f040accb4a3c0800c778e6"
+hash = "bcc1a00d272a45143109d2808452a9d24bbc886fe199488fb4b7819a79454d17"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "7daa4d1468482e3154eda04de04ba6a69e0de47f500d76bb3388fa35d26abc41"
+hash = "5d2dd77dc29740392a279e07fb8ba56546d35d7bb0bdacacd72103d3bc246655"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4701717d9153e470a0306e06b8435fcd2cb00902ca3843da41286359c3367f48"
+hash = "82c51a711d6193f827c20806a08635564aa43252309e3e037776800499ad860f"
 metafile = true
 
 [[files]]
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "055117c1350f706cfd4bc39ab089bce64aef38b6de4966acedf6dc54771f3d86"
+hash = "6c8981f13d6607916d98b82f112cb54763c50b5fe259785ce8c91c6862be501a"
 metafile = true
 
 [[files]]
@@ -1227,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "ce3945c1b4a49b32fa17e91396a019e00efd773e7ae76df7c078397f9ac74fc3"
+hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
 metafile = true
 
 [[files]]
@@ -1302,7 +1302,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "555422d6f6bf465d4adbde0449df6778ec34c591ca56fde42a414503ae8d0869"
+hash = "42cd55bfbc58186907c44abe06cd1ae9cc52b2ab9e9cc8b2c26666e222f8e7dc"
 metafile = true
 
 [[files]]
@@ -1317,12 +1317,12 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-meadow.pw.toml"
-hash = "90eed756c880c45a2452b8721cade48c1a33a684596c06f88ad1f8536fe0b2a7"
+hash = "7560c5f4603cdb6cb8770fa2a4c266c9320839fbccf3151b01ce0e46561864ec"
 metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "502589e30f5f931419a81caddf421a9b64e482c54d3d1ab27ba0f830287a2d32"
+hash = "804cfa5ea0ee40e2cd079f8acc738d83c3bf9afd689deab4a6be9d28e62f6b40"
 metafile = true
 
 [[files]]
@@ -1357,7 +1357,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "6e62649dfef9192de620182b5e434e9cab6819bbe335cae7db0c856dda0be2cf"
+hash = "beda705d37da2e3ead89c3785954aa5ac3875174e874d31dc5b6078c57544a8e"
 metafile = true
 
 [[files]]
@@ -1382,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
+hash = "b6068cf9389fb48f2b104331a4b568f92705f3b3194a0f8d8ade5ecbf80e4105"
 metafile = true
 
 [[files]]
@@ -1507,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "299d07d605497fd0f4cc5f32a76cf657fda8a84813816fa24c4a05d9f846c3cb"
+hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
 
 [[files]]
@@ -1517,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "de47d5bfa2872e3fa067424fb87c6ff3ad5f92a1b0ae384b9fe04dca66e2d577"
+hash = "996ca5cffe064c84a67ec8d823852d23abcfbfcea36498172f225b3b02a27e94"
 metafile = true
 
 [[files]]
@@ -1572,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
@@ -1612,7 +1612,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "d99946cb99e0d71fc13f2ff0e87108618b1f42486ff0ab3c3b99fa40c66efc9a"
+hash = "7d4709f1fa7e71c7f40abf953ba13af525f6735bb7a757de9b2cc665fc291890"
 metafile = true
 
 [[files]]
@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "0fb014967acd6c2724313beefa286a1b72ed24a285377add8593a506fa73c30c"
+hash = "35ab5c3dcf5dd6b521dbf5d5543879d751ba4bdbcb1781ce2a27cb98f6b105e9"
 metafile = true
 
 [[files]]
@@ -1817,12 +1817,12 @@ metafile = true
 
 [[files]]
 file = "mods/stellarview.pw.toml"
-hash = "07462c8e1d6448a1cfaa8868f81feb613a9020fe9d08b32c6a5095d4c72eac3d"
+hash = "f68fbd23870d9425223c2e0fc4cec5f2f1eb2f5082e9c96349bbb8e329465340"
 metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "ef8b40b32d64b4efac3b7e0aed14b87b9959132910df930463c3ff02adfbbe10"
+hash = "2606444bc5f28bbecfaa7afdf916529955e4c2668a601602866ab374c4f2f792"
 metafile = true
 
 [[files]]
@@ -1892,7 +1892,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "7b8d6cfd80c8bb39143d89a784d2ea7fb5b4f51f824b1d27a8daec88d06b15ab"
+hash = "ef691f94bafcddb82e719f73ba834aeca547ef895307bc7482188d04c5fcfe93"
 metafile = true
 
 [[files]]
