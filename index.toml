@@ -29,6 +29,22 @@ file = "config/aether-common.toml"
 hash = "c779a829e266452c17ccb3852f9a3274a27ffe5caf6bec665cf8f04877993d25"
 
 [[files]]
+file = "config/alexscaves_biome_generation/forlorn_hollows.json"
+hash = "811ac4bdea3331aab4a056d875636b65ecb2a210839344e6701208ff8675261c"
+
+[[files]]
+file = "config/alexscaves_biome_generation/magnetic_caves.json"
+hash = "1d0938488224ad3562e95700def425f20ada98b0794a86d6c840425329b60074"
+
+[[files]]
+file = "config/alexscaves_biome_generation/primordial_caves.json"
+hash = "29831094310a471c6dd95f650294bdddadc13a86cd73ef05b7fe3ba6b2f57924"
+
+[[files]]
+file = "config/alexscaves_biome_generation/toxic_caves.json"
+hash = "569f137de0fa1708023bb05589023bb9e5595466ea0680d9c5dc4d890f6c6407"
+
+[[files]]
 file = "config/allurement-common.toml"
 hash = "ca682cd8db1dfeb509cbdb75fa0e061d4d0b7791237c3de4c3b63dead27f2927"
 
@@ -62,7 +78,7 @@ hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 
 [[files]]
 file = "config/crossroads-server.toml"
-hash = "7afc8a5f5fc8e8348eebf1e653f6a65f1c72d946fde65200b7b73696a12bd693"
+hash = "ac2920ac79e4a4e78c95850a881fda579814427ced61e90b348664be3c31e678"
 
 [[files]]
 file = "config/dimdoors-config.json5"
@@ -138,7 +154,7 @@ hash = "b5a09def79c15c1f2d75a2aa5683b2c0c3401cc5581e0c77dda1ce811a9e0077"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "29fcdd3b18a2a318be06aa0c26aeec8e7dd1ba8cd578d729fd50f8f66e655a4b"
+hash = "52f74a5de1761d1e0f657cda175372d04da4f4d0c94aff63f14e6388f4a95f6b"
 
 [[files]]
 file = "config/rats-common.toml"
@@ -323,6 +339,46 @@ hash = "1eefb330073e04c0249c740d09e13070efee7f75d4a76b16d2f3e09b67d38356"
 [[files]]
 file = "defaultconfigs/torchslabmod-server.toml"
 hash = "e9cedcecd88b82e97337e66f710183b33a4dc6db5e791a79b541c38e9619e7c5"
+
+[[files]]
+file = "kubejs/data/ad_astra/dimension/mars.json"
+hash = "2657a456f80e3619148105758d3c04b2b486069252c99585690dd5d95df1b7d8"
+
+[[files]]
+file = "kubejs/data/ad_astra/dimension/mercury.json"
+hash = "d3616e21f0bb788f6cdb09fe2a2f96ef2329119cd8e453cc9b4737e7fb48e96c"
+
+[[files]]
+file = "kubejs/data/ad_astra/dimension/moon.json"
+hash = "1c78468687171c5d6560e46d50aec2598f29083f294e9667e6bbeea19128f0ff"
+
+[[files]]
+file = "kubejs/data/ad_astra/dimension/venus.json"
+hash = "4b0f5b44c8886e422449486cff90b8875f45ceafb4544b94f2007db4405c364d"
+
+[[files]]
+file = "kubejs/data/worldgen/biome/magnetic_caves.json"
+hash = "15123f625b3657dcf6ea54d019dac1d82742ff67dad5df0d4635cdd0b168308d"
+
+[[files]]
+file = "kubejs/data/worldgen/biome/toxic_caves.json"
+hash = "f8663598f0ffdd2ac678c1ee45b756ade762e79609358b2afb099f5b8db2bf29"
+
+[[files]]
+file = "kubejs/data/worldgen/noise_settings/mercury.json"
+hash = "ac2b2d33dce3598e6900ef2a498c7639fc024f7a370f0aca78d827cd84617545"
+
+[[files]]
+file = "kubejs/server_scripts/tags/biome_tags.js"
+hash = "1967a5a1aa8af02e03aa869553bcd5247cf3ca8a620f167177896cdf28ba67ce"
+
+[[files]]
+file = "kubejs/server_scripts/tags/entity_type_tags.js"
+hash = "44fbe8e8a0cca0919d5ef0d40075c37549e40c0bda1732cfe8054e276afe3acb"
+
+[[files]]
+file = "kubejs/server_scripts/tags/item_tags.js"
+hash = "81db98f337bff896bfec903c1d5fb5caf8a252e47c184f4e28f7fd6076684e3f"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
