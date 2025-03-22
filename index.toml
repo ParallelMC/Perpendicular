@@ -205,6 +205,10 @@ file = "config/yosby/config/bobby.toml"
 hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
 
 [[files]]
+file = "config/yosby/config/cpm.json"
+hash = "076ac6544fb6cf7dde4a8a35289ba82efa16f1c95ab56b51225d3beaefee3f97"
+
+[[files]]
 file = "config/yosby/config/dummmmmmy-client.toml"
 hash = "3e0b01e23a2e4b185b64565a644442996d9465962beb18c48710299c4a735a9e"
 
@@ -473,11 +477,6 @@ metafile = true
 [[files]]
 file = "mods/armor-trim-item-fix.pw.toml"
 hash = "ebd2ea4b68577b5beef43bae84dfb2cb0c29a10a7a0755fd076044959df3c18f"
-metafile = true
-
-[[files]]
-file = "mods/ars-additions.pw.toml"
-hash = "0bc8fe3b019589fd473d9c1aacd1b5108fa7b2ee8bf9d0521158f950291c3dee"
 metafile = true
 
 [[files]]
@@ -918,6 +917,11 @@ metafile = true
 [[files]]
 file = "mods/curious-lanterns.pw.toml"
 hash = "613f9baf4bf28cc615324c0402a1a61c49d73a0f86c2f33f45fe8d5d739ac91f"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "940f5a0dbae5e0cbf209ddfdd8a49c9cca82c90d84eb817090361d327966592f"
 metafile = true
 
 [[files]]
@@ -1368,6 +1372,46 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/kube-utils.pw.toml"
+hash = "91459544f340c4004f366a9a56277046188a8e089f60c8f9eaf7619f8f305b76"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "50dde309aba5227016d9901bac4d439899107b495e31671aa150f6788e414570"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-botania.pw.toml"
+hash = "e7487953f43437713f12546e228607f3cc713d51d6130860d4d99f6ef3541aae"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "432015ce62e9acfd7f305102eb0aa8423e3d424f06193c333b71dc21f1fba29e"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "a3774b5c23d616cbf1cf9322577e185b5cd7f16cc721ad5c60303d6145361415"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-enderio.pw.toml"
+hash = "6a6d26f3d9964af8d901edff918f41067b7b6b5736fcc98fc15468d0e4415377"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-tfmg.pw.toml"
+hash = "8b090790d6ea74b55aa64f801b8ad94bec1930c765440e3bafb2a23f8aa4bad8"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "be2fd618cc61b8eee5ab16c03b4780809da0f3de76bf5224a463cfffeebd6385"
 metafile = true
 
 [[files]]
