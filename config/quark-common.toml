@@ -1482,7 +1482,7 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.stonelings.spawn_config.biomes.tags]
-					"Biome Tags" = ["forge:is_void", "minecraft:is_nether", "minecraft:is_end"]
+					"Biome Tags" = ["forge:is_void", "minecraft:is_nether", "minecraft:is_end", "alexscaves:alexs_caves_biomes"]
 					"Is Blacklist" = true
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
@@ -1516,7 +1516,7 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.toretoise.spawn_config.biomes.tags]
-					"Biome Tags" = ["forge:is_void", "minecraft:is_nether", "minecraft:is_end"]
+					"Biome Tags" = ["forge:is_void", "minecraft:is_nether", "minecraft:is_end", "alexscaves:alexs_caves_biomes"]
 					"Is Blacklist" = true
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
@@ -1940,11 +1940,10 @@
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
-		"Dark Souls Mode" = true
+		"Dark Souls Mode" = false
 		#Totem will always spawn if the player killer is themselves.
-		"Spawn Totem on PVP Kill" = false
+		"Spawn Totem on PVP Kill" = true
 		#Set this to true to make it so that if a totem is destroyed, the items it holds are destroyed alongside it rather than dropped
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
-

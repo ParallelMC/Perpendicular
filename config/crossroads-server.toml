@@ -170,7 +170,7 @@
 		atmos_effects = 3
 		#Whether to allow Ignis Infernum
 		#If disabled, Ignis Infernum is still craftable, but it gets nerfed to Phelostogen level
-		ignis_infernum = true
+		ignis_infernum = false
 		#FE produced by one Voltus
 		#Range: 0 ~ 100000
 		voltus_power = 2000
