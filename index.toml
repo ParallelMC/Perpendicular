@@ -241,10 +241,6 @@ file = "config/yosby/config/exposure-client.toml"
 hash = "6fd4106c4b8410f747a9e8b95f73d0aad1037cb3204f1f071972cedf87a5734e"
 
 [[files]]
-file = "config/yosby/config/figura.json"
-hash = "4c41984587658bee6d881af99f64458a58edf4d9a8665f5d2be5bffd43a100c2"
-
-[[files]]
 file = "config/yosby/config/jade/jade.json"
 hash = "179ed745dc57f576eba02c23749ef3eb422073dc6583900dd48fe91cfbd5dd64"
 
