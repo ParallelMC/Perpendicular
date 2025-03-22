@@ -3,4 +3,4 @@ packwiz
 *.bat
 *.jar
 *.url
-.github/
+/.github
