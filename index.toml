@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/bug-report.yml"
-hash = "c3444bdf90fc7f43b73ef63a57cd21c58cf846d4c226221a4b866ce08134f823"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/config.yml"
-hash = "e063b8b4ca7ed05709b9dac64c152b2569f677ffadc2b48239d4f448aff936d3"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/mod-request.yml"
-hash = "a4e30979a9f115744a12f79c96224e55002b743819663ef1bedacdebdc24b7e4"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/xfeature-request.yml"
-hash = "c76c22a469915fd588890e764ae0f47be57330adc3188cebb63cb3a0ac935462"
-
-[[files]]
 file = "config/Obscuria/obscure-api-client.toml"
 hash = "978e952719c35724ffc46d0839646e5fa9eecfd268df41de0389da009a5ec80e"
 
