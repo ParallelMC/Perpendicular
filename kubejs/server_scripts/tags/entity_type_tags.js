@@ -76,6 +76,7 @@ ServerEvents.tags('entity_type', event => {
     'alexscaves:magnetron',
     'alexscaves:teletor',
     'alexscaves:boundroid',
+    'alexscaves:boundroid_winch',
     'alexscaves:ferrouslime',
 
     // Toxic Caves (Venus)
