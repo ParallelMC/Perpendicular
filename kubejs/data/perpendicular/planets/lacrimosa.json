@@ -1,0 +1,10 @@
+{
+  "dimension": "perpendicular:lacrimosa",
+  "gravity": 9.807,
+  "orbit": "perpendicular:lacrimosa_orbit",
+  "oxygen": true,
+  "solar_power": 19,
+  "solar_system": "ad_astra:proxima_centauri",
+  "temperature": 15,
+  "tier": 4
+}
