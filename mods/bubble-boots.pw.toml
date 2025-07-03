@@ -1,13 +1,13 @@
 name = "Bubble Boots"
-filename = "bubble_boots-1.20.1-2.0.1.jar"
+filename = "bubble_boots-1.20.1-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GFXZ8NgR/versions/ybb4sIhb/bubble_boots-1.20.1-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/GFXZ8NgR/versions/zcpsxMaz/bubble_boots-1.20.1-2.0.2.jar"
 hash-format = "sha512"
-hash = "3e42ca47f10ff999e2b28439219854a82aa5fef1a56217f960c33e199116d4f022ada22c4bedf68ad33e90a895877a6d5113c3b64790f16af1340394d28c1473"
+hash = "1dea790c31b9783d3db2348dd5e1914cb0d2ef334b3aaf9c5a637382b33f253aa8525babfae7f4444a1f7b238342dbeea54f31c50ba98dd87118f1d730c020ac"
 
 [update]
 [update.modrinth]
 mod-id = "GFXZ8NgR"
-version = "ybb4sIhb"
+version = "zcpsxMaz"

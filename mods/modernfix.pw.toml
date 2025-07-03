@@ -1,7 +1,13 @@
 name = "ModernFix"
-filename = "modernfix-forge-5.20.3-beta.2-mc1.20.1.fcea.dirty.jar"
+filename = "modernfix-forge-5.24.0+mc1.20.1.jar"
+side = "both"
 
 [download]
-url = "https://www.dropbox.com/scl/fi/q6p1pvm0dz9upb40ncvv6/modernfix-forge-5.20.3-beta.2-mc1.20.1.fcea.dirty.jar?rlkey=0qj93mytaldhwkxjsvczodb8u&st=588xogmd&dl=1"
-hash-format = "sha256"
-hash = "b264f298fc7980aaf692ec285c2b391ccc9f92ce9cf7a4c39a845eda16eca96e"
+hash-format = "sha1"
+hash = "1aa917f7f0f04846c5bb494bb5a85add59a8785e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6719008
+project-id = 790626
