@@ -1332,6 +1332,11 @@ hash = "222af346b8936d3273ec3fa5ad56a4fe44ecacf65230523b306d21e7128ad57e"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "cd0eccae2401b54d1e36fbdc3ae19ec7c51e5b7004e2a19cb4d17922f14735fe"
+metafile = true
+
+[[files]]
 file = "mods/incubation.pw.toml"
 hash = "0369534c917c40abad906a7087198ec286f543860a38b68453111a80ca755e2a"
 metafile = true
