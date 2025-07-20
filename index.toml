@@ -667,11 +667,6 @@ hash = "2fd3dde1acdfa58ee1cd8e95930db1660cd061c1dc6388d05a7b3703c7c3b205"
 metafile = true
 
 [[files]]
-file = "mods/block-of-sky.pw.toml"
-hash = "cea006482ca8f6b306ebefd018199fcd67e170902b8692efbcb6aae66e459adb"
-metafile = true
-
-[[files]]
 file = "mods/blueflame.pw.toml"
 hash = "653fb815edc011a96e4be778c2daa27b0e51315dc2a59c54d39b64963e5434fc"
 metafile = true
