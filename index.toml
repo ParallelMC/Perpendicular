@@ -1373,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "e6321cccde1749eb105ccfbe414d20c9d072863807108b91ffbfefcb92edda55"
+hash = "97ed6a89190d64fc1752934013d245b07c57230d3ac8720d0ee57c4acc36221e"
 metafile = true
 
 [[files]]
