@@ -8,7 +8,8 @@
         "file/Splendous Sniffers.zip",
 		"file/MobCrates_1.20.1_v1.zip",
         "file/lanostry_foxes.zip",		
-        "file/Aether Regenerated v1.2.1.zip"		
+        "file/Aether Regenerated v1.2.1.zip",
+		"file/mod-descriptions-v6.zip"
     ],
     "default_overrides": {
         "force_compatible": true

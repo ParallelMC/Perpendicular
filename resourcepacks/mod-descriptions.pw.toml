@@ -1,0 +1,13 @@
+name = "Mod Descriptions"
+filename = "mod-descriptions-v6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DkF7ssGR/versions/ErI6bTmN/mod-descriptions-v6.zip"
+hash-format = "sha512"
+hash = "211b0412e8141c1ae3bdf8fae2db4f3a9a5c116b6187dea88c0dfc6462751a38fd9023d11d22e6a13b337a262ec091e9c9a8f23edce6d8cdee21f8932d396b97"
+
+[update]
+[update.modrinth]
+mod-id = "DkF7ssGR"
+version = "ErI6bTmN"

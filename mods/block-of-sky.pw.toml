@@ -1,0 +1,13 @@
+name = "Block of Sky"
+filename = "blockofsky-neoforge-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa67a294c45231dd719255ae465b12437ea62dc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4727499
+project-id = 757062
