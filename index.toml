@@ -1598,7 +1598,7 @@ metafile = true
 
 [[files]]
 file = "mods/labels.pw.toml"
-hash = "7923eace31678f02b226afaff1840bca064c0fc8d3194e422a79783ebdb9ffbf"
+hash = "3f46c69d55ff321765b0bdd51b2a9854983babc177cac10b3e7eef74a373c3c1"
 metafile = true
 
 [[files]]
