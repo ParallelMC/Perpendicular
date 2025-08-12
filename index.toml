@@ -29,6 +29,14 @@ file = "config/aether-common.toml"
 hash = "c779a829e266452c17ccb3852f9a3274a27ffe5caf6bec665cf8f04877993d25"
 
 [[files]]
+file = "config/alexscaves_biome_generation/abyssal_chasm.json"
+hash = "4c5f33cf21e2bb473a59084b2645a817c58594e8b16433cff96307804eea73ae"
+
+[[files]]
+file = "config/alexscaves_biome_generation/candy_cavity.json"
+hash = "000d8664ffaacc97df0c8228997e466c07de36bce5f153c04111ab2942cf49bc"
+
+[[files]]
 file = "config/alexscaves_biome_generation/forlorn_hollows.json"
 hash = "811ac4bdea3331aab4a056d875636b65ecb2a210839344e6701208ff8675261c"
 
@@ -353,16 +361,80 @@ file = "kubejs/data/ad_astra/dimension/venus.json"
 hash = "4b0f5b44c8886e422449486cff90b8875f45ceafb4544b94f2007db4405c364d"
 
 [[files]]
-file = "kubejs/data/worldgen/biome/magnetic_caves.json"
+file = "kubejs/data/ad_astra/recipes/space_station/lacrimosa_orbit_space_station.json"
+hash = "9a202599db6c4e85605446be68571ac54a29f499c4f4d35b734e823be9000d1a"
+
+[[files]]
+file = "kubejs/data/ad_astra/recipes/space_station/vulcandy_orbit_space_station.json"
+hash = "0ee2708eb9f1b6e0abbbc9329690427ddb1d11d82ed9fb29c2df11fc150e9c9b"
+
+[[files]]
+file = "kubejs/data/ad_astra/worldgen/noise_settings/mercury.json"
+hash = "ac2b2d33dce3598e6900ef2a498c7639fc024f7a370f0aca78d827cd84617545"
+
+[[files]]
+file = "kubejs/data/alexscaves/worldgen/biome/magnetic_caves.json"
 hash = "15123f625b3657dcf6ea54d019dac1d82742ff67dad5df0d4635cdd0b168308d"
 
 [[files]]
-file = "kubejs/data/worldgen/biome/toxic_caves.json"
+file = "kubejs/data/alexscaves/worldgen/biome/toxic_caves.json"
 hash = "f8663598f0ffdd2ac678c1ee45b756ade762e79609358b2afb099f5b8db2bf29"
 
 [[files]]
-file = "kubejs/data/worldgen/noise_settings/mercury.json"
-hash = "ac2b2d33dce3598e6900ef2a498c7639fc024f7a370f0aca78d827cd84617545"
+file = "kubejs/data/perpendicular/dimension/lacrimosa.json"
+hash = "7d34d321b525ad430007acfa71cd3d89e27a6301860bc44ea970a73a27dff1b9"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension/lacrimosa_orbit.json"
+hash = "41654ca0eb296fc5f90e0600e2a40abc8acd45814cd191fcf982a4a6e92ccf07"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension/vulcandy.json"
+hash = "c5a242ab75df6a3924c58dec6d371288a4f457d9cceb07426914348418ac391b"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension/vulcandy_orbit.json"
+hash = "054a7ae3fb497333c3f0d69fc0e5b5b4c35535490507c554f275990a3c35ef22"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension_type/lacrimosa.json"
+hash = "a29300746810a911d0abc992e6094904221f6db1acb93e4533c5291d5fbac825"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension_type/lacrimosa_orbit.json"
+hash = "b20ca53a122e2e6d5576b6d00548dd8bba3d19e237fe84046921454d050d7e40"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension_type/vulcandy.json"
+hash = "a29300746810a911d0abc992e6094904221f6db1acb93e4533c5291d5fbac825"
+
+[[files]]
+file = "kubejs/data/perpendicular/dimension_type/vulcandy_orbit.json"
+hash = "57eb7c54ef6280219e4a0116f80849f30f22bf127b81d84c377356fc23c20371"
+
+[[files]]
+file = "kubejs/data/perpendicular/planets/lacrimosa.json"
+hash = "0c6da4bc687f94fab6069601eab733fea9fe008bed2218d71367fdea803fa286"
+
+[[files]]
+file = "kubejs/data/perpendicular/planets/lacrimosa_orbit.json"
+hash = "6cbf705d4f556f0e16cc1856de54708d562c5a9e2f87dbca8b9f167a323f944a"
+
+[[files]]
+file = "kubejs/data/perpendicular/planets/vulcandy.json"
+hash = "c2770b0c88ffeae288b8c9d50a0081a4b5ff60cbb56879b878cdc677443d8e4d"
+
+[[files]]
+file = "kubejs/data/perpendicular/planets/vulcandy_orbit.json"
+hash = "24550af6c4db15e9bc8b54c9d3c0770945a5738713af8d6c05f93debce33c988"
+
+[[files]]
+file = "kubejs/data/perpendicular/worldgen/noise_settings/lacrimosa.json"
+hash = "37c5bf046001eaa1ebb6f967ef6dea2019dc156eeeb35d092323e9268fe09e14"
+
+[[files]]
+file = "kubejs/data/perpendicular/worldgen/noise_settings/vulcandy.json"
+hash = "41f2877e55fd597b20b2fac068f0215570544f676b77036c970bdfef46fc0a8e"
 
 [[files]]
 file = "kubejs/server_scripts/tags/biome_tags.js"
@@ -370,7 +442,7 @@ hash = "1967a5a1aa8af02e03aa869553bcd5247cf3ca8a620f167177896cdf28ba67ce"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
-hash = "44fbe8e8a0cca0919d5ef0d40075c37549e40c0bda1732cfe8054e276afe3acb"
+hash = "72546a01ee9f7cb7e8940e58954b85cd513e39cccfee4708cb24b4b377e2f770"
 
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
