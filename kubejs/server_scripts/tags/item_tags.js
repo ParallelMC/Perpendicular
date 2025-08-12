@@ -12,7 +12,7 @@ ServerEvents.tags('item', event => {
     'alexscaves:hazmat_boots',
     'alexscaves:primordial_helmet',
     'alexscaves:primordial_tunic',
-    'alexscaves:primordial_pants',
+    'alexscaves:primordial_pants'
   ]);
 
   // Allow protection from the hazmat suit on Venus
@@ -20,6 +20,6 @@ ServerEvents.tags('item', event => {
     'alexscaves:hazmat_mask',
     'alexscaves:hazmat_chestplate',
     'alexscaves:hazmat_leggings',
-    'alexscaves:hazmat_boots',
+    'alexscaves:hazmat_boots'
   ]);
 });
