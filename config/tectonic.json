@@ -10,7 +10,7 @@
     "erosion_scale": 0.25,
     "flat_terrain_skew": 0.1,
     "jungle_pillars": true,
-    "ocean_offset": -0.8,
+    "ocean_offset": -0.7,
     "ridge_scale": 0.25,
     "river_lanterns": true,
     "rolling_hills": true,
