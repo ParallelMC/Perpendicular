@@ -992,11 +992,6 @@ hash = "200b30b8eeaaf2fa9e8345fcabdd80f6195b5af67926fb1e277931100e7e1eff"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "a9aca547eaf64bc17c652488bf84e94ecb41b3026f6f9f64bdf0007f7ef1dbfd"
-metafile = true
-
-[[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "e7b1d1aa7bb29856bf3ad1c5ca60871164bd04137564046e2054138b96a30989"
 metafile = true
@@ -1579,11 +1574,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-enderio.pw.toml"
 hash = "6a6d26f3d9964af8d901edff918f41067b7b6b5736fcc98fc15468d0e4415377"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-tfmg.pw.toml"
-hash = "8b090790d6ea74b55aa64f801b8ad94bec1930c765440e3bafb2a23f8aa4bad8"
 metafile = true
 
 [[files]]
