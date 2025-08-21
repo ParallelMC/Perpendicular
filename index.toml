@@ -991,11 +991,6 @@ hash = "a0d02811c7707ed456817d94e07ec6948da3983588aa64eeea1203fa334d66f2"
 metafile = true
 
 [[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "1d4ff345c756b272e6e0222bc731277c70b1195880ce5c35d0fe6806d22660fb"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a92288574aeb3b2387d8c423b980321efa0f486074d6167aa30195a09d930369"
 metafile = true
