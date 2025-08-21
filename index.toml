@@ -61,6 +61,10 @@ file = "config/allurement-common.toml"
 hash = "ca682cd8db1dfeb509cbdb75fa0e061d4d0b7791237c3de4c3b63dead27f2927"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "8ac9680df5522f02f089c448caddab55689026a352f80893b0e92537cdbd0d41"
+
+[[files]]
 file = "config/armorstatues-client.toml"
 hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
@@ -569,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "9215ce0a0748d0c3775f7f47851a437f5e02997d7a32d890c253bb1b4e3c7939"
 metafile = true
 
 [[files]]
