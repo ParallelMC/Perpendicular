@@ -477,7 +477,7 @@ file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/
 hash = "2c2d7aff132fb1865fc9ab96d1e73c2be8226de752ef23f8351bb7746dacdd3f"
 
 [[files]]
-file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore_low.json"
+file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore_extra.json"
 hash = "c27e73916e80201d51900f3bacbe613b367e3bb8b09c3b52a4fb81add72379f4"
 
 [[files]]
