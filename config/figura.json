@@ -1,0 +1,7 @@
+{
+  "CONFIG_VERSION": 1,
+  "inventory_scissor": false,
+  "action_wheel_button": "key.keyboard.comma",
+  "popup_button": "key.keyboard.o",
+  "connection_toasts": false
+}

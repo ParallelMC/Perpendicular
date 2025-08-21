@@ -117,6 +117,10 @@ file = "config/fallingleaves-client.toml"
 hash = "950cdae0262dff23a0397cb7896eff04f3f9d665271386776ece980e69c2350e"
 
 [[files]]
+file = "config/figura.json"
+hash = "51567deb96a304fd155b3aff8f816a11e64b977f52992f9b3eea7427e11bd785"
+
+[[files]]
 file = "config/fml.toml"
 hash = "845926b0fad854b5dfccc8005e6a65fbf183fc465fd0ba8060101fe56c558ad8"
 
@@ -155,6 +159,10 @@ hash = "4c38703df36b13467072a180265992430ce864e7b62b99eb27f33634f9c00050"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
+
+[[files]]
+file = "config/moonlight-client.toml"
+hash = "d1a34f21182241eefc355810faedb24bdbf2ad80ff9fdbecaf614aa521ae97e4"
 
 [[files]]
 file = "config/nostartupmessages-common.toml"
@@ -1078,11 +1086,6 @@ hash = "bb3ffb693eca3b0488e44eb6682dcc7b0270259a1f3a8213016fa9b222b6aec6"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models.pw.toml"
-hash = "d5b5b61f49d7bf5b840d9072d330323b8bfa2fb700013e1cf8e3614dad4e235e"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "e1eb9c8386bc3ec75f1dcc14ff420b1a2e64aa2553678cb5ccfa945966280c82"
 metafile = true
@@ -1310,6 +1313,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
 metafile = true
 
 [[files]]
