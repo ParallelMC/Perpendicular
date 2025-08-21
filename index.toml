@@ -465,12 +465,20 @@ file = "kubejs/data/perpendicular/worldgen/noise_settings/vulcandy.json"
 hash = "41f2877e55fd597b20b2fac068f0215570544f676b77036c970bdfef46fc0a8e"
 
 [[files]]
+file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore.json"
+hash = "2c2d7aff132fb1865fc9ab96d1e73c2be8226de752ef23f8351bb7746dacdd3f"
+
+[[files]]
+file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore_low.json"
+hash = "c27e73916e80201d51900f3bacbe613b367e3bb8b09c3b52a4fb81add72379f4"
+
+[[files]]
 file = "kubejs/data/tectonic/worldgen/density_function/caves.json"
 hash = "06e5cb9bbce01c65455596179197ddc94bee12d70583c775c0e1141d80a3beb6"
 
 [[files]]
 file = "kubejs/server_scripts/tags/biome_tags.js"
-hash = "4e2590693a7cd19f89f4b6e5cd733d694f0abcf3e4c821014438a57c5a6bb1ce"
+hash = "cc56f8458cfab813a1233c7b226f5acef6201b74ff6fdb13748e64e55b1fd22a"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
@@ -479,6 +487,10 @@ hash = "72546a01ee9f7cb7e8940e58954b85cd513e39cccfee4708cb24b4b377e2f770"
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
 hash = "2a5f19955e865696223bd19291bc7c5fef3d6822c0c93cce5c46bba3f630fadb"
+
+[[files]]
+file = "kubejs/startup_scripts/worldgen.js"
+hash = "afd7e169ed7c7a74bf942886779b7fc39fbec20a7422755de15e702fe8652bd9"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
