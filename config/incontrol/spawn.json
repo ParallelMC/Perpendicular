@@ -1,0 +1,42 @@
+[
+  {
+    "mob": [
+	  "quark:forgotten",
+	  "quark:stoneling",
+	  "quark:toretoise"
+	],
+    "biome": [
+	  "alexscaves:abyssal_chasm",
+	  "alexscaves:candy_cavity",
+	  "alexscaves:forlorn_hollows",
+      "alexscaves:magnetic_caves",
+      "alexscaves:primordial_caves",
+      "alexscaves:toxic_caves"
+    ],
+    "result": "deny"
+  },
+  {
+    "mob": "naturalist:snail",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "autumnity_snail_instead"
+  }, 
+  {
+    "mob": "friendsandfoes:iceologer",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "savage_and_ravage_iceologer_instead"
+  },
+  {
+    "mob": "friendsandfoes:moobloom",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "buzzier_bees_moobloom_instead"
+  },
+  {
+    "mob": "whatareyouvotingfor:crab",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "friendsandfoes_crab_instead"
+  }
+]

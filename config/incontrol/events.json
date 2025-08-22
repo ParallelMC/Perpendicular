@@ -1,0 +1,50 @@
+[
+  {
+    "on": "custom",
+    "parameters": {
+      "name": "buzzier_bees_moobloom_instead"
+    },
+    "spawn": {
+      "mob": "buzzier_bees:moobloom",
+      "mindistance": 0,
+      "maxdistance": 0,	  
+      "norestrictions": true
+    }
+  },
+  {
+    "on": "custom",
+    "parameters": {
+      "name": "autumnity_snail_instead"
+    },
+    "spawn": {
+      "mob": "autumnity:snail",
+      "mindistance": 0,
+      "maxdistance": 0,	  
+      "norestrictions": true
+    }
+  },
+  {
+    "on": "custom",
+    "parameters": {
+      "name": "friendsandfoes_crab_instead"
+    },
+    "spawn": {
+      "mob": "friendsandfoes:crab",
+      "mindistance": 0,
+      "maxdistance": 0,	  
+      "norestrictions": true
+    }
+  },
+  {
+    "on": "custom",
+    "parameters": {
+      "name": "savage_and_ravage_iceologer_instead"
+    },
+    "spawn": {
+      "mob": "savage_and_ravage:iceologer",
+      "mindistance": 0,
+      "maxdistance": 0,	  
+      "norestrictions": true
+    }
+  }
+]
