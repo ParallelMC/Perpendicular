@@ -477,7 +477,7 @@ file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/
 hash = "2c2d7aff132fb1865fc9ab96d1e73c2be8226de752ef23f8351bb7746dacdd3f"
 
 [[files]]
-file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore_low.json"
+file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore_extra.json"
 hash = "c27e73916e80201d51900f3bacbe613b367e3bb8b09c3b52a4fb81add72379f4"
 
 [[files]]
@@ -988,11 +988,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "a0d02811c7707ed456817d94e07ec6948da3983588aa64eeea1203fa334d66f2"
-metafile = true
-
-[[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "1d4ff345c756b272e6e0222bc731277c70b1195880ce5c35d0fe6806d22660fb"
 metafile = true
 
 [[files]]
