@@ -122,8 +122,16 @@ ServerEvents.tags("worldgen/biome", (event) => {
   // -----------------
   // MOBS BIOME COMPAT
   // -----------------
+  // Add extra biome tags to Backported Wolves spawns
+  event.add('backported_wolves:spawns_rusty_wolf', '#minecraft:is_jungle')
+  event.add('backported_wolves:spawns_spotted_wolf', '#minecraft:is_savanna')
+  event.add('backported_wolves:spawns_striped_wolf', '#minecraft:is_badlands')
+  // POSSIBLE TO DO WOODS WOLF MINUS GROVE?
+  // event.add('backported_wolves:spawns_woods_wolf', '#minecraft:is_forest')
+
   // Add all caves to Creeper Overhaul #is_cave tag
   event.add('creeperoverhaul:is_cave', '#forge:is_cave')
+
 
   // Make Enderman Overhaul enderman spawn in more biomes
   event.add('endermanoverhaul:cave_spawns', '#forge:is_cave')
@@ -162,11 +170,17 @@ ServerEvents.tags("worldgen/biome", (event) => {
     'biomeswevegone:white_mangrove_marshes'
   ])
 
+  // Prevent Friends and Foes iceologer from spawning naturally
+  event.removeAll('friendsandfoes:has_iceologer')
+
   // Add BWG biomes to Hamsters mod hamsters spawns
   event.add('hamsters:has_hamster', '#perpendicular:is_meadow')
 
   // Add BWG biomes to Let's Do Meadow buffalo spawns
   event.add('meadow:spawns_buffalo', '#perpendicular:is_taiga')
+
+  // Prevent Naturalist dragonfly from spawning naturally
+  event.removeAll('naturalist:has_dragonfly')
 
   // Add BWG biomes to Unusual Prehistory mob spawns
   event.add('unusualprehistory:is_megatherium_biome', '#minecraft:is_savanna')
@@ -212,6 +226,14 @@ ServerEvents.tags("worldgen/biome", (event) => {
   event.add('beautify:has_structure/botanist_house_savanna_biomes', '#minecraft:is_savanna')
   event.add('beautify:has_structure/botanist_house_snowy_biomes', '#perpendicular:is_snowy')
   event.add('beautify:has_structure/botanist_house_taiga_biomes', '#perpendicular:is_taiga')
+
+  // INVESTIGATE THIS
+  // Remove Beautify botanist house from spawning bc the botanist villager bed ai is wacked
+  event.removeAll('beautify:has_structure/botanist_house_desert_biomes')
+  event.removeAll('beautify:has_structure/botanist_house_plains_biomes')
+  event.removeAll('beautify:has_structure/botanist_house_savanna_biomes')
+  event.removeAll('beautify:has_structure/botanist_house_snowy_biomes')
+  event.removeAll('beautify:has_structure/botanist_house_taiga_biomes')
 
   // Add some BWG biomes to YUNG's better dungeons
   event.add('betterdungeons:has_structure/skeleton_dungeon', '#biomeswevegone:icy')
