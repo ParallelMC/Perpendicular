@@ -74,7 +74,7 @@ hash = "71ec39144914c78dd1685d4abcab8413ae2d4d0dd19af23667d58b12571b48db"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "533d9a01b57b5cc6143fcd00aac77062f7ab7888cd536c718e5f5cf5d5aa5ee1"
+hash = "46a58780afa19c69ab673a2f1323298ae56c0462e74848bc665729172c683b67"
 
 [[files]]
 file = "config/botania-common.toml"

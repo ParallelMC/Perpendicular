@@ -86,6 +86,7 @@ to make editing this file much easier.
 	*/
 	"swapper": {
 		"alexscaves:amber": "sullysmod:amber",
+		"meadow:woodcutter": "sawmill:sawmill",
 		"spelunkery:rock_salt_block": "minecraft:granite",
 		"spelunkery:sulfur_block": "alexscaves:sulfur",
         "biomeswevegone:beach_grass": "somemoreblocks:dune_grass",
