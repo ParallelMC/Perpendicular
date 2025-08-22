@@ -182,7 +182,7 @@ hash = "b5a09def79c15c1f2d75a2aa5683b2c0c3401cc5581e0c77dda1ce811a9e0077"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "55c1097703e3ca8fe2dc50155b5a4437e1f44b6bbd4630a98fb2691bb4d1562d"
+hash = "043386afbfd0df205a7a0573ba5b827fccfa8ebc2c24076fc1ed36191f3c0232"
 
 [[files]]
 file = "config/rats-common.toml"
@@ -417,6 +417,34 @@ file = "kubejs/data/alexscaves/worldgen/biome/toxic_caves.json"
 hash = "f8663598f0ffdd2ac678c1ee45b756ade762e79609358b2afb099f5b8db2bf29"
 
 [[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/acropolis.json"
+hash = "7bd0f4c41d2151d5d6195a655264238e7b96624b46df76980b8b0d1cd009ff30"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/ancient_factory.json"
+hash = "05bd51793e700c3db32ae2d6973fc3972382f1606eccad737879898f8815f8da"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/burning_arena.json"
+hash = "23b30445a6cc5194db6e35945bd4e17241c497f669cb493232992aa9c43faa20"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/cursed_pyramid.json"
+hash = "222bc8f7fdc9328daeaa312a11e09032b70fe32af900b712b0b9877e9789d93f"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/frosted_prison.json"
+hash = "b100aff3915334c72b22eeff83e68031bac37d5d58bc13c94894b055f478f129"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/soul_black_smith.json"
+hash = "c5e3a53e3cb71a341b9c34f28a29c5c7c4676f582a9fccab8ab800f2c9812782"
+
+[[files]]
+file = "kubejs/data/catalysm/worldgen/structure_set/sunken_city.json"
+hash = "e45341bf9416d91b2da089edfb0a57a4bf65bb1f6b39bd2570d71fd2c1a43c43"
+
+[[files]]
 file = "kubejs/data/perpendicular/dimension/lacrimosa.json"
 hash = "7d34d321b525ad430007acfa71cd3d89e27a6301860bc44ea970a73a27dff1b9"
 
@@ -471,6 +499,18 @@ hash = "37c5bf046001eaa1ebb6f967ef6dea2019dc156eeeb35d092323e9268fe09e14"
 [[files]]
 file = "kubejs/data/perpendicular/worldgen/noise_settings/vulcandy.json"
 hash = "41f2877e55fd597b20b2fac068f0215570544f676b77036c970bdfef46fc0a8e"
+
+[[files]]
+file = "kubejs/data/productivebees/tconstruct/sky_slime.json"
+hash = "68129c75445c7fbf9742f0909405c6accb8308cb6bd73231763038fa2fa76b92"
+
+[[files]]
+file = "kubejs/data/productivebees/tconstruct/sky_slimy.json"
+hash = "ac25367494d0a062351ab30123a4168d07d54e6724aa19028536f713c324997e"
+
+[[files]]
+file = "kubejs/data/queen_bee/worldgen/structure_set/beehive.json"
+hash = "debc14bb447829ba27ecb9f79f5f74c4e2bdfc52685a1a8063b8e0342f813d9a"
 
 [[files]]
 file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore.json"
@@ -797,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueflame.pw.toml"
-hash = "653fb815edc011a96e4be778c2daa27b0e51315dc2a59c54d39b64963e5434fc"
+hash = "3bd8ce09d1cdb2d4727622ff16e07c9149b2a7edcd385439391d33624aaf9d77"
 metafile = true
 
 [[files]]
@@ -1278,11 +1318,6 @@ metafile = true
 [[files]]
 file = "mods/farsight.pw.toml"
 hash = "a6313c759ee8e9ab0afb8fc056c6ce6d2be7ee87063c0ec85905b83302382af0"
-metafile = true
-
-[[files]]
-file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "23a04210d34ea538f7a1db8a2b8abcb929e683632a1bb0c9ed838af9cd93d0dd"
 metafile = true
 
 [[files]]
