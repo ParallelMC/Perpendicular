@@ -5,15 +5,9 @@ ServerEvents.tags("worldgen/biome", (event) => {
   // Ice maze on Glacio
   event.add("aquamirae:ice_maze", "ad_astra:glacio_ice_peaks")
 
-  // -----------------
-  // STRUCTURE REMOVAL
-  // -----------------
-
   // Prevent Ad Astra oil well from spawning
   event.removeAll("ad_astra:has_structure/oil_well")
 
-  // Prevent Friends & Foes iceologer cabin from spawning
-  event.removeAll("friendsandfoes:has_structure/iceologer_cabin")
 
   // -----------------
   // CUSTOM BIOME TAGS
