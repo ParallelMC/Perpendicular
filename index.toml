@@ -1456,11 +1456,6 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
-file = "mods/illagerblabber.pw.toml"
-hash = "f70a4a1d5e166060c0e138fece790439164b602b7764be43bbc99db566c3aac5"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
 metafile = true
