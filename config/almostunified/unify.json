@@ -10,7 +10,6 @@
 	"enderio",
     "create",
 	"createaddition",
-	"tfmg",
 	"tconstruct",
 	"tcintegrations",
 	"pneumaticcraft",
@@ -21,7 +20,6 @@
 	"caverns_and_chasms",
 	"galosphere",
 	"eidolon"
-	// "biggerreactors"
   ],
   "stoneStrata": [
     "stone",
