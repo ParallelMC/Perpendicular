@@ -115,7 +115,7 @@
 	"Glass Item Frame" = true
 	"Gold Bars" = true
 	Grate = true
-	Hedges = true
+	Hedges = false
 	"Hollow Logs" = true
 	"Industrial Palette" = true
 	"Japanese Palette" = true
@@ -841,7 +841,7 @@
 					"Is Blacklist" = true
 
 		[world.big_stone_clusters.limestone]
-			Enabled = true
+			Enabled = false
 			#Allowed values: [0,)
 			Rarity = 4
 			"Min Y Level" = 20
@@ -1182,7 +1182,7 @@
 
 			[world.new_stone_types.limestone.dimensions]
 				"Is Blacklist" = false
-				Dimensions = ["minecraft:overworld"]
+				Dimensions = []
 
 			[world.new_stone_types.limestone.oregen_lower]
 				#Allowed values: [-64,320]
