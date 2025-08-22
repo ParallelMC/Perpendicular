@@ -34,7 +34,7 @@ hash = "c7bf72eb416f143e490d71a6a935ecd0f2672ec6b8d2369126b6dfb70108a5a6"
 
 [[files]]
 file = "config/alexscaves_biome_generation/abyssal_chasm.json"
-hash = "4c5f33cf21e2bb473a59084b2645a817c58594e8b16433cff96307804eea73ae"
+hash = "f349b67b58739372299e6182e05f13f39fb1ff3dc207a22d023171bd42257f71"
 
 [[files]]
 file = "config/alexscaves_biome_generation/candy_cavity.json"
@@ -62,7 +62,7 @@ hash = "ca682cd8db1dfeb509cbdb75fa0e061d4d0b7791237c3de4c3b63dead27f2927"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "8ac9680df5522f02f089c448caddab55689026a352f80893b0e92537cdbd0d41"
+hash = "9813be7df822c4e11994697ec472fb762097392623aa9eaadb69910cf2d98940"
 
 [[files]]
 file = "config/armorstatues-client.toml"
@@ -71,6 +71,10 @@ hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 [[files]]
 file = "config/betternethermap-common.toml"
 hash = "71ec39144914c78dd1685d4abcab8413ae2d4d0dd19af23667d58b12571b48db"
+
+[[files]]
+file = "config/blockswap/block_swap.json5"
+hash = "533d9a01b57b5cc6143fcd00aac77062f7ab7888cd536c718e5f5cf5d5aa5ee1"
 
 [[files]]
 file = "config/botania-common.toml"
@@ -149,6 +153,14 @@ file = "config/immersive_optimization.json"
 hash = "2a461cb34e9278577de30c508946c068ac9334545d4d6fd8cea08404ca13f70d"
 
 [[files]]
+file = "config/incontrol/events.json"
+hash = "616ac50fa283aabccd2203734117e4e1a5b5b979f21b3687726fba43bc9b21dd"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "2efd46c77b7cd97b2685ecebc14ef538a405b7c1783b7c408631b07b966523ca"
+
+[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
@@ -182,7 +194,7 @@ hash = "b5a09def79c15c1f2d75a2aa5683b2c0c3401cc5581e0c77dda1ce811a9e0077"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "043386afbfd0df205a7a0573ba5b827fccfa8ebc2c24076fc1ed36191f3c0232"
+hash = "003b032e57bfd9aaa682cf53dd087132c539a516be63de342ae924ff71bead56"
 
 [[files]]
 file = "config/rats-common.toml"
@@ -377,8 +389,24 @@ file = "defaultconfigs/torchslabmod-server.toml"
 hash = "e9cedcecd88b82e97337e66f710183b33a4dc6db5e791a79b541c38e9619e7c5"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
 file = "kubejs/assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/fuel.json"
 hash = "ef612e3a97fde1ec1cf9ea338a2b98432f9b282da517ab5af3a1e891a7ec3c84"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "9a0e0008381b71e5405d3856f22a3614d6019d0c014bb1722347a615ce380b88"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4023511b1132f242c5bcb3aea4c7568bbdf837c204843bc7276ac191cbac4e9a"
 
 [[files]]
 file = "kubejs/data/ad_astra/dimension/mars.json"
@@ -525,8 +553,16 @@ file = "kubejs/data/tectonic/worldgen/density_function/caves.json"
 hash = "06e5cb9bbce01c65455596179197ddc94bee12d70583c775c0e1141d80a3beb6"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/recipes.js"
+hash = "dfd7f23ae8a3fb7e466a81c853d639a16e27bf6fba27db809860b458c7c4b6cd"
+
+[[files]]
 file = "kubejs/server_scripts/tags/biome_tags.js"
-hash = "cc56f8458cfab813a1233c7b226f5acef6201b74ff6fdb13748e64e55b1fd22a"
+hash = "e7acc919141aaf236c954a47d739c2e5d857484292dec2b3c80e7c7f5f66ae6a"
+
+[[files]]
+file = "kubejs/server_scripts/tags/block_tags.js"
+hash = "4f7f1fe264d53a7aa9c8b4c051a5feee1b34cc67b4645d4ebee2d3f43eaf9e2e"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
@@ -535,6 +571,10 @@ hash = "72546a01ee9f7cb7e8940e58954b85cd513e39cccfee4708cb24b4b377e2f770"
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
 hash = "2a5f19955e865696223bd19291bc7c5fef3d6822c0c93cce5c46bba3f630fadb"
+
+[[files]]
+file = "kubejs/server_scripts/tags/structure_tags.js.bak"
+hash = "ed28cc7f9f6a53972f0abc9f156a3d627f836d797894e0d1ca143d68a62fae11"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
