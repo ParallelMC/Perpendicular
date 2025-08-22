@@ -538,7 +538,7 @@ hash = "06e5cb9bbce01c65455596179197ddc94bee12d70583c775c0e1141d80a3beb6"
 
 [[files]]
 file = "kubejs/server_scripts/tags/biome_tags.js"
-hash = "e7acc919141aaf236c954a47d739c2e5d857484292dec2b3c80e7c7f5f66ae6a"
+hash = "6e65a590612969c03345df9df0dbcc09fc53af5cb9425edeb04f722176b177c5"
 
 [[files]]
 file = "kubejs/server_scripts/tags/block_tags.js"

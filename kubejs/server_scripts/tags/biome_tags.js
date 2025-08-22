@@ -73,6 +73,12 @@ ServerEvents.tags("worldgen/biome", (event) => {
   ])
 
   // Add BWG biomes to Friends & Foes feature placement
+  let flowerbiomes = [
+    'biomeswevegone:allium_shrubland',
+    'biomeswevegone:amaranth_grassland',
+    'biomeswevegone:orchard',
+    'biomeswevegone:sakura_grove'
+  ]
   event.add('friendsandfoes:has_buttercup_patch', flowerbiomes)
 
   // Fix Quark fallen log tags
@@ -141,12 +147,6 @@ ServerEvents.tags("worldgen/biome", (event) => {
   ])
 
   // Add BWG flower biomes to Friends & Foes mob spawns
-  let flowerbiomes = [
-    'biomeswevegone:allium_shrubland',
-    'biomeswevegone:amaranth_grassland',
-    'biomeswevegone:orchard',
-    'biomeswevegone:sakura_grove'
-  ]
   event.add('friendsandfoes:has_moobloom/allium', flowerbiomes)
   event.add('friendsandfoes:has_moobloom/azure_bluet', flowerbiomes)
   event.add('friendsandfoes:has_moobloom/blue_orchid', flowerbiomes)
