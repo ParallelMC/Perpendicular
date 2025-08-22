@@ -1,0 +1,228 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": true,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": false,
+	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
+	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
+	   Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_leaves",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"distance": "7",
+	    				"persistent": "true"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_planks",
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_planks",
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [],
+	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
+	   Example:
+	   	"swapper": {
+	   		"minecraft:coarse_dirt": "minecraft:dirt",
+	   		"minecraft:diamond_block": "minecraft:emerald_block"
+	   	}
+	*/
+	"swapper": {
+		"alexscaves:amber": "sullysmod:amber",
+		"spelunkery:rock_salt_block": "minecraft:granite",
+		"spelunkery:sulfur_block": "alexscaves:sulfur",
+        "biomeswevegone:beach_grass": "somemoreblocks:dune_grass",
+        "biomeswevegone:tall_beach_grass": "somemoreblocks:tall_dune_grass",
+        "upgrade_aquatic:beachgrass": "somemoreblocks:dune_grass",
+        "upgrade_aquatic:tall_beachgrass": "somemoreblocks:tall_dune_grass",
+        "cataclysm:stone_tiles": "somemoreblocks:stone_tiles",
+		"cataclysm:stone_tile_slab": "somemoreblocks:stone_tile_slab",
+		"cataclysm:stone_tile_stairs": "somemoreblocks:stone_tile_stairs",
+		"cataclysm:stone_tile_wall": "somemoreblocks:stone_tile_wall",        
+		// THE FOLLOWING ENTRIES REPLACE QUARK + SUPPLEMENTARIES BLOCKS WITH OTHER BLOCKS TO MAKE SURE INTEGRATED VILLAGES STRUCTURES DON'T HAVE EMPTY BLOCKS:
+		"quark:beetroot_crate": "farmersdelight:beetroot_crate",
+		"quark:berry_sack": "berry_good:sweet_berry_basket",
+		"quark:carrot_crate": "farmersdelight:carrot_crate",
+		"quark:charcoal_block": "thermal:charcoal_block",
+		"quark:glowberry_sack": "berry_good:glow_berry_basket",
+		"quark:gold_bars": "caverns_and_chasms:golden_bars",
+		"quark:permafrost": "unusualprehistory:permafrost",
+		"quark:potato_crate": "farmersdelight:potato_crate",
+        "quark:cobblestone_bricks": "twigs:cobblestone_bricks",
+		"quark:cobblestone_bricks_slab": "twigs:cobblestone_brick_slab",
+		"quark:cobblestone_bricks_vertical_slab": "minecraft:air",
+		"quark:cobblestone_bricks_stairs": "twigs:cobblestone_brick_stairs",
+		"quark:cobblestone_bricks_wall": "twigs:cobblestone_brick_wall",
+        "quark:mossy_cobblestone_bricks": "twigs:mossy_cobblestone_bricks",
+		"quark:mossy_cobblestone_bricks_slab": "twigs:mossy_cobblestone_brick_slab",
+		"quark:mossy_cobblestone_bricks_vertical_slab": "minecraft:air",
+		"quark:mossy_cobblestone_bricks_stairs": "twigs:mossy_cobblestone_brick_stairs",
+		"quark:mossy_cobblestone_bricks_wall": "twigs:mossy_cobblestone_brick_wall",
+		"quark:sandstone_bricks": "somemoreblocks:sandstone_bricks",
+		"quark:sandstone_bricks_slab": "somemoreblocks:sandstone_brick_slab",
+		"quark:sandstone_bricks_vertical_slab": "minecraft:air",
+		"quark:sandstone_bricks_stairs": "somemoreblocks:sandstone_brick_stairs",
+		"quark:sandstone_bricks_wall": "somemoreblocks:sandstone_brick_wall",
+        "quark:red_sandstone_bricks": "somemoreblocks:red_sandstone_bricks",
+		"quark:red_sandstone_bricks_slab": "somemoreblocks:red_sandstone_brick_slab",
+		"quark:red_sandstone_bricks_vertical_slab": "minecraft:air",
+		"quark:red_sandstone_bricks_stairs": "somemoreblocks:red_sandstone_brick_stairs",
+		"quark:red_sandstone_bricks_wall": "somemoreblocks:red_sandstone_brick_wall",
+        "quark:soul_sandstone": "somemoreblocks:soul_sandstone",
+		"quark:soul_sandstone_slab": "somemoreblocks:soul_sandstone_slab",
+		"quark:soul_sandstone_vertical_slab": "minecraft:air",
+		"quark:soul_sandstone_stairs": "somemoreblocks:soul_sandstone_stairs",
+		"quark:soul_sandstone_wall": "somemoreblocks:soul_sandstone_wall",
+        "quark:soul_sandstone_bricks": "somemoreblocks:soul_sandstone_bricks",
+		"quark:soul_sandstone_bricks_slab": "somemoreblocks:soul_sandstone_brick_slab",
+		"quark:soul_sandstone_bricks_vertical_slab": "minecraft:air",
+		"quark:soul_sandstone_bricks_stairs": "somemoreblocks:soul_sandstone_brick_stairs",
+		"quark:soul_sandstone_bricks_wall": "somemoreblocks:soul_sandstone_brick_wall",
+		"quark:chiseled_soul_sandstone": "somemoreblocks:chiseled_soul_sandstone",
+        "quark:cut_soul_sandstone": "somemoreblocks:cut_soul_sandstone",
+        "quark:cut_soul_sandstone_slab": "somemoreblocks:cut_soul_sandstone_slab",
+        "quark:cut_soul_sandstone_vertical_slab": "minecraft:air",
+        "quark:smooth_soul_sandstone": "somemoreblocks:smooth_soul_sandstone",
+		"quark:smooth_soul_sandstone_slab": "somemoreblocks:smooth_soul_sandstone_slab",
+		"quark:smooth_soul_sandstone_vertical_slab": "minecraft:air",
+		"quark:smooth_soul_sandstone_stairs": "somemoreblocks:smooth_soul_sandstone_stairs",
+        "quark:netherrack_bricks": "netherexp:netherrack_bricks",
+		"quark:netherrack_bricks_slab": "netherexp:netherrack_brick_slab",
+		"quark:netherrack_bricks_vertical_slab": "minecraft:air",
+		"quark:netherrack_bricks_stairs": "netherexp:netherrack_brick_stairs",
+		"quark:netherrack_bricks_wall": "netherexp:netherrack_brick_wall",
+        "quark:blue_nether_bricks": "netherexp:blue_nether_bricks",
+		"quark:blue_nether_bricks_slab": "netherexp:blue_nether_brick_slab",
+		"quark:blue_nether_bricks_vertical_slab": "minecraft:air",
+		"quark:blue_nether_bricks_stairs": "netherexp:blue_nether_brick_stairs",
+		"quark:blue_nether_bricks_wall": "netherexp:blue_nether_brick_wall",
+        "quark:andesite_bricks": "somemoreblocks:andesite_bricks",
+		"quark:andesite_bricks_slab": "somemoreblocks:andesite_brick_slab",
+		"quark:andesite_bricks_vertical_slab": "minecraft:air",
+		"quark:andesite_bricks_stairs": "somemoreblocks:andesite_brick_stairs",
+		"quark:andesite_bricks_wall": "somemoreblocks:andesite_brick_wall",
+        "quark:chiseled_andesite_bricks": "somemoreblocks:chiseled_andesite_bricks",
+        "quark:andesite_pillar": "somemoreblocks:andesite_pillar",
+        "quark:diorite_bricks": "somemoreblocks:diorite_bricks",
+		"quark:diorite_bricks_slab": "somemoreblocks:diorite_brick_slab",
+		"quark:diorite_bricks_vertical_slab": "minecraft:air",
+		"quark:diorite_bricks_stairs": "somemoreblocks:diorite_brick_stairs",
+		"quark:diorite_bricks_wall": "somemoreblocks:diorite_brick_wall",
+        "quark:chiseled_diorite_bricks": "somemoreblocks:chiseled_diorite_bricks",
+        "quark:diorite_pillar": "somemoreblocks:diorite_pillar",
+        "quark:granite_bricks": "somemoreblocks:granite_bricks",
+		"quark:granite_bricks_slab": "somemoreblocks:granite_brick_slab",
+		"quark:granite_bricks_vertical_slab": "minecraft:air",
+		"quark:granite_bricks_stairs": "somemoreblocks:granite_brick_stairs",
+		"quark:granite_bricks_wall": "somemoreblocks:granite_brick_wall",
+        "quark:chiseled_granite_bricks": "somemoreblocks:chiseled_granite_bricks",
+        "quark:granite_pillar": "somemoreblocks:granite_pillar",
+        "quark:tuff_bricks": "somemoreblocks:tuff_bricks",
+		"quark:tuff_bricks_slab": "somemoreblocks:tuff_brick_slab",
+		"quark:tuff_bricks_vertical_slab": "minecraft:air",
+		"quark:tuff_bricks_stairs": "somemoreblocks:tuff_brick_stairs",
+		"quark:tuff_bricks_wall": "somemoreblocks:tuff_brick_wall",
+        "quark:chiseled_tuff_bricks": "somemoreblocks:chiseled_tuff_bricks",
+        "quark:tuff_pillar": "somemoreblocks:tuff_pillar",
+        // "quark:tuff_wall": "somemoreblocks:tuff_wall",
+        // "quark:tuff_slab": "somemoreblocks:tuff_slab",
+        // "quark:tuff_stairs": "somemoreblocks:tuff_stairs",
+        "quark:polished_tuff": "somemoreblocks:polished_tuff",
+        "quark:polished_tuff_slab": "somemoreblocks:polished_tuff_slab",
+        "quark:polished_tuff_vertical_slab": "minecraft:air",
+        "quark:polished_tuff_stairs": "somemoreblocks:polished_tuff_stairs",
+        "quark:calcite_bricks": "somemoreblocks:calcite_bricks",
+		"quark:calcite_bricks_slab": "somemoreblocks:calcite_brick_slab",
+		"quark:calcite_bricks_vertical_slab": "minecraft:air",
+		"quark:calcite_bricks_stairs": "somemoreblocks:calcite_brick_stairs",
+		"quark:calcite_bricks_wall": "somemoreblocks:calcite_brick_wall",
+        "quark:chiseled_calcite_bricks": "somemoreblocks:chiseled_calcite_bricks",
+        "quark:calcite_pillar": "somemoreblocks:calcite_pillar",
+        // "quark:calcite_wall": "somemoreblocks:calcite_wall",
+        // "quark:calcite_slab": "somemoreblocks:calcite_slab",
+        // "quark:calcite_stairs": "somemoreblocks:calcite_stairs",
+        "quark:polished_calcite": "somemoreblocks:polished_calcite",
+        "quark:polished_calcite_slab": "somemoreblocks:polished_calcite_slab",
+        "quark:polished_calcite_vertical_slab": "minecraft:air",
+        "quark:polished_calcite_stairs": "somemoreblocks:polished_calcite_stairs",
+        "quark:dripstone_bricks": "somemoreblocks:dripstone_bricks",
+		"quark:dripstone_bricks_slab": "somemoreblocks:dripstone_brick_slab",
+		"quark:dripstone_bricks_vertical_slab": "minecraft:air",
+		"quark:dripstone_bricks_stairs": "somemoreblocks:dripstone_brick_stairs",
+		"quark:dripstone_bricks_wall": "somemoreblocks:dripstone_brick_wall",
+        "quark:chiseled_dripstone_bricks": "somemoreblocks:chiseled_dripstone_bricks",
+        "quark:dripstone_pillar": "somemoreblocks:dripstone_pillar",
+        // "quark:dripstone_wall": "somemoreblocks:dripstone_wall",
+        // "quark:dripstone_slab": "somemoreblocks:dripstone_slab",
+        // "quark:dripstone_stairs": "somemoreblocks:dripstone_stairs",
+        "quark:polished_dripstone": "somemoreblocks:polished_dripstone",
+        "quark:polished_dripstone_slab": "somemoreblocks:polished_dripstone_slab",
+        "quark:polished_dripstone_vertical_slab": "minecraft:air",
+        "quark:polished_dripstone_stairs": "somemoreblocks:polished_dripstone_stairs",
+        "supplementaries:blackstone_tile": "somemoreblocks:polished_blackstone_tiles",
+		"supplementaries:blackstone_tile_slab": "somemoreblocks:polished_blackstone_tile_slab",
+		"supplementaries:blackstone_tile_stairs": "somemoreblocks:polished_blackstone_tile_stairs",
+		"supplementaries:blackstone_tile_wall": "somemoreblocks:polished_blackstone_tile_wall",
+        "supplementaries:stone_tile": "somemoreblocks:stone_tiles",
+		"supplementaries:stone_tile_slab": "somemoreblocks:stone_tile_slab",
+		"supplementaries:stone_tile_stairs": "somemoreblocks:stone_tile_stairs",
+		"supplementaries:stone_tile_wall": "somemoreblocks:stone_tile_wall"
+	}
+}
