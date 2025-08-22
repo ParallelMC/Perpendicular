@@ -767,6 +767,16 @@ hash = "6d2c7e84e061c516394e0f847e1b8fb81b8564fefd6d66f63fb23ac8e9527186"
 metafile = true
 
 [[files]]
+file = "mods/backported-animal-variants.pw.toml"
+hash = "5ed40eaaa26b619c64ddd2a668a135cb0810895469d460bf9476b7fa5353acbe"
+metafile = true
+
+[[files]]
+file = "mods/backported-wolves.pw.toml"
+hash = "753778e7deed4b8c321e21dee45f455ecac427eef70b45c7ffd82675af09945d"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "f5f2922db811265611e2495700dee0da02b12b4e0da49da3b464a488faa05e28"
 metafile = true
@@ -1717,6 +1727,11 @@ hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e8ffbf5788712fac841e1bb0bff8969697f99be47d6f1c3f41ebe9ac965016d3"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "a3fc2800be76f3406961d01ab4ab6805b4ca5e269f53d3cb2d58ea39d6afa9f2"
 metafile = true
@@ -1738,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "fc017a34acc87d9e654124192aeee7bbb4bf9ea7ec6a8cd401a4fd739864c14f"
+hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
 metafile = true
 
 [[files]]
