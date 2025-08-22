@@ -101,11 +101,14 @@ ServerEvents.tags("worldgen/biome", (event) => {
 
   // Add BWG biomes to Spelunkery feature placement
   event.add('spelunkery:has_desert_noise', '#forge:is_desert')
-  event.add('spelunkery:has_end_noise', '#minecraft:is_end')
-  event.remove('spelunkery:has_end_noise', 'minecraft:the_end')
-  event.add('spelunkery:has_stone_noise', '#minecraft:is_overworld')
-  event.remove('spelunkery:has_stone_noise', '#forge:is_cave')
-  event.remove('spelunkery:has_stone_noise', '#minecraft:is_ocean')
+  event.add('spelunkery:has_end_noise', '#nullscape:all_nullscape_biomes')
+  event.add('spelunkery:has_stone_noise', [
+      '#ars_nouveau:archwood_biome',
+      '#autumnity:has_structure/maple_hut',
+      '#biomeswevegone:overworld',
+      'neapolitan:strawberry_fields',
+      '#perpendicular:river_redux_biomes'
+  ])
   event.add('spelunkery:has_swamp_noise', '#forge:is_swamp')
 
   // Add BWG biomes to Twigs feature placement
@@ -118,11 +121,11 @@ ServerEvents.tags("worldgen/biome", (event) => {
   event.add('twigs:spawns_twig', '#forge:is_swamp')
 
   // Add extra biomes to Upgrade Aquatic feature placements
-  event.add('upgrade_aquatic:has_feature/beachgrass', 'perpendicular:river_redux_biomes')
-  event.add('upgrade_aquatic:has_feature/driftwood_river', 'perpendicular:river_redux_biomes')
-  event.add('upgrade_aquatic:has_feature/flowering_rush', 'perpendicular:river_redux_biomes')
-  event.add('upgrade_aquatic:has_feature/pickerelweed', 'perpendicular:river_redux_biomes')
-  event.add('upgrade_aquatic:has_feature/river_tree', 'perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_feature/beachgrass', '#perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_feature/driftwood_river', '#perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_feature/flowering_rush', '#perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_feature/pickerelweed', '#perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_feature/river_tree', '#perpendicular:river_redux_biomes')
   
 
   // -----------------
@@ -198,7 +201,7 @@ ServerEvents.tags("worldgen/biome", (event) => {
   event.add('unusualprehistory:is_veloci_biome', '#forge:is_desert')
 
   // Add extra biomes to Upgrade Aquatic mob spawns
-  event.add('upgrade_aquatic:has_spawn/pike', 'perpendicular:river_redux_biomes')
+  event.add('upgrade_aquatic:has_spawn/pike', '#perpendicular:river_redux_biomes')
   event.add('upgrade_aquatic:has_spawn/squid', '#forge:is_swamp')
 
 
@@ -269,8 +272,7 @@ ServerEvents.tags("worldgen/biome", (event) => {
 
   // Add more biomes to Bosses of Mass Destruction structures
   event.add('bosses_of_mass_destruction:collections/cold', '#forge:is_cold/overworld')
-  event.add('bosses_of_mass_destruction:collections/in_end', '#minecraft:is_end')
-  event.remove('bosses_of_mass_destruction:collections/in_end', 'minecraft:the_end')
+  event.add('bosses_of_mass_destruction:collections/in_end', '#nullscape:all_nullscape_biomes')
 
   // Add more biomes to Dimensional Doors structures
   event.add('dimdoors:enclosed_endstone_gateway', '#minecraft:is_end')
@@ -357,8 +359,14 @@ ServerEvents.tags("worldgen/biome", (event) => {
   ])
   event.add('minecraft:has_structure/ruined_portal_desert', '#forge:is_desert')
   event.add('minecraft:has_structure/ruined_portal_swamp', '#forge:is_swamp')
-  event.add('minecraft:has_structure/stronghold', '#minecraft:is_overworld')
-  event.remove('minecraft:has_structure/stronghold', '#minecraft:is_ocean')
+  event.add('minecraft:has_structure/stronghold', [
+      '#ars_nouveau:archwood_biome',
+      '#autumnity:has_structure/maple_hut',
+      '#biomeswevegone:overworld',
+      '#forge:is_cave',
+      'neapolitan:strawberry_fields',
+      '#perpendicular:river_redux_biomes'
+  ])
 
   // Add more biomes to Dungeons and Taverns (NovaStructures) structures
   event.add('nova_structures:illager_hideout', [
@@ -452,7 +460,6 @@ ServerEvents.tags("worldgen/biome", (event) => {
   ])
 
   // Add more biomes to Tinkers' Construct structures
-  event.add('tconstruct:islands/enderslime', '#minecraft:is_end')
-  event.remove('tconstruct:islands/enderslime', 'minecraft:the_end')
+  event.add('tconstruct:islands/enderslime', '#nullscape:all_nullscape_biomes')
 
 });
