@@ -841,7 +841,7 @@
 					"Is Blacklist" = true
 
 		[world.big_stone_clusters.limestone]
-			Enabled = false
+			Enabled = true
 			#Allowed values: [0,)
 			Rarity = 4
 			"Min Y Level" = 20
@@ -1182,7 +1182,7 @@
 
 			[world.new_stone_types.limestone.dimensions]
 				"Is Blacklist" = false
-				Dimensions = []
+				Dimensions = ["minecraft:overworld"]
 
 			[world.new_stone_types.limestone.oregen_lower]
 				#Allowed values: [-64,320]
