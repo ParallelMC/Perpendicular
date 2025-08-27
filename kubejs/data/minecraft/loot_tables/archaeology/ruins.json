@@ -1,0 +1,178 @@
+{
+	"type": "minecraft:archaeology",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wild_armor_trim_smithing_template"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bell"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:skeleton_skull"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:diamond"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:friend_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:archer_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:blade_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:sheaf_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:howl_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:heart_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:miner_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:prize_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:emerald"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:iron_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:gold_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:copper_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:stone_sword"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:stone_pickaxe"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:bow"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:brick"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:book"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:name_tag"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:lead"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:bone"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:stick"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:glass_bottle"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:bowl"
+				}
+			]
+		}
+	]
+}
