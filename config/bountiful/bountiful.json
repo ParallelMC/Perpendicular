@@ -1,0 +1,16 @@
+{
+    "boardUpdateFrequency": 45,
+    "boardGenFrequency": 2,
+    "flatBonusTimePerBounty": 0,
+    "shouldBountiesHaveTimersAndExpire": true,
+    "dataPackExclusions": [
+        "bounty_decrees/bountiful/leatherer",
+		"bounty_decrees/bountiful/mapper",
+		"bounty_decrees/bountiful/fletcher",
+		"bounty_decrees/bountiful/toolsmith",
+		"bounty_decrees/bountiful/shepherd"
+    ],
+    "objectiveModifier": 0,
+    "maxNumRewards": 2,
+    "showCompletionToast": true
+}

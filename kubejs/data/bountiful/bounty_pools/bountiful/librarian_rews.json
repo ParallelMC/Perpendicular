@@ -1,0 +1,157 @@
+
+{
+	"content": {
+
+        "ench_book_protect": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6000,
+            "nbt": "{StoredEnchantments:[{lvl:3s,id:\"minecraft:protection\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_book_feather_falling": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:3s,id:\"minecraft:feather_falling\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_book_respiration": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:respiration\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_book_thorns": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:thorns\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_bookdepth_strider": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:depth_strider\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_book_sharpness": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6000,
+            "nbt": "{StoredEnchantments:[{lvl:4s,id:\"minecraft:sharpness\"}]}",
+            "weightMult": 0.5
+        },
+
+        "ench_book_frost_walker": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:frost_walker\"}]}",
+            "weightMult": 0.5
+        },
+
+        "managlass": {
+            "type": "item",
+            "content": "botania:mana_glass",
+            "amount": {
+                "min": 1,
+                "max": 48
+            },
+            "unitWorth": 250
+        },
+
+		"common_ink": {
+			"type": "item",
+            "rarity": "UNCOMMON",
+			"content": "irons_spellbooks:common_ink",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 3000
+		},
+
+		"uncommon_ink": {
+			"type": "item",
+            "rarity": "RARE",
+			"content": "irons_spellbooks:uncommon_ink",
+			"amount": {
+				"min": 1,
+				"max": 2
+			},
+			"unitWorth": 12000
+		},
+
+        "name_tag": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:name_tag",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4500
+        },
+
+        "name_tag_bargain": {
+            "type": "item",
+			"rarity": "LEGENDARY",
+            "content": "minecraft:name_tag",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2500
+        },
+
+		"bottled_cloud": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "quark:bottled_cloud",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 3000
+		}
+
+	}
+
+}

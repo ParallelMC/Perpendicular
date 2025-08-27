@@ -1,0 +1,205 @@
+
+{
+	"content": {
+
+        "ench_book_lure": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:lure\"}]}"
+        },
+
+        "ench_book_luck_sea": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 3000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:luck_of_the_sea\"}]}"
+        },
+
+        "ench_book_unbreaking": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:unbreaking\"}]}"
+        },
+
+        "naut_shell": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "minecraft:nautilus_shell",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1100.0
+        },
+
+        "name_tag": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "minecraft:name_tag",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 4000
+        },
+
+        "sponge": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "minecraft:sponge",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000
+        },
+
+        "heart_sea": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:heart_of_the_sea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 15000
+        },
+
+        "neptunium": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "aquaculture:neptunium_ingot",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 15000
+        },
+
+        "worm": {
+            "type": "item",
+            "content": "aquaculture:worm",
+            "amount": {
+                "min": 4,
+                "max": 10
+            },
+            "unitWorth": 50
+        },
+
+        "moth": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "aquamirae:golden_moth_in_a_jar",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000
+        },
+
+        "black_cod": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "farmersrespite:black_cod",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 900
+        },
+
+        "cod_stew": {
+            "type": "item",
+            "content": "farmersdelight:baked_cod_stew",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 800
+        },
+
+        "grilled_salmon": {
+            "type": "item",
+            "content": "farmersdelight:grilled_salmon",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 850
+        },
+
+        "ink_pasta": {
+            "type": "item",
+            "content": "farmersdelight:squid_ink_pasta",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 900
+        },
+
+        "pirate_pouch": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "aquamirae:pirate_pouch",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1000
+        },
+
+        "luminescent_lamp": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "aquamirae:luminescent_lamp",
+            "amount": {
+                "min": 4,
+                "max": 12
+            },
+            "unitWorth": 1000
+        },
+
+        "luminescent_bubble": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "aquamirae:luminescent_bubble",
+            "amount": {
+                "min": 4,
+                "max": 12
+            },
+            "unitWorth": 1000
+        },
+
+        "abyssal_tablet": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "alexscaves:cave_tablet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{CaveBiome:\"alexscaves:abyssal_chasm\"}"
+        }
+
+	}
+
+}
