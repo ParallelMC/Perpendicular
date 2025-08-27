@@ -1,13 +1,13 @@
 name = "Advanced Book"
-filename = "advancedbook-2.0.1.jar"
+filename = "advancedbook-2.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "30c1a7145a462521e0da9eb4ce2f03baaa38807d"
+hash = "abcc1e4743c79e8ff44f4a6cb0bff56d8927090c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6400864
+file-id = 6837300
 project-id = 1167321
