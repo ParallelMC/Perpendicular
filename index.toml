@@ -2141,6 +2141,11 @@ hash = "47c45d5e9c8dd1d1a388d3bfc3de5fb91fe1b0f699036983a7e25c30b5d68c22"
 metafile = true
 
 [[files]]
+file = "mods/save-loot-tables.pw.toml"
+hash = "58381126810adbff55501ca123407898384788371d99b51d4726e76e7c9dfeef"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "a1f6571f7d6b658df8ba11cfd2a770694b35ece6f6db719de72a75947c2c2a1c"
 metafile = true
