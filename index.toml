@@ -457,6 +457,14 @@ file = "kubejs/data/catalysm/worldgen/structure_set/sunken_city.json"
 hash = "e45341bf9416d91b2da089edfb0a57a4bf65bb1f6b39bd2570d71fd2c1a43c43"
 
 [[files]]
+file = "kubejs/data/minecraft/loot_tables/archaeology/jungle_ruins.json"
+hash = "6ac73d70a8baa99f177f274441dbdc7953c45d2d372c2515518bce60082c0179"
+
+[[files]]
+file = "kubejs/data/minecraft/loot_tables/archaeology/ruins.json"
+hash = "3c1ff6dc99dbb397ca316a2d83e9506b7a9a3c4016f8e0cbc471f7847add5c23"
+
+[[files]]
 file = "kubejs/data/perpendicular/dimension/lacrimosa.json"
 hash = "7d34d321b525ad430007acfa71cd3d89e27a6301860bc44ea970a73a27dff1b9"
 
@@ -519,10 +527,6 @@ hash = "68129c75445c7fbf9742f0909405c6accb8308cb6bd73231763038fa2fa76b92"
 [[files]]
 file = "kubejs/data/productivebees/tconstruct/sky_slimy.json"
 hash = "ac25367494d0a062351ab30123a4168d07d54e6724aa19028536f713c324997e"
-
-[[files]]
-file = "kubejs/data/queen_bee/worldgen/structure_set/beehive.json"
-hash = "debc14bb447829ba27ecb9f79f5f74c4e2bdfc52685a1a8063b8e0342f813d9a"
 
 [[files]]
 file = "kubejs/data/spelunkery/overrides/worldgen/configured_feature/oreganized/silver_ore.json"
@@ -2044,11 +2048,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
-metafile = true
-
-[[files]]
-file = "mods/queen-bee.pw.toml"
-hash = "37c36c17ffcab84146bc5310ec975147c5305c5844400006fc962bffbf344b61"
 metafile = true
 
 [[files]]
