@@ -154,11 +154,11 @@ hash = "2a461cb34e9278577de30c508946c068ac9334545d4d6fd8cea08404ca13f70d"
 
 [[files]]
 file = "config/incontrol/events.json"
-hash = "616ac50fa283aabccd2203734117e4e1a5b5b979f21b3687726fba43bc9b21dd"
+hash = "76aa5f75ef75c581a3f3b7b7764c487a1d002a8271ba33203c3375e4a0eb3806"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "2efd46c77b7cd97b2685ecebc14ef538a405b7c1783b7c408631b07b966523ca"
+hash = "ff5a6dc03cb0dc93240a949a3da4613a1c3558d374adddae2e7bda6a122b3f70"
 
 [[files]]
 file = "config/lmft.json"
