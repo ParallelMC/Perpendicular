@@ -15,4 +15,12 @@ JEIEvents.information(event => {
     'Works with the Morphing Tool. Combine with the Tool in a crafting grid to add as an attachment.'
   ])
 
+  event.addItem('eccentrictome:tome', [
+    'A curious item that can hold guidebooks from various mods.',
+    'Right-click to open the book selection screen.',
+    'Left-click on air to revert a book back to the Tome.',
+    'To remove a book, transform the Tome into the book you want to remove, then press sneak + drop.',
+    'Best to separate out any books you intend to throw into strange portals.'
+  ])
+
 })
