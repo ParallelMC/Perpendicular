@@ -13,6 +13,9 @@ ServerEvents.recipes(event => {
     'enderio:yeta_wrench',
     'etcetera:wrench',
 
+    // MrCrayfish cutting board recipes
+    /refurbished_furniture:slicing/,
+
     // Meadow woodcutting recipes
     /meadow:wood_cutter/,
 

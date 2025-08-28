@@ -20,5 +20,6 @@ JEIEvents.addItems(event => {
 
 // Hide recipe categories
 JEIEvents.removeCategories(event => {
+  event.remove('refurbished_furniture:cutting_board_slicing')
   event.remove('meadow:woodcutting')
 })
