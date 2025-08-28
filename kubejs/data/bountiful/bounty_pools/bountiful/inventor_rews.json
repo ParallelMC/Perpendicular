@@ -1,0 +1,217 @@
+
+{
+	"content": {
+        "sticky_piston": {
+            "type": "item",
+            "content": "minecraft:sticky_piston",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 1200,
+            "weightMult": 0.6
+        },
+
+        "repeater": {
+            "type": "item",
+            "content": "minecraft:repeater",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 750,
+            "weightMult": 0.6
+        },
+
+        "comparator": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:comparator",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 1000,
+            "weightMult": 0.6
+        },
+
+        "redstone_lamp": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:redstone_lamp",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 1200,
+            "weightMult": 0.6
+        },
+
+        "dispenser": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:dispenser",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 1000,
+            "weightMult": 0.6
+        },
+
+        "observer": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:observer",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 750,
+            "weightMult": 0.6
+        },
+
+        "reinf_chest": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pneumaticcraft:reinforced_chest",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 4500
+        },
+
+        "iron_rod": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "quark:iron_rod",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 6000
+        },
+
+        "item_conduit": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "enderio:item_conduit",
+            "amount": {
+                "min": 8,
+                "max": 25
+            },
+            "unitWorth": 1000
+        },
+
+        "pre_fluid_conduit": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "enderio:pressurized_fluid_conduit",
+            "amount": {
+                "min": 8,
+                "max": 25
+            },
+            "unitWorth": 1100
+        },
+
+        "energy_conduit": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "enderio:energy_conduit",
+            "amount": {
+                "min": 8,
+                "max": 25
+            },
+            "unitWorth": 1100
+        },
+
+        "aphorism_tile": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "pneumaticcraft:aphorism_tile",
+            "amount": {
+                "min": 1,
+                "max": 8
+            },
+            "unitWorth": 2000
+        },
+
+        "omni_hopper": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pneumaticcraft:omnidirectional_hopper",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1500
+        },
+
+        "fluid_hopper": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "pneumaticcraft:fluid_hopper",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1500
+        },
+
+        "andesite_alloy": {
+            "type": "item",
+            "content": "create:andesite_alloy",
+            "amount": {
+                "min": 5,
+                "max": 30
+            },
+            "unitWorth": 650
+        },
+
+		"nitroglycerin": {
+			"type": "item",
+			"rarity": "EPIC",
+			"content": "crossroads:nitroglycerin",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 4000
+		},
+
+		"vacuum": {
+			"type": "item",
+			"rarity": "LEGENDARY",
+			"content": "crossroads:vacuum",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 15000
+		},
+
+		"wither_cannon": {
+			"type": "item",
+			"rarity": "LEGENDARY",
+			"content": "essentials:wither_cannon",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 15000
+		},
+
+        "magnetic_tablet": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "alexscaves:cave_tablet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{CaveBiome:\"alexscaves:magnetic_caves\"}"
+        }
+	}
+}

@@ -22,4 +22,32 @@ ServerEvents.tags('item', event => {
     'alexscaves:hazmat_leggings',
     'alexscaves:hazmat_boots'
   ]);
+
+  // Morph-O-Tool wrench-like items
+  event.add('perpendicular:morph_tools', [
+    'ad_astra:wrench',
+    'ae2:memory_card',
+    'ae2:network_tool',
+    'ars_nouveau:dominion_wand',
+    'betterp2p:advanced_memory_card',
+    'botania:dreamwood_wand',
+    'botania:obedience_stick',
+    'botania:twig_wand',
+    'create:wrench',
+    'crossroads:omnimeter',
+    'essentials:circuit_wrench',
+    'essentials:linking_tool',
+    'essentials:wrench',
+    'fluxnetworks:flux_configurator',
+    'functionalstorage:configuration_tool',
+    'functionalstorage:linking_tool',
+    'pneumaticcraft:logistics_configurator',
+    'pneumaticcraft:pneumatic_wrench',
+    'rats:cheese_stick',
+    'rats:patrol_staff',
+    'rats:radius_stick',
+    'refurbished_furniture:wrench',
+    'supplementaries:wrench',
+    'thermal:wrench'
+  ]);
 });

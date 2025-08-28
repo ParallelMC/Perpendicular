@@ -1,0 +1,144 @@
+{
+	"content": {
+
+		"primary_currency": {
+			"type": "item",
+			"content": "minecraft:emerald",
+			"amount": {
+				"min": 1,
+				"max": 64
+			},
+			"unitWorth": 500
+		},
+
+		"iron_block": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "minecraft:iron_block",
+			"amount": {
+				"min": 1,
+				"max": 6
+			},
+			"unitWorth": 1200,
+			"weightMult": 0.2
+		},
+
+		"zombie": {
+			"type": "entity",
+			"timeMult": 5.0,
+			"content": "minecraft:zombie",
+			"amount": {
+				"min": 1,
+				"max": 10
+			},
+			"unitWorth": 500,
+			"weightMult": 0.8
+		},
+
+		"spider": {
+			"type": "entity",
+			"timeMult": 5.0,
+			"content": "minecraft:spider",
+			"amount": {
+				"min": 1,
+				"max": 10
+			},
+			"unitWorth": 500,
+			"weightMult": 0.8
+		},
+
+		"creeper": {
+			"type": "entity",
+			"timeMult": 7.0,
+			"content": "minecraft:creeper",
+			"amount": {
+				"min": 1,
+				"max": 10
+			},
+			"unitWorth": 700,
+			"weightMult": 0.7
+		},
+
+		"dirt": {
+			"type": "item",
+			"content": "minecraft:dirt",
+			"amount": {
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 15,
+			"weightMult": 0.3
+		},
+
+		"cobblestone": {
+			"type": "item",
+			"content": "minecraft:cobblestone",
+			"amount": {
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 25,
+			"weightMult": 0.3
+		},
+
+		"stonebrick": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:stone_bricks",
+			"amount": {
+				"min": 12,
+				"max": 64
+			},
+			"unitWorth": 50,
+			"weightMult": 0.3
+		},
+
+		"deepslate": {
+			"type": "item",
+			"content": "minecraft:deepslate",
+			"amount": {
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 35,
+			"weightMult": 0.2
+		},
+
+		"deepslate_bricks": {
+			"type": "item",
+			"content": "minecraft:deepslate_bricks",
+			"amount": {
+				"min": 24,
+				"max": 64
+			},
+			"unitWorth": 70,
+			"weightMult": 0.2
+		},
+
+		"skeleton": {
+			"type": "entity",
+			"timeMult": 6.0,
+			"content": "minecraft:skeleton",
+			"amount": {
+				"min": 1,
+				"max": 10
+			},
+			"unitWorth": 600,
+			"weightMult": 0.8
+		},
+
+		"wraith": {
+			"type": "entity",
+			"timeMult": 8.0,
+			"content": "eidolon:wraith",
+			"amount": {
+				"min": 1,
+				"max": 10
+			},
+			"unitWorth": 800,
+			"weightMult": 0.6
+		}
+
+	}
+
+}
