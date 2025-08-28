@@ -470,7 +470,7 @@ hash = "f8663598f0ffdd2ac678c1ee45b756ade762e79609358b2afb099f5b8db2bf29"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/_all_objs.json"
-hash = "31f93745a48f1fa67ed62816b4188b5d48ebc3755fb0756996fa9a366864a3b8"
+hash = "357128ab423948ec623798095932b75c02cf61c600a0912de1109606fb386f0f"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/_all_rews.json"
@@ -510,7 +510,7 @@ hash = "94cf385973b8c1ecbcb07b60296271358f43198082fa229a6396a8540c41ba99"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/cleric_rews.json"
-hash = "383bbeba9786460aff4e4a8cbe448ebae315f0c93229e843057e965207f9ef4b"
+hash = "0a99f19f3088c970218461d425ccafaa18698d298c18a2b744bf851656bfc790"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/farmer_objs.json"
@@ -534,7 +534,7 @@ hash = "5d4ec3c82fd33b24921c9fcdd484d9af889ca9cb20ec3e176baec00de808b101"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/inventor_rews.json"
-hash = "514a0b512aa5321025b9d2d382dc91d91dbb3d2d56660cb22157735e6b940c54"
+hash = "2a27142473b9e38f1dd490b26ce3f5ca17f3546d13b8e4376412aca61a1aae5a"
 
 [[files]]
 file = "kubejs/data/bountiful/bounty_pools/bountiful/librarian_objs.json"
@@ -575,6 +575,14 @@ hash = "e45341bf9416d91b2da089edfb0a57a4bf65bb1f6b39bd2570d71fd2c1a43c43"
 [[files]]
 file = "kubejs/data/irons_spellbooks/advancements/grant_patchouli.json"
 hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
+file = "kubejs/data/meadow/worldgen/configured_feature/ores/ore_salt_buried.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
+
+[[files]]
+file = "kubejs/data/meadow/worldgen/configured_feature/ores/ore_salt_upper.json"
+hash = "8b5227d0129cdc90238fe47c5f76957016f14034daddbef0f8e4e1dc9929bb40"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/archaeology/jungle_ruins.json"
@@ -694,7 +702,7 @@ hash = "096d58642d7ff713af571201224ae0f6f9d1766349948a040e22d5ebd7ac4db4"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
-hash = "4d04e8e60391e6e45195838e14e70867d0afb6552c1e27e665bc4e8924ed0830"
+hash = "afd7e169ed7c7a74bf942886779b7fc39fbec20a7422755de15e702fe8652bd9"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
