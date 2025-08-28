@@ -50,4 +50,10 @@ ServerEvents.tags('item', event => {
     'supplementaries:wrench',
     'thermal:wrench'
   ]);
+
+  // Unify knives
+  event.add('farmersdelight:tools/knives', [
+    'aquaculture:neptunium_fillet_knife'
+  ]);
+
 });

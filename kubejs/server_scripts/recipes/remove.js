@@ -13,6 +13,14 @@ ServerEvents.recipes(event => {
     'enderio:yeta_wrench',
     'etcetera:wrench',
 
+    // Knives
+    'aquaculture:wooden_fillet_knife',
+    'aquaculture:stone_fillet_knife',
+    'aquaculture:iron_fillet_knife',
+    'aquaculture:gold_fillet_knife',
+    'aquaculture:diamond_fillet_knife',
+    'refurbished_furniture:knife',
+
     // MrCrayfish cutting board recipes
     /refurbished_furniture:slicing/,
 
