@@ -63,6 +63,16 @@ JEIEvents.hideItems(event => {
 
     // Dragon loot
     'irons_spellbooks:dragonskin',
+
+    // Quark azalea removal
+    /railways:track_quark_azalea/,
+    /dramaticdoors:.*quark_azalea/,
+    /everycomp:.*quark.*azalea/,
+    /productivebees:.*quark_azalea/,
+    /supplementaries:quark.*azalea/,
+    'shutter:azalea_quark_shutter',
+    Item.of('iwannaskate:skateboard', '{Damage:0,Skateboard:{GripTape:-1,MadeOf:"quark:azalea_planks_slab",WheelType:-1}}'),
+    Item.of('iwannaskate:skateboard_deck', '{Skateboard:{GripTape:-1,MadeOf:"quark:azalea_planks_slab",WheelType:-1}}'),
   ]);
 });
 

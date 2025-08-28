@@ -86,7 +86,18 @@ ServerEvents.recipes(event => {
     'thermal:storage/gunpowder_from_block',
 
     // Sulfur
-    'spelunkery:sulfur_block'
+
+    // Quark azalea removal
+    /railways:track_quark_azalea/,
+    /dramaticdoors:.*quark_azalea/,
+    /everycomp:.*quark.*azalea/,
+    /productivebees:.*quark_azalea/,
+    /supplementaries:quark.*azalea/,
+    'shutter:azalea_quark_shutter',
+    'iwannaskate:jei.skateboard_azalea_planks_slab',
+    'iwannaskate:jei.skateboard_deck_azalea_planks_slab',
+    'sullysmod:grindstone_polishing/cataclysm/polished_endstone_from_endstone',
+
 
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
