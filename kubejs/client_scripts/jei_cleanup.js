@@ -17,3 +17,8 @@ JEIEvents.addItems(event => {
   event.add([
   ]);
 });
+
+// Hide recipe categories
+JEIEvents.removeCategories(event => {
+  event.remove('meadow:woodcutting')
+})
