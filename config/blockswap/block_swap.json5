@@ -90,6 +90,7 @@ to make editing this file much easier.
 		"alexscaves:amber": "sullysmod:amber",
 		"bloomingnature:quicksand": "biomeswevegone:quicksand",
 		"meadow:woodcutter": "sawmill:sawmill",
+		"spelunkery:rock_salt": "minecraft:air",
 		"spelunkery:rock_salt_block": "minecraft:granite",
 		"spelunkery:sulfur_block": "alexscaves:sulfur",
         "biomeswevegone:beach_grass": "somemoreblocks:dune_grass",

@@ -82,7 +82,7 @@ hash = "71ec39144914c78dd1685d4abcab8413ae2d4d0dd19af23667d58b12571b48db"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "1bebf9e4408f4d7f6dce784ee74c050db119b87e82eeb4b376578f856fed69db"
+hash = "16ecd870130bafca40a63a23c507736e51494673f72e7c9c5ba98279ff8bac06"
 
 [[files]]
 file = "config/botania-common.toml"
@@ -694,7 +694,7 @@ hash = "096d58642d7ff713af571201224ae0f6f9d1766349948a040e22d5ebd7ac4db4"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
-hash = "afd7e169ed7c7a74bf942886779b7fc39fbec20a7422755de15e702fe8652bd9"
+hash = "4d04e8e60391e6e45195838e14e70867d0afb6552c1e27e665bc4e8924ed0830"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
