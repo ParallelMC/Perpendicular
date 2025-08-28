@@ -17,7 +17,7 @@
 			"content": "minecraft:iron_block",
 			"amount": {
 				"min": 1,
-				"max": 6
+				"max": 3
 			},
 			"unitWorth": 1200,
 			"weightMult": 0.2
@@ -31,7 +31,7 @@
 				"min": 1,
 				"max": 10
 			},
-			"unitWorth": 500,
+			"unitWorth": 750,
 			"weightMult": 0.8
 		},
 
@@ -43,7 +43,7 @@
 				"min": 1,
 				"max": 10
 			},
-			"unitWorth": 500,
+			"unitWorth": 750,
 			"weightMult": 0.8
 		},
 
@@ -55,7 +55,7 @@
 				"min": 1,
 				"max": 10
 			},
-			"unitWorth": 700,
+			"unitWorth": 900,
 			"weightMult": 0.7
 		},
 
@@ -123,7 +123,7 @@
 				"min": 1,
 				"max": 10
 			},
-			"unitWorth": 600,
+			"unitWorth": 750,
 			"weightMult": 0.8
 		},
 
@@ -135,7 +135,7 @@
 				"min": 1,
 				"max": 10
 			},
-			"unitWorth": 800,
+			"unitWorth": 850,
 			"weightMult": 0.6
 		}
 
