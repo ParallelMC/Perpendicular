@@ -41,4 +41,8 @@ ServerEvents.recipes(event => {
   event.replaceInput({id: 'thermal:machines/press/unpacking/press_sugar_cane_unpacking'}, 'thermal:sugar_cane_block', 'quark:sugar_cane_block')
   event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_gunpowder_packing'}, 'thermal:gunpowder_block', 'quark:gunpowder_sack')
   event.replaceInput({id: 'thermal:machines/press/unpacking/press_gunpowder_unpacking'}, 'thermal:gunpowder_block', 'quark:gunpowder_sack')
+
+  // Amber
+  event.replaceOutput({id: 'unusualprehistory:amber_block'}, 'unusualprehistory:amber_block', 'sullysmod:amber')
+  replaceEverywhere('alexscaves:amber', 'sullysmod:amber')
 });

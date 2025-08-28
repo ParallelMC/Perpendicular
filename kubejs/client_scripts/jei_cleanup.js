@@ -56,6 +56,10 @@ JEIEvents.hideItems(event => {
 
     // Sulfur
     'spelunkery:sulfur_block',
+
+    // Amber
+    'alexscaves:amber',
+    'unusualprehistory:amber_block'
   ]);
 });
 
