@@ -2597,6 +2597,11 @@ hash = "13447e9394f8c7aa9b30c62b4359ac725cda1bad3187f5a14cf0577d204b8aec"
 metafile = true
 
 [[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "c386f1d1259257dd560da108f648e409d9c3c16210342252bfb6bb97502720b6"
+metafile = true
+
+[[files]]
 file = "mods/vibrative-voice.pw.toml"
 hash = "5b5c48a216cd3188a77a2c7017d918ad88fade82a29ad96a73690164af3e3c35"
 metafile = true
