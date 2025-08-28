@@ -98,6 +98,16 @@ JEIEvents.hideItems(event => {
     // Dragon loot
     'irons_spellbooks:dragonskin',
 
+    // Grasses
+    'biomeswevegone:beach_grass',
+    'biomeswevegone:tall_beach_grass',
+    'upgrade_aquatic:beachgrass',
+    'upgrade_aquatic:tall_beachgrass',
+
+    // Misc natural blocks
+    'bloomingnature:quicksand',
+    'unusualprehistory:permafrost',
+
     // Quark azalea removal
     /railways:track_quark_azalea/,
     /dramaticdoors:.*quark_azalea/,

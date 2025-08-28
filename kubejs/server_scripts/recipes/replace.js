@@ -48,4 +48,9 @@ ServerEvents.recipes(event => {
 
   // Dragon loot
   event.replaceInput({id: 'irons_spellbooks:dragonskin_spell_book'}, 'irons_spellbooks:dragonskin', 'tconstruct:dragon_scale')
+
+  // Misc natural blocks
+  event.replaceOutput({id: 'bloomingnature:quicksand'}, 'bloomingnature:quicksand', 'biomeswevegone:quicksand')
+  event.replaceInput({id: 'upgrade_aquatic:beachgrass_thatch'}, 'upgrade_aquatic:beachgrass', 'somemoreblocks:dune_grass')
+
 });
