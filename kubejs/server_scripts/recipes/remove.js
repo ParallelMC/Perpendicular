@@ -4,6 +4,20 @@ ServerEvents.recipes(event => {
   // By recipe ID
   [
     // -----------------
+    // Duplicate recipes
+    // -----------------
+
+    // Vanilla items
+    'aether:aether_saddle',
+    'essentials:name_tag',
+
+    // Gears
+    'enderio:iron_gear',
+    'industrialforegoing:diamond_gear',
+    'industrialforegoing:gold_gear',
+    'industrialforegoing:iron_gear',
+
+    // -----------------
     // Unification
     // -----------------
 
