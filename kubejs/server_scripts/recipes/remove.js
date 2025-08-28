@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
   // By recipe ID
   [
     // -----------------
-    // REDUNDANT ITEMS
+    // Unification
     // -----------------
 
     // Wrenches
@@ -54,6 +54,25 @@ ServerEvents.recipes(event => {
 
     // Meadow woodcutting recipes
     /meadow:wood_cutter/,
+
+    // Storage blocks
+    'vinery:apple_bag',
+    'vinery:apples',
+    'thermal:storage/apple_block',
+    'thermal:storage/apple_from_block',
+    'thermal:storage/potato_block',
+    'thermal:storage/potato_from_block',
+    'thermal:storage/carrot_block',
+    'thermal:storage/carrot_from_block',
+    'thermal:storage/beetroot_block',
+    'thermal:storage/beetroot_from_block',
+    'thermal:storage/sugar_cane_block',
+    'thermal:storage/sugar_cane_from_block',
+    'thermal:storage/gunpowder_block',
+    'thermal:storage/gunpowder_from_block',
+
+    // Sulfur
+    'spelunkery:sulfur_block'
 
   ].forEach((recipeID) => event.remove({id: recipeID}));
 

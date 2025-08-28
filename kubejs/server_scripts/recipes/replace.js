@@ -28,4 +28,17 @@ ServerEvents.recipes(event => {
   // Toast
   event.replaceInput({}, 'refurbished_furniture:toast', 'some_assembly_required:toasted_bread_slice')
 
+  // Storage blocks
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_apple_packing'}, 'thermal:apple_block', 'quark:apple_crate')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_apple_unpacking'}, 'thermal:apple_block', 'quark:apple_crate')
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_potato_packing'}, 'thermal:potato_block', 'farmersdelight:potato_crate')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_potato_unpacking'}, 'thermal:potato_block', 'farmersdelight:potato_crate')
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_carrot_packing'}, 'thermal:carrot_block', 'farmersdelight:carrot_crate')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_carrot_unpacking'}, 'thermal:carrot_block', 'farmersdelight:carrot_crate')
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_beetroot_packing'}, 'thermal:beetroot_block', 'farmersdelight:beetroot_crate')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_beetroot_unpacking'}, 'thermal:beetroot_block', 'farmersdelight:beetroot_crate')
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_sugar_cane_packing'}, 'thermal:sugar_cane_block', 'quark:sugar_cane_block')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_sugar_cane_unpacking'}, 'thermal:sugar_cane_block', 'quark:sugar_cane_block')
+  event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_gunpowder_packing'}, 'thermal:gunpowder_block', 'quark:gunpowder_sack')
+  event.replaceInput({id: 'thermal:machines/press/unpacking/press_gunpowder_unpacking'}, 'thermal:gunpowder_block', 'quark:gunpowder_sack')
 });

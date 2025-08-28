@@ -4,6 +4,10 @@
 JEIEvents.hideItems(event => {
   event.hide([
 
+    // -----------------
+    // Unification
+    // -----------------
+
     // Wrenches
     '#ae2:quartz_wrench',
     'enderio:yeta_wrench',
@@ -41,6 +45,17 @@ JEIEvents.hideItems(event => {
     'aquaculture:diamond_fillet_knife',
     'refurbished_furniture:knife',
 
+    // Storage blocks
+    'vinery:apple_bag',
+    'thermal:apple_block',
+    'thermal:potato_block',
+    'thermal:carrot_block',
+    'thermal:beetroot_block',
+    'thermal:sugar_cane_block',
+    'thermal:gunpowder_block',
+
+    // Sulfur
+    'spelunkery:sulfur_block',
   ]);
 });
 
