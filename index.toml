@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "ebdcd0bea168ee286993b1b9d01051b6eec511f13e3ef6b705deae36a46753dd"
+
+[[files]]
 file = "config/Obscuria/obscure-api-client.toml"
 hash = "978e952719c35724ffc46d0839646e5fa9eecfd268df41de0389da009a5ec80e"
 
@@ -69,6 +73,10 @@ file = "config/armorstatues-client.toml"
 hash = "ef1e3f7e146fff952530d0be20546e18287d6b4543e9987515378eb8be7f54c2"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "732702004fcc02128294ff9b4f30b1a07dd15977b64f24d019464c4c6ccc6b1a"
+
+[[files]]
 file = "config/betternethermap-common.toml"
 hash = "71ec39144914c78dd1685d4abcab8413ae2d4d0dd19af23667d58b12571b48db"
 
@@ -79,6 +87,10 @@ hash = "46a58780afa19c69ab673a2f1323298ae56c0462e74848bc665729172c683b67"
 [[files]]
 file = "config/botania-common.toml"
 hash = "35c54cc03dbfdc948bfaee6c45a3f5ac0156abff12abf879f91337497ee865db"
+
+[[files]]
+file = "config/bountiful/bountiful.json"
+hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -237,6 +249,10 @@ file = "config/tconstruct-client.toml"
 hash = "f2d181296e3653a1eda8064101046ce5b9970d5e2e2abe120709241e0d7fcf42"
 
 [[files]]
+file = "config/tconstruct-common.toml"
+hash = "3706ce716247028474b2335bb8301a5d8742875f96523c70925e6c3fed90c79d"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "2c13dc94794ed54c3a74d8a3d195db26753b74fc9100d4ad15a6689220a50503"
 
@@ -389,8 +405,32 @@ file = "defaultconfigs/torchslabmod-server.toml"
 hash = "e9cedcecd88b82e97337e66f710183b33a4dc6db5e791a79b541c38e9619e7c5"
 
 [[files]]
+file = "kubejs/assets/ad_astra/lang/en_us.json"
+hash = "7a0ebfd00958f0ef65405a879e6b1465ab0a9fa00e619035ae0a6070b08dc08c"
+
+[[files]]
 file = "kubejs/assets/ad_astra/patchouli_books/astrodux/en_us/entries/the_first_launch/fuel.json"
 hash = "ef612e3a97fde1ec1cf9ea338a2b98432f9b282da517ab5af3a1e891a7ec3c84"
+
+[[files]]
+file = "kubejs/assets/create/lang/en_us.json"
+hash = "bf42e03b69dd8775064e456c7d9589315e91e9ae4c2b2d162472ec50bf727661"
+
+[[files]]
+file = "kubejs/assets/perpendicular/lang/en_us.json"
+hash = "bb17842be6567566419c387319f123839fcc5d52f4f5772a90504b24f682fa58"
+
+[[files]]
+file = "kubejs/assets/refurbished_furniture/lang/en_us.json"
+hash = "bbfc302ddebe546bfe3d82ee31b871e3ae3a2ac20323403d021aabafdbde017d"
+
+[[files]]
+file = "kubejs/client_scripts/jei_cleanup.js"
+hash = "50fe476e1bf4e7a75167f450f54695c5ecd3ccf404bac1ff345bce83dea4bf9e"
+
+[[files]]
+file = "kubejs/client_scripts/jei_info.js"
+hash = "98d13c1e288c6a315dbf36db4f10897f3f5f6ca1b9afbc367755ef8a667af306"
 
 [[files]]
 file = "kubejs/data/ad_astra/dimension/mars.json"
@@ -429,6 +469,82 @@ file = "kubejs/data/alexscaves/worldgen/biome/toxic_caves.json"
 hash = "f8663598f0ffdd2ac678c1ee45b756ade762e79609358b2afb099f5b8db2bf29"
 
 [[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/_all_objs.json"
+hash = "31f93745a48f1fa67ed62816b4188b5d48ebc3755fb0756996fa9a366864a3b8"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/_all_rews.json"
+hash = "9efa48a325efb407fdda22bf158a72a6dab17a9eac587c1b3c3824e98c9b55d5"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/_equip_rews.json"
+hash = "74db87d0be0e3f8b5bcf1bb88ee293c0d06bdc97721d1c5b3e0cd03938d44c00"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/_gardening_rews.json"
+hash = "34881f00c2286091229773088659cc7ac01567464eed3c1800c161e996763ce0"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/_metal_objs.json"
+hash = "5855e10a85879c0861be73e74303d06610090d1e17293583f59daff31dd56262"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/armorer_objs.json"
+hash = "55a2e49bfecea98213cecf390c5059bdeb67688799d21cec4ea873e11a8ea60e"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/armorer_rews.json"
+hash = "81c16d22adbf6c74a38d256b88e9ba72e6703e71c834db748c947016b291a850"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/butcher_objs.json"
+hash = "873c4b985de6910893d5e5b48d22ae2dafddee4adff1f6023c831e02eb0a329f"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/butcher_rews.json"
+hash = "f28d8953ecf3d9f412a5faadaf3780e23fe13743aa22307ef23e04d4cdfcdc7d"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/cleric_objs.json"
+hash = "94cf385973b8c1ecbcb07b60296271358f43198082fa229a6396a8540c41ba99"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/cleric_rews.json"
+hash = "383bbeba9786460aff4e4a8cbe448ebae315f0c93229e843057e965207f9ef4b"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/farmer_objs.json"
+hash = "79e8015735dbf47ae1b8009317367e4e40eddef8966adfd8ff293bcc7f34df61"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/farmer_rews.json"
+hash = "fdb0fa01195a51d8cdc88e1157e39f5f82d7ff2930e90afaba7ca2cd4f8a8e4b"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/fisherman_objs.json"
+hash = "86c068a95d28af46b69849c1a666331abf99d1a77d8ba4ed7102ecdc898eefd9"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/fisherman_rews.json"
+hash = "9fe78df245c4b590ee4dec0102aee5db897c78a9ee1155145e892d543a773881"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/inventor_objs.json"
+hash = "5d4ec3c82fd33b24921c9fcdd484d9af889ca9cb20ec3e176baec00de808b101"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/inventor_rews.json"
+hash = "514a0b512aa5321025b9d2d382dc91d91dbb3d2d56660cb22157735e6b940c54"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/librarian_objs.json"
+hash = "c3b929b2848b37349519ffea02eadd2ab914303580380900a7ad50a4116eea16"
+
+[[files]]
+file = "kubejs/data/bountiful/bounty_pools/bountiful/librarian_rews.json"
+hash = "6321e383384dc83e861242719ad7009456544da66c6d65d026041d90e2159280"
+
+[[files]]
 file = "kubejs/data/catalysm/worldgen/structure_set/acropolis.json"
 hash = "7bd0f4c41d2151d5d6195a655264238e7b96624b46df76980b8b0d1cd009ff30"
 
@@ -455,6 +571,10 @@ hash = "c5e3a53e3cb71a341b9c34f28a29c5c7c4676f582a9fccab8ab800f2c9812782"
 [[files]]
 file = "kubejs/data/catalysm/worldgen/structure_set/sunken_city.json"
 hash = "e45341bf9416d91b2da089edfb0a57a4bf65bb1f6b39bd2570d71fd2c1a43c43"
+
+[[files]]
+file = "kubejs/data/irons_spellbooks/advancements/grant_patchouli.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
 file = "kubejs/data/minecraft/loot_tables/archaeology/jungle_ruins.json"
@@ -541,6 +661,22 @@ file = "kubejs/data/tectonic/worldgen/density_function/caves.json"
 hash = "06e5cb9bbce01c65455596179197ddc94bee12d70583c775c0e1141d80a3beb6"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/remove.js"
+hash = "a1ea5e2aaa31945f11354b341a34c646effcdac4da0f31185f35a0bda96a57cb"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/replace.js"
+hash = "92049c829a2d21cadb4fa017a7f6ccdfa150f8077a48ee16c833655a22fd458f"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/shaped.js"
+hash = "e9b870ad191b73ca44390d7a3a5448300c9f32064bb1c077910c15936991e69f"
+
+[[files]]
+file = "kubejs/server_scripts/starter_items.js"
+hash = "2b467084b33356f371c1b8a032d8097818a4f071f5ff43f4783a821800b199cc"
+
+[[files]]
 file = "kubejs/server_scripts/tags/biome_tags.js"
 hash = "3736611309e9b40212da2483bba8ee6a7dff358a6cc5cee3c43d36f9ee86c6b7"
 
@@ -554,7 +690,7 @@ hash = "72546a01ee9f7cb7e8940e58954b85cd513e39cccfee4708cb24b4b377e2f770"
 
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
-hash = "2a5f19955e865696223bd19291bc7c5fef3d6822c0c93cce5c46bba3f630fadb"
+hash = "096d58642d7ff713af571201224ae0f6f9d1766349948a040e22d5ebd7ac4db4"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
