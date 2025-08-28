@@ -9,6 +9,30 @@ JEIEvents.hideItems(event => {
     'enderio:yeta_wrench',
     'etcetera:wrench',
 
+    // Cheeses
+    'tconstruct:cheese_ingot',
+    'tconstruct:cheese_block',
+    'refurbished_furniture:cheese',
+
+    // Flour
+    'create:wheat_flour',
+    'enderio:flour',
+
+    // Dough
+    'create:dough',
+    'refurbished_furniture:dough',
+
+    // Sliced bread
+    'refurbished_furniture:bread_slice',
+    'mynethersdelight:slices_of_bread',
+
+    // Toast
+    'refurbished_furniture:toast',
+    'mynethersdelight:toasts',
+
+    // Salt
+    'refurbished_furniture:sea_salt',
+
     // Knives
     'aquaculture:wooden_fillet_knife',
     'aquaculture:stone_fillet_knife',

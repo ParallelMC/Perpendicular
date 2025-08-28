@@ -51,6 +51,20 @@ ServerEvents.tags('item', event => {
     'thermal:wrench'
   ]);
 
+  // Unify cheeses
+  event.add('forge:cheese', [
+    'ad_astra:cheese',
+    'brewinandchewin:flaxen_cheese_wedge',
+    'brewinandchewin:scarlet_cheese_wedge',
+    'netherexp:glowcheese',
+    'rats:blue_cheese',
+    'rats:nether_cheese'
+  ]);
+
+  event.add('brewinandchewin:cheese_wedges', [
+    '#forge:cheese'
+  ]);
+
   // Unify knives
   event.add('farmersdelight:tools/knives', [
     'aquaculture:neptunium_fillet_knife'

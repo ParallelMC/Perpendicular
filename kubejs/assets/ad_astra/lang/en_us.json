@@ -1,3 +1,5 @@
 {
-    "item.ad_astra.wrench": "Cable Wrench"
+    "item.ad_astra.wrench": "Cable Wrench",
+    "block.ad_astra.cheese_block": "Moon Cheese Block",
+    "item.ad_astra.cheese": "Moon Cheese Wedge"
 }
