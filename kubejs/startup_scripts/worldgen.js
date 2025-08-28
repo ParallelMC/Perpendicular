@@ -15,7 +15,6 @@ WorldgenEvents.remove(event => {
       'eidolon:deep_lead_ore',
       'eidolon:silver_ore',
       'eidolon:deep_silver_ore',
-      'meadow:alpine_salt_ore',
       'galosphere:silver_ore',
       'galosphere:deepslate_silver_ore',
       'thermal:lead_ore',
