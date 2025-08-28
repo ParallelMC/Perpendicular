@@ -45,4 +45,7 @@ ServerEvents.recipes(event => {
   // Amber
   event.replaceOutput({id: 'unusualprehistory:amber_block'}, 'unusualprehistory:amber_block', 'sullysmod:amber')
   replaceEverywhere('alexscaves:amber', 'sullysmod:amber')
+
+  // Dragon loot
+  event.replaceInput({id: 'irons_spellbooks:dragonskin_spell_book'}, 'irons_spellbooks:dragonskin', 'tconstruct:dragon_scale')
 });

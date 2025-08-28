@@ -23,4 +23,7 @@ JEIEvents.information(event => {
     'Best to separate out any books you intend to throw into strange portals.'
   ])
 
+  event.addItem('minecraft:elytra', [
+    'Can be duplicated by combining with a dragon egg.'
+  ])
 })

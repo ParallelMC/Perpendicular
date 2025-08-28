@@ -59,7 +59,10 @@ JEIEvents.hideItems(event => {
 
     // Amber
     'alexscaves:amber',
-    'unusualprehistory:amber_block'
+    'unusualprehistory:amber_block',
+
+    // Dragon loot
+    'irons_spellbooks:dragonskin',
   ]);
 });
 

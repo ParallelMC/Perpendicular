@@ -11,5 +11,8 @@ ServerEvents.recipes(event => {
   // Swap between cheese types
   event.shapeless('rats:cheese', 'meadow:piece_of_cheese').id(`${RECIPE_PREFIX}rats_cheese_from_meadow_cheese`);
   event.shapeless('meadow:piece_of_cheese', 'rats:cheese').id(`${RECIPE_PREFIX}meadow_cheese_from_rats_cheese`);
+
+  // Use dragon egg for elytra duplication
+  event.shapeless(Item.of('minecraft:elytra', '{Damage:0}'), ['minecraft:dragon_egg', 'minecraft:elytra']).keepIngredient('minecraft:elytra').id(`${RECIPE_PREFIX}elytra_duplication`);
   
 });
