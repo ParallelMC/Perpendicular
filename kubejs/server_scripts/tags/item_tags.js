@@ -61,13 +61,12 @@ ServerEvents.tags('item', event => {
     'rats:nether_cheese'
   ]);
 
-  event.add('brewinandchewin:cheese_wedges', [
-    '#forge:cheese'
-  ]);
+  event.add('brewinandchewin:cheese_wedges', '#forge:cheese');
 
   // Unify knives
-  event.add('farmersdelight:tools/knives', [
-    'aquaculture:neptunium_fillet_knife'
-  ]);
+  event.add('farmersdelight:tools/knives', 'aquaculture:neptunium_fillet_knife');
 
+  // Unify gold bars
+  event.add('tconstuct:casts', 'caverns_and_chasms:golden_bars');
+  event.add('tconstuct:casts/empty/table', 'caverns_and_chasms:golden_bars');
 });

@@ -243,8 +243,8 @@
 	end_stone_lamp = true
 	blackstone_lamp = true
 	stone_lamp = true
-	stone_tile = true
-	blackstone_tile = true
+	stone_tile = false
+	blackstone_tile = false
 	sconce = true
 	sconce_lever = true
 	pancake = true

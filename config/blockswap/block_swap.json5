@@ -108,6 +108,8 @@ to make editing this file much easier.
 		"cataclysm:stone_tile_slab": "somemoreblocks:stone_tile_slab",
 		"cataclysm:stone_tile_stairs": "somemoreblocks:stone_tile_stairs",
 		"cataclysm:stone_tile_wall": "somemoreblocks:stone_tile_wall",  
+		"endergetic:chiseled_end_stone_bricks": "somemoreblocks:chiseled_end_stone_bricks",
+		"endergetic:cracked_end_stone_bricks": "somemoreblocks:cracked_end_stone_bricks",
 		"eidolon:lead_block": "oreganized:lead_block",  
 		"eidolon:raw_lead_block": "oreganized:raw_lead_block",  
 		"eidolon:silver_block": "oreganized:silver_block",  

@@ -1,5 +1,19 @@
 {
     "item.ad_astra.wrench": "Cable Wrench",
     "block.ad_astra.cheese_block": "Moon Cheese Block",
-    "item.ad_astra.cheese": "Moon Cheese Wedge"
+    "item.ad_astra.cheese": "Moon Cheese Wedge",
+    "block.ad_astra.chiseled_permafrost_brick_slab": "Chiseled Glacio Permafrost Brick Slab",
+    "block.ad_astra.chiseled_permafrost_brick_stairs": "Chiseled Glacio Permafrost Brick Stairs",
+    "block.ad_astra.chiseled_permafrost_bricks": "Chiseled Glacio Permafrost Bricks",
+    "block.ad_astra.cracked_permafrost_bricks": "Cracked Glacio Permafrost Bricks",
+    "block.ad_astra.permafrost": "Glacio Permafrost",
+    "block.ad_astra.permafrost_brick_slab": "Glacio Permafrost Brick Slab",
+    "block.ad_astra.permafrost_brick_stairs": "Glacio Permafrost Brick Stairs",
+    "block.ad_astra.permafrost_brick_wall": "Glacio Permafrost Brick Wall",
+    "block.ad_astra.permafrost_bricks": "Glacio Permafrost Bricks",
+    "block.ad_astra.permafrost_pillar": "Glacio Permafrost Pillar",
+    "block.ad_astra.permafrost_tiles": "Glacio Permafrost Tiles",
+    "block.ad_astra.polished_permafrost": "Polished Glacio Permafrost",
+    "block.ad_astra.polished_permafrost_slab": "Polished Glacio Permafrost Slab",
+    "block.ad_astra.polished_permafrost_stairs": "Polished Glacio Permafrost Stairs"
 }

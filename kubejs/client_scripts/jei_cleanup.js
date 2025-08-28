@@ -57,6 +57,40 @@ JEIEvents.hideItems(event => {
     // Sulfur
     'spelunkery:sulfur_block',
 
+    // Gold bars
+    'quark:gold_bars',
+    'tconstruct:gold_bars',
+
+    // Building blocks
+    'netherexp:twisting_polished_blackstone_bricks',
+    'netherexp:weeping_polished_blackstone_bricks',
+    'netherexp:nether_brick_pillar',
+    'netherexp:polished_blackstone_pillar',
+    'cataclysm:blackstone_pillar',
+    'cataclysm:polished_end_stone',
+    'cataclysm:polished_end_stone_slab',
+    'cataclysm:polished_end_stone_stairs',
+    'v_slab_compat:cataclysm/polished_end_stone_vertical_slab',
+    'cataclysm:chiseled_end_stone_bricks',
+    'cataclysm:end_stone_pillar',
+    'architects_palette:chiseled_end_stone_bricks',
+    'architects_palette:cracked_end_stone_bricks',
+    'endergetic:chiseled_end_stone_bricks',
+    'endergetic:cracked_end_stone_bricks',
+    'cataclysm:stone_tiles',
+    'cataclysm:stone_tile_slab',
+    'cataclysm:stone_tile_stairs',
+    'cataclysm:stone_tile_wall',
+    'bbb:stone_tiles',
+    'bbb:stone_tile_stairs',
+    'bbb:stone_tile_slab',
+    'bbb:stone_tile_layer',
+    /somemoreblocks:.*shingles/,
+
+    // Friends and Foes copper decor
+    /friendsandfoes:.*copper_button/,
+    /friendsandfoes:.*lightning_rod/,
+
     // Amber
     'alexscaves:amber',
     'unusualprehistory:amber_block',
