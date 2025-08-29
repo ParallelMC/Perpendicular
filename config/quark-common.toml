@@ -121,16 +121,16 @@
 	"Japanese Palette" = true
 	"Leaf Carpet" = true
 	Midori = true
-	"More Brick Types" = true
+	"More Brick Types" = false
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
 	"Raw Metal Bricks" = true
-	Rope = true
+	Rope = false
 	"Shear Vines" = true
 	Shingles = false
-	"Soul Sandstone" = true
+	"Soul Sandstone" = false
 	Stools = true
 	"Sturdy Stone" = true
 	Thatch = true
@@ -141,7 +141,7 @@
 	"Vertical Planks" = true
 	"Vertical Slabs" = true
 	"Wooden Posts" = true
-	"More Stone Variants" = true
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15

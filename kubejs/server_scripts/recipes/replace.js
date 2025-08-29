@@ -56,4 +56,8 @@ ServerEvents.recipes(event => {
   // Plastic bricks
   event.replaceInput({id: /pneumaticcraft:plastic_brick/}, 'pneumaticcraft:plastic', '#perpendicular:plastic')
 
+  // Rope
+  event.replaceInput({id: 'beautify:hanging_pot'}, 'beautify:rope', 'supplementaries:rope')
+  replaceEverywhere('farmersdelight:rope', 'supplementaries:rope')
+
 });

@@ -1,4 +1,16 @@
 {
     "block.architects_palette.charcoal_block": "Charcoal Pillar",
-    "block.architects_palette.flint_block": "Smooth Flint Block"
+    "block.architects_palette.flint_block": "Smooth Flint Block",
+    "block.architects_palette.dripstone_bricks": "Cobbled Dripstone",
+    "block.architects_palette.dripstone_brick_slab": "Cobbled Dripstone Slab",
+    "block.architects_palette.dripstone_brick_vertical_slab": "Cobbled Dripstone Vertical Slab",
+    "block.architects_palette.dripstone_brick_stairs": "Cobbled Dripstone Stairs",
+    "block.architects_palette.dripstone_brick_wall": "Cobbled Dripstone Wall",
+    "block.architects_palette.calcite_bricks": "Cobbled Calcite",
+    "block.architects_palette.calcite_brick_slab": "Cobbled Calcite Slab",
+    "block.architects_palette.calcite_brick_vertical_slab": "Cobbled Calcite Vertical Slab",
+    "block.architects_palette.calcite_brick_stairs": "Cobbled Calcite Stairs",
+    "block.architects_palette.calcite_brick_wall": "Cobbled Calcite Wall",
+    "block.architects_palette.chiseled_packed_ice": "Chiseled Ice",
+    "block.architects_palette.packed_ice_pillar": "Ice Pillar"    
 }
