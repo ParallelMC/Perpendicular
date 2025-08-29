@@ -8,6 +8,9 @@ JEIEvents.hideItems(event => {
     // Nerfs
     // -----------------
     
+    // Disable Essentials fertile soil
+    /essentials:fertile_soil/,
+
     // Remove some IF infinity items
     'industrialforegoing:infinity_hammer',
     'industrialforegoing:infinity_trident',

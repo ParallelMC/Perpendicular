@@ -7,6 +7,12 @@ ServerEvents.recipes(event => {
     // Nerfs
     // -----------------
     
+    // Disable oxidization through smelting
+    /essentials:copper_oxidize/,
+
+    // Disable Essentials fertile soil
+    /essentials:fertile_soil/,
+
     // Remove some IF infinity items
     'industrialforegoing:dissolution_chamber/infinity_hammer',
     'industrialforegoing:dissolution_chamber/infinity_trident',
@@ -23,12 +29,29 @@ ServerEvents.recipes(event => {
     // Vanilla items
     'aether:aether_saddle',
     'essentials:name_tag',
+    'essentials:piston',
 
     // Gears
     'enderio:iron_gear',
     'industrialforegoing:diamond_gear',
     'industrialforegoing:gold_gear',
     'industrialforegoing:iron_gear',
+
+    // Crossroads materials
+    'crossroads:base_materials/copper_ingot_nugg',
+    'crossroads:base_materials/bronze_ingot_block',
+    'crossroads:base_materials/bronze_ingot_nugg',
+    'crossroads:base_materials/ruby_block',
+    'crossroads:base_materials/tin_ingot_block',
+    'crossroads:base_materials/ruby',
+    'crossroads:base_materials/bronze_block',
+    'crossroads:base_materials/copper_nugget',
+    'crossroads:base_materials/bronze_nugget',
+    'crossroads:base_materials/tin_nugget',
+    'crossroads:base_materials/tin_block',
+    'crossroads:base_materials/tin_ingot_nugg',
+    'crossroads:base_materials/raw_tin_block',
+    'crossroads:base_materials/tin_raw_block',
 
     // -----------------
     // Unification
