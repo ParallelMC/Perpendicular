@@ -5,6 +5,16 @@ JEIEvents.hideItems(event => {
   event.hide([
 
     // -----------------
+    // Nerfs
+    // -----------------
+    
+    // Remove some IF infinity items
+    'industrialforegoing:infinity_hammer',
+    'industrialforegoing:infinity_trident',
+    'industrialforegoing:infinity_launcher',
+    'industrialforegoing:infinity_nuke',
+
+    // -----------------
     // Unification
     // -----------------
 

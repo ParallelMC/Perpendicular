@@ -4,6 +4,19 @@ ServerEvents.recipes(event => {
   // By recipe ID
   [
     // -----------------
+    // Nerfs
+    // -----------------
+    
+    // Remove some IF infinity items
+    'industrialforegoing:dissolution_chamber/infinity_hammer',
+    'industrialforegoing:dissolution_chamber/infinity_trident',
+    'industrialforegoing:dissolution_chamber/infinity_launcher',
+    'industrialforegoing:dissolution_chamber/infinity_nuke',
+    
+    // New recipe for mob imprisonment tool
+    'industrialforegoing:mob_imprisonment_tool',
+
+    // -----------------
     // Duplicate recipes
     // -----------------
 

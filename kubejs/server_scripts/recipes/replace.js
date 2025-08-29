@@ -53,4 +53,7 @@ ServerEvents.recipes(event => {
   event.replaceOutput({id: 'bloomingnature:quicksand'}, 'bloomingnature:quicksand', 'biomeswevegone:quicksand')
   event.replaceInput({id: 'upgrade_aquatic:beachgrass_thatch'}, 'upgrade_aquatic:beachgrass', 'somemoreblocks:dune_grass')
 
+  // Plastic bricks
+  event.replaceInput({id: /pneumaticcraft:plastic_brick/}, 'pneumaticcraft:plastic', '#perpendicular:plastic')
+
 });

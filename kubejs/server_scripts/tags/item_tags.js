@@ -69,4 +69,10 @@ ServerEvents.tags('item', event => {
   // Unify gold bars
   event.add('tconstuct:casts', 'caverns_and_chasms:golden_bars');
   event.add('tconstuct:casts/empty/table', 'caverns_and_chasms:golden_bars');
+
+  // Shared recipes for plastic
+  event.add('perpendicular:plastic', [
+    'pneumaticcraft:plastic',
+    'industrialforegoing:plastic'
+  ]);
 });
