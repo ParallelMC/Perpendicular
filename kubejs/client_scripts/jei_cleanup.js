@@ -138,8 +138,7 @@ JEIEvents.hideItems(event => {
     /productivebees:.*quark_azalea/,
     /supplementaries:quark.*azalea/,
     'shutter:azalea_quark_shutter',
-    Item.of('iwannaskate:skateboard', '{Damage:0,Skateboard:{GripTape:-1,MadeOf:"quark:azalea_planks_slab",WheelType:-1}}'),
-    Item.of('iwannaskate:skateboard_deck', '{Skateboard:{GripTape:-1,MadeOf:"quark:azalea_planks_slab",WheelType:-1}}'),
+
   ]);
 });
 

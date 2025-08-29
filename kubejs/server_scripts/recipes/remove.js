@@ -143,8 +143,6 @@ ServerEvents.recipes(event => {
     /productivebees:.*quark_azalea/,
     /supplementaries:quark.*azalea/,
     'shutter:azalea_quark_shutter',
-    'iwannaskate:jei.skateboard_azalea_planks_slab',
-    'iwannaskate:jei.skateboard_deck_azalea_planks_slab',
     'sullysmod:grindstone_polishing/cataclysm/polished_endstone_from_endstone',
 
     // Friends and Foes copper decor
