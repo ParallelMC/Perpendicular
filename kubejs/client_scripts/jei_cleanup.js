@@ -261,6 +261,25 @@ JEIEvents.hideItems(event => {
     // Equipment
     'thermal:satchel',
 
+    // Items for removed mobs
+    'friendsandfoes:copper_golem_spawn_egg',
+    'friendsandfoes:glare_spawn_egg',
+    'friendsandfoes:iceologer_spawn_egg',
+    'friendsandfoes:totem_of_freezing',
+    'friendsandfoes:moobloom_spawn_egg',
+    'naturalist:snail_spawn_egg',
+    'naturalist:snail_eggs',
+    'naturalist:snail_bucket',
+    'naturalist:snail_shell',
+    'naturalist:tortoise_spawn_egg',
+    'naturalist:tortoise_egg',
+    'sullysmod:lanternfish_spawn_egg',
+    'sullysmod:lanternfish_bucket',
+    'sullysmod:lanternfish',
+    'sullysmod:cooked_lanternfish',
+    'whatareyouvotingfor:crab_spawn_egg',
+    'whatareyouvotingfor:crab_claw',
+
   ]);
 });
 

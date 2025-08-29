@@ -60,4 +60,6 @@ ServerEvents.recipes(event => {
   event.replaceInput({id: 'beautify:hanging_pot'}, 'beautify:rope', 'supplementaries:rope')
   replaceEverywhere('farmersdelight:rope', 'supplementaries:rope')
 
+  // Items for removed mobs
+  event.replaceInput({id: 'naturalist:shellstone'}, 'naturalist:snail_shell', 'autumnity:snail_shell_piece')
 });

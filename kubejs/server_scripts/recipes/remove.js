@@ -312,6 +312,9 @@ ServerEvents.recipes(event => {
     'architects_palette:polished_packed_ice_vertical_slab',
     'architects_palette:polished_packed_ice_stairs',
     'architects_palette:polished_packed_ice_wall',
+    
+    // Items for removed mobs
+    'sullysmod:cooked_lanternfish',
 
   ].forEach((itemID) => event.remove({output: itemID}));
 
