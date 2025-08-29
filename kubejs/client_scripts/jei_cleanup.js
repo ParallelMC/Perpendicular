@@ -86,6 +86,16 @@ JEIEvents.hideItems(event => {
     'bbb:stone_tile_slab',
     'bbb:stone_tile_layer',
     /somemoreblocks:.*shingles/,
+    'caverns_and_chasms:cobblestone_bricks',
+    'caverns_and_chasms:cobblestone_brick_stairs',
+    'caverns_and_chasms:cobblestone_brick_slab',
+    'caverns_and_chasms:cobblestone_brick_wall',
+    'v_slab_compat:caverns_and_chasms/cobblestone_brick_vertical_slab',
+    'caverns_and_chasms:mossy_cobblestone_bricks',
+    'caverns_and_chasms:mossy_cobblestone_brick_stairs',
+    'caverns_and_chasms:mossy_cobblestone_brick_slab',
+    'caverns_and_chasms:mossy_cobblestone_brick_wall',
+    'v_slab_compat:caverns_and_chasms/mossy_cobblestone_brick_vertical_slab',
 
     // Friends and Foes copper decor
     /friendsandfoes:.*copper_button/,
