@@ -1,0 +1,240 @@
+{
+  "foodItems": {
+    "entries": [],
+    "isWhitelist": false
+  },
+  "trackCount": 32,
+  "resetOnDeath": true,
+  "limitProgressionToSurvival": false,
+  "minFoodsToActivate": 0,
+  "benefits": [
+    {
+      "threshold": 3,
+      "benefit": "{key:\"minecraft:generic.luck\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 5,
+      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 7,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 10,
+      "benefit": "{key:\"tconstruct:experienced\",type:\"eff\",val:0.0d}"
+    },
+    {
+      "threshold": 15,
+      "benefit": "{key:\"minecraft:haste\",type:\"eff\",val:0.0d}"
+    },
+    {
+      "threshold": 20,
+      "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
+    },
+    {
+      "threshold": 25,
+      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:1.0d}"
+    },
+    {
+      "threshold": 30,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:4.0d}"
+    },
+    {
+      "threshold": 35,
+      "benefit": "{key:\"minecraft:regeneration\",type:\"eff\",val:0.0d}"
+    },
+    {
+      "threshold": 40,
+      "benefit": "{key:\"tconstruct:experienced\",type:\"eff\",val:1.0d}"
+    },
+    {
+      "threshold": 45,
+      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:2.0d}"
+    },
+    {
+      "threshold": 50,
+      "benefit": "{key:\"minecraft:generic.max_health\",op:0,type:\"att\",val:4.0d}"
+    }
+  ],
+  "shouldExcludedCount": true,
+  "complexityStandardNutrition": 5,
+  "complexityStandardSaturation": 0.6,
+  "complexityBenefitEffectModifier": 0.2,
+  "complexityNeutralEffectModifier": 0,
+  "complexityHarmEffectModifier": -0.2,
+  "foodDiversity": [
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:golden_carrot\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"netherexp:roasted_bone\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:smoked_ham\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:egg_sandwich\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:stuffed_potato\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ars_nouveau:source_berry_pie\"}",
+      "diversity": 2.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:chicken_sandwich\"}",
+      "diversity": 2.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"enderio:enderios\"}",
+      "diversity": 2.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:cooked_scau\"}",
+      "diversity": 2.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:roasted_dragon_meat_cuts\"}",
+      "diversity": 2.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:hamburger\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:vegetable_omelet\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:creamy_onion_soup\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:golden_apple\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:roasted_dragon_meat\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:golden_scau\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:cooked_mammoth\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:ender_congee\"}",
+      "diversity": 3
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"mynethersdelight:breakfast_sampler\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"mynethersdelight:fried_hoglin_chop\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"mynethersdelight:spicy_noodle_soup\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:cheesy_pasta\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:horror_lasagna\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:dragon_breath_and_chorus_soup\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:end_barbecue_stick\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:dragon_leg_with_sauce\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"pneumaticcraft:cod_n_chips\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"pneumaticcraft:salmon_tempura\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"crossroads:magenta_bread\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusual_prehistory:yellow_fruit\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"mynethersdelight:plate_of_stuffed_hoglin_snout\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:scarlet_pierogi\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"brewinandchewin:fiery_fondue\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:dragon_meat_stew\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"rats:confit_byaldi\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"rats:potato_knishes\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusual_prehistory:blue_fruit\"}",
+      "diversity": 4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:mammoth_meatball\"}",
+      "diversity": 4.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"minecraft:enchanted_golden_apple\"}",
+      "diversity": 4.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"bosses_of_mass_destruction:crystal_fruit\"}",
+      "diversity": 4.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"cataclysm:blessed_amethyst_crab_meat\"}",
+      "diversity": 4.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"ends_delight:steamed_dragon_egg\"}",
+      "diversity": 4.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"aquamirae:poseidons_breakfast\"}",
+      "diversity": 5
+    }
+  ]
+}
