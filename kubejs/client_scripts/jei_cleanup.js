@@ -349,6 +349,14 @@ JEIEvents.hideItems(event => {
     'productivebees:honey_bucket',
     'tconstruct:honey_bucket',
 
+    // Candy items
+    'create_confectionery:candy_cane',
+    'create_confectionery:candy_cane_block',
+    'create_confectionery:gingerbread_block',
+    'create_confectionery:gingerbread_stairs',
+    'create_confectionery:gingerbread_slab',
+    'create_confectionery:gingerbread_man',
+
   ]);
 });
 

@@ -118,4 +118,9 @@ ServerEvents.recipes(event => {
   // Honey
   event.replaceOutput({}, Fluid.of('productivebees:honey'), Fluid.of('create:honey'))
   replaceEverywhere(Fluid.of('cofh_core:honey'), Fluid.of('create:honey'))
+
+  // Candy items
+  event.replaceOutput({id: 'create_confectionery:candy_cane_recipe'}, 'create_confectionery:candy_cane', 'alexscaves:candy_cane')
+  event.replaceInput({id: 'create_confectionery:music_disc_the_bright_side_recipe'}, 'create_confectionery:candy_cane', 'alexscaves:candy_cane')
+
 });

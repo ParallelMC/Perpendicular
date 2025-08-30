@@ -21,14 +21,20 @@ ServerEvents.recipes(event => {
   };
 
   // Storage blocks
-  shaped2x2('alexscaves:dough_block', 'farmersdelight:wheat_dough', 'dough_block')
-  shaped3x3('thermal:charcoal_block', 'minecraft:charcoal', 'charcoal_block')
+  shaped2x2('alexscaves:dough_block', 'farmersdelight:wheat_dough', 'dough_block_from_dough')
+  shaped3x3('thermal:charcoal_block', 'minecraft:charcoal', 'charcoal_block_from_charcoal')
+  shaped3x3('alexscaves:block_of_chocolate', 'create:bar_of_chocolate', 'chocolate_block_from_chocolate')
 
   // Red quicksand
   event.shaped('2x biomeswevegone:red_quicksand', ['AAA', 'ABA', 'AAA'], {A: 'minecraft:red_sand', B: 'minecraft:water_bucket'}).replaceIngredient('minecraft:water_bucket', 'minecraft:bucket').id(`${RECIPE_PREFIX}red_quicksand`);
 
   // Mob imprisonment tool
   bordered('industrialforegoing:mob_imprisonment_tool', '#perpendicular:plastic', 'minecraft:nether_star', 'mob_imprisonment_tool')
+
+  // Ice cream
+  event.shaped('neapolitan:vanilla_ice_cream', ['A', 'B'], {A: 'alexscaves:vanilla_ice_cream_scoop', B: 'minecraft:bowl'}).id(`${RECIPE_PREFIX}vanilla_ice_cream`);
+  event.shaped('neapolitan:chocolate_ice_cream', ['A', 'B'], {A: 'alexscaves:chocolate_ice_cream_scoop', B: 'minecraft:bowl'}).id(`${RECIPE_PREFIX}chocolate_ice_cream`);
+  event.shaped('neapolitan:strawberry_ice_cream', ['A', 'B'], {A: 'alexscaves:sweetberry_ice_cream_scoop', B: 'minecraft:bowl'}).id(`${RECIPE_PREFIX}strawberry_ice_cream`); // Renaming the Alex's Caves items to "Strawberry" to make this work
 
   //Flux block updated to use steel
   event.shaped('fluxnetworks:flux_block', [

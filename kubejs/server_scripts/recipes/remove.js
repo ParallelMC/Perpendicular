@@ -367,6 +367,16 @@ ServerEvents.recipes(event => {
     'productivebees:tconstruct/honeycomb/slimesteel',
     'productivebees:tconstruct/honeycomb/soulsteel',
 
+  // Candy items
+    'create_confectionery:candy_cane_block_recipe',
+    'create_confectionery:candy_cane_recipe_2',
+    'create_confectionery:gingerbread_block_recipe',
+    'create_confectionery:gingerbread_stairs_recipe',
+    'create_confectionery:gingerbread_stairs_recipe_2',
+    'create_confectionery:gingerbread_slab_recipe',
+    'create_confectionery:gingerbread_slab_recipe_2',
+    'create_confectionery:gingerbread_man_recipe'
+
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
   // By output
