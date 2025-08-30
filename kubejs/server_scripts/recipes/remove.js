@@ -179,6 +179,47 @@ ServerEvents.recipes(event => {
     // Equipment
     'thermal:tools/satchel',
 
+    // Old Crossroads recipes with molten metal
+    'crossroads:crucible/dust_copper',
+    'crossroads:crucible/ingot_copper',
+    'crossroads:crucible/nugget_copper',
+    'crossroads:crucible/raw_copper',
+    'crossroads:ind_blast_furnace/clump_copper',
+    'crossroads:ind_blast_furnace/gravel_copper',
+    'crossroads:ind_blast_furnace/raw_copper',
+
+    'crossroads:crucible/dust_iron',
+    'crossroads:crucible/ingot_iron',
+    'crossroads:crucible/nugget_iron',
+    'crossroads:crucible/raw_iron',
+    'crossroads:crucible/iron_door',
+    'crossroads:crucible/iron_trapdoor',
+    'crossroads:crucible/iron_pressure_plate',
+    'crossroads:crucible/cauldron',
+    'crossroads:crucible/bucket',
+    'crossroads:crucible/minecart',
+    'crossroads:ind_blast_furnace/clump_iron',
+    'crossroads:ind_blast_furnace/gravel_iron',
+    'crossroads:ind_blast_furnace/raw_iron',
+    'crossroads:fluid_cooling/molten_iron',
+
+    'crossroads:crucible/dust_gold',
+    'crossroads:crucible/ingot_gold',
+    'crossroads:crucible/nugget_gold',
+    'crossroads:crucible/raw_gold',
+    'crossroads:crucible/gold_pressure_plate',
+    'crossroads:ind_blast_furnace/clump_gold',
+    'crossroads:ind_blast_furnace/gravel_gold',
+    'crossroads:ind_blast_furnace/raw_gold',
+
+    'crossroads:crucible/dust_tin',
+    'crossroads:crucible/ingot_tin',
+    'crossroads:crucible/nugget_tin',
+    'crossroads:crucible/raw_tin',
+    'crossroads:ind_blast_furnace/clump_tin',
+    'crossroads:ind_blast_furnace/gravel_tin',
+    'crossroads:ind_blast_furnace/raw_tin',
+
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
   // By output

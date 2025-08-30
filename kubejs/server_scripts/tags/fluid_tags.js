@@ -1,0 +1,17 @@
+// priority: 100
+
+ServerEvents.tags('fluid', event => {
+
+    // Replace Tinkers molten lead with Oreganized version
+    event.add('forge:molten_lead', 'oreganized:molten_lead')
+    event.removeAllTagsFrom('tconstruct:molten_lead')
+    event.removeAllTagsFrom('tconstruct:flowing_molten_lead')
+
+    // Replace Tinkers molten bronze with Big Cannons version
+    event.removeAllTagsFrom('tconstruct:molten_bronze')
+    event.removeAllTagsFrom('tconstruct:flowing_molten_bronze')
+    
+    // Replace Tinkers molten steel with Big Cannons version
+    event.removeAllTagsFrom('tconstruct:molten_steel')
+    event.removeAllTagsFrom('tconstruct:flowing_molten_steel')
+  });

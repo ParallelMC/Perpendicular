@@ -280,6 +280,21 @@ JEIEvents.hideItems(event => {
     'whatareyouvotingfor:crab_spawn_egg',
     'whatareyouvotingfor:crab_claw',
 
+    // Fluids
+    'tconstruct:molten_lead',
+    'tconstruct:molten_lead_bucket',
+    'tconstruct:molten_steel',
+    'tconstruct:molten_steel_bucket',
+    'tconstruct:molten_bronze',
+    'tconstruct:molten_bronze_bucket',
+    'crossroads:molten_iron',
+    'crossroads:molten_iron_bucket',
+    'crossroads:molten_gold',
+    'crossroads:molten_gold_bucket',
+    'crossroads:molten_copper',
+    'crossroads:molten_copper_bucket',
+    'crossroads:molten_tin',
+    'crossroads:molten_tin_bucket',
   ]);
 });
 
