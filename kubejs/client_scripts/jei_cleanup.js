@@ -309,6 +309,14 @@ JEIEvents.hideItems(event => {
     'crossroads:molten_copper_bucket',
     'crossroads:molten_tin',
     'crossroads:molten_tin_bucket',
+
+    // Latex
+    'thermal:latex',
+    'thermal:latex_bucket',
+
+    // Rubber
+    'thermal:rubber',
+    'industrialforegoing:tinydryrubber',
   ]);
 });
 

@@ -87,4 +87,13 @@ ServerEvents.recipes(event => {
   // Silicon
   replaceEverywhere('ae2:silicon', 'enderio:silicon')
 
+  // Latex
+  event.replaceOutput({}, Fluid.of('thermal:latex'), Fluid.of('industrialforegoing:latex'))
+
+  // Rubber
+  event.replaceOutput({id: 'thermal:storage/rubber_from_block'}, 'thermal:rubber', 'industrialforegoing:dryrubber')
+  event.replaceInput({id: 'thermal:storage/rubber_block'}, 'thermal:rubber', 'industrialforegoing:dryrubber')
+  event.replaceInput({id: 'thermal:smelting/cured_rubber_from_smelting'}, 'thermal:rubber', 'industrialforegoing:dryrubber')
+  event.replaceInput({id: 'industrialforegoing:plastic'}, 'industrialforegoing:dryrubber', 'thermal:cured_rubber')
+
 });

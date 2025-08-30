@@ -23,4 +23,64 @@ ServerEvents.recipes(event => {
     // -----------------
 
     const BREWER_PREFIX = 'perpendicular:brewer/';
+
+    // -----------------
+    // Arboreal extractor
+    // -----------------
+
+    const EXTRACTOR_PREFIX = 'perpendicular:tree_extractor/';
+
+    // Replace default recipes with IF latex
+    // The Thermal kubejs integration throws an error so we will use datapack files instead
+    /*
+    event.custom({
+        "type": "thermal:tree_extractor",
+        "trunk": {
+            "Name": "minecraft:jungle_log",
+            "Properties": {
+                "axis": "y"
+            }
+        },
+        "leaves": {
+            "Name": "minecraft:jungle_leaves",
+            "Properties": {
+                "persistent": "false"
+            }
+        },
+        "sapling": "minecraft:jungle_sapling",
+        "min_height": 5,
+        "max_height": 16,
+        "min_leaves": 16,
+        "max_leaves": 24,
+        "result": {
+            "fluid": "industrialforegoing:latex",
+            "amount": 15
+        }
+    }).id(`${EXTRACTOR_PREFIX}jungle`);
+
+    event.custom({
+        "type": "thermal:tree_extractor",
+        "trunk": {
+            "Name": "thermal:rubberwood_log",
+            "Properties": {
+                "axis": "y"
+            }
+        },
+        "leaves": {
+            "Name": "thermal:rubberwood_leaves",
+            "Properties": {
+                "persistent": "false"
+            }
+        },
+        "sapling": "thermal:rubberwood_sapling",
+        "min_height": 4,
+        "max_height": 16,
+        "min_leaves": 16,
+        "max_leaves": 24,
+        "result": {
+            "fluid": "industrialforegoing:latex",
+            "amount": 30
+        }
+    }).id(`${EXTRACTOR_PREFIX}rubberwood`);
+    */
 })

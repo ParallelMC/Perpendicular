@@ -243,6 +243,12 @@ ServerEvents.recipes(event => {
     'crossroads:ind_blast_furnace/gravel_tin',
     'crossroads:ind_blast_furnace/raw_tin',
 
+    // Rubber
+    'thermal:rubber_3',
+    'thermal:rubber_from_vine',
+    'thermal:rubber_from_dandelion',
+    'industrialforegoing:dryrubber',
+
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
   // By output

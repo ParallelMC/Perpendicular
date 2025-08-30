@@ -54,6 +54,9 @@ ServerEvents.recipes(event => {
     casting('gem', 'forge:experience', 60, 'ars_nouveau:experience_gem', 80, 'experience_gem')
     casting('ingot', 'forge:experience', 60, 'create:experience_nugget', 80, 'experience_nugget')
 
+    // Latex
+    casting('coin', 'forge:latex', 750, 'industrialforegoing:dryrubber', 80, 'rubber')
+
     // -----------------
     // Melting
     // -----------------
