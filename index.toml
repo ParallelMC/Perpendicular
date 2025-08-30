@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".versioning/meta.json"
+hash = "e4c2c48b3718607fd432818fdfb6f6d0f16286ae01a393e129714e31c5a1860d"
+
+[[files]]
+file = ".versioning/versions/Beta 1.0.0/changelog.txt"
+hash = "b3f8ec2bfb6af159d392cee40d85c3be03ca74c95b269e3cb84680e38d186363"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "ebdcd0bea168ee286993b1b9d01051b6eec511f13e3ef6b705deae36a46753dd"
 
@@ -214,7 +222,7 @@ hash = "a051b787c5a222db95e6d15b5ba9d6ce9b7619aaceca17983e770df3af3edc6d"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e9dd1ffc5785d676f0abe5946dcc89da89bae955b39796e5118c4ef2c3e2caae"
+hash = "9bd55909ffe55ebbb9b7d31825da3912cdfc1acfdeb65711cd8980de7ea40802"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
@@ -366,7 +374,7 @@ hash = "6e478dd748af2e6d1ea234dec8af16776bea72ec9dcf51b2562852cdd4a4c950"
 
 [[files]]
 file = "config/yosby/options.txt"
-hash = "1e6ceebfc5dbbdab7b253285466ad8866577c9f13161c0d1daf7f99453cfafcd"
+hash = "84a6ac8f78c6b1703961a549bd412ad4cb92913b6b2f25e9d8a0a7539471a3e3"
 
 [[files]]
 file = "config/yosby/servers.dat"
@@ -1056,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-but-better.pw.toml"
-hash = "ca09122725bd0c7b9b848eeaee468d47290b5b879158bf0f2209733374f5fba6"
+hash = "6134ba97b499d9b0c9e0dff15f4fe17e4a49f306728b341964711c246524014a"
 metafile = true
 
 [[files]]
@@ -1945,6 +1953,11 @@ hash = "f9491977b0bb345ef0c0d53a68b4f3619ced08475d6eb3461096659e22c9a40a"
 metafile = true
 
 [[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "062c2825d4411f0458877abbbe81248b695908ec5d47f45f918a0b90d417cdee"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "c482f82b6ed128451c78e37c9347a907fc35f5e8b12e0347e2bbd8a3eec175fa"
 metafile = true
@@ -2746,7 +2759,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/aquaculture-updated.pw.toml"
-hash = "8a5f4d078fb0eda68edb6fd4d167c70dcc262613d6dc555936510192939d9ae2"
+hash = "d6e9c8dd51a1f355badfc2ecababc02e6b56799383e5658a944826687d6fd22a"
 metafile = true
 
 [[files]]
@@ -2756,7 +2769,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/lanostrys-foxes.pw.toml"
-hash = "3c521342a084e79493fb18940107a27dbd05cc811961229143ea6ee796633a2c"
+hash = "696284bbbb9a6bc33ca12c18803ecf50db436d73106e01e7ca49be80e8b4fbab"
 metafile = true
 
 [[files]]
@@ -2766,7 +2779,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mod-descriptions.pw.toml"
-hash = "b1562cd8af871e2abfcc4d7fd9ae9ed44c03dfeae8ca472ab7253484afe078b7"
+hash = "69a914e0397a5a1813103de0ff278cd1d7d2af1954aa37f408ace9d3e3d6dbac"
 metafile = true
 
 [[files]]
