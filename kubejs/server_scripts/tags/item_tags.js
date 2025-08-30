@@ -89,4 +89,37 @@ ServerEvents.tags('item', event => {
 
   // Uranium ore tag
   event.add('forge:ores/uranium', 'alexscaves:radrock_uranium_ore');
+
+  // -----------------
+  // Curios
+  // -----------------
+  
+  // AE2 terminals don't work with hotkey in curios slot
+  event.remove('curios:curio', 'expatternprovider:wireless_ex_pat');
+  
+  // Move prestigious palm to hand slot
+  event.remove('curios:charm', 'eidolon:prestigious_palm')
+  event.add('curios:hands', 'eidolon:prestigious_palm')
+
+  // Configure curios to fit in a few different slots
+  event.remove('curios:curio', [
+    'pneumaticcraft:memory_stick',
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:back', [
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:bundle', [
+    'crossroads:leyden_jar',
+    'pneumaticcraft:memory_stick',
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:belt', [
+    'crossroads:leyden_jar',
+    'pneumaticcraft:memory_stick'
+  ])
+  event.add('curios:spellbook', 'aether_redux:solar_emblem')
 });
