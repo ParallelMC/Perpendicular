@@ -1,4 +1,12 @@
 {
     "item.supplementaries.wrench": "Copper Wrench",
-    "item.essentials.wrench": "Iron Wrench"
+    "item.essentials.wrench": "Iron Wrench",
+    "biome.deep_aether.golden_grove": "Golden Grove",
+    "biome.netherexp.sorrowsquash_pastures": "Sorrowsquash Pastures",
+    "biome.nullscape.crystal_peaks": "Crystal Peaks",
+    "biome.nullscape.shadowlands": "Shadowlands",
+    "biome.nullscape.void_barrens": "Void Barrens",
+    "biome.riverredux.gravelly_river": "Gravelly River",
+    "biome.riverredux.sandy_river": "Sandy River",
+    "biome.riverredux.tropical_river": "Tropical River"
 }
