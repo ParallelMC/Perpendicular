@@ -1,0 +1,147 @@
+
+{
+	"content": {
+
+		"cooked_porkchop": {
+			"type": "item",
+			"content": "minecraft:cooked_porkchop",
+			"amount": {
+				"min": 2,
+				"max": 12
+			},
+			"unitWorth": 200
+		},
+
+		"cooked_chicken": {
+			"type": "item",
+			"content": "minecraft:cooked_chicken",
+			"amount": {
+				"min": 2,
+				"max": 12
+			},
+			"unitWorth": 125
+		},
+
+		"cooked_beef": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:cooked_beef",
+			"amount": {
+				"min": 2,
+				"max": 12
+			},
+			"unitWorth": 125
+		},
+
+		"cooked_mutton": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "minecraft:cooked_mutton",
+			"amount": {
+				"min": 2,
+				"max": 12
+			},
+			"unitWorth": 125
+		},
+
+		"nuggies": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "alexscaves:dinosaur_nugget",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 125
+		},
+
+		"slime_bucket": {
+			"type": "item",
+			"rarity": "RARE",
+			"content": "quark:slime_in_a_bucket",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3000
+		},
+
+		"cage": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "supplementaries:cage",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1500
+		},
+
+        "bacon_eggs": {
+            "type": "item",
+            "content": "farmersdelight:bacon_and_eggs",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 800
+        },
+
+        "steak_potatoes": {
+            "type": "item",
+            "content": "farmersdelight:steak_and_potatoes",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 850
+        },
+
+        "mutton_chops": {
+            "type": "item",
+            "content": "farmersdelight:roasted_mutton_chops",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 900
+        },
+
+        "diamond_knife": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "farmersdelight:diamond_knife",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{Damage:0}"
+        },
+
+        "brain_harvester": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "crossroads:brain_harvester",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 15000
+        },
+
+        "primordial_tablet": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "alexscaves:cave_tablet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{CaveBiome:\"alexscaves:primordial_caves\"}"
+        }
+
+	}
+
+}

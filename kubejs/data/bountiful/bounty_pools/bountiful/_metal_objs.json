@@ -1,0 +1,131 @@
+{
+	"content": {
+
+		"coal": {
+			"type": "item",
+			"content": "minecraft:coal",
+			"amount": {
+				"min": 3,
+				"max": 24
+			},
+			"unitWorth": 100
+		},
+
+		"raw_iron": {
+			"type": "item",
+			"content": "minecraft:raw_iron",
+			"amount": {
+				"min": 3,
+				"max": 32
+			},
+			"unitWorth": 900,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:iron_ingot"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:iron_helmet"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:iron_chestplate"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:iron_leggings"
+				},
+				{
+					"type": "item",
+					"content": "minecraft:iron_boots"
+				}
+			]
+		},
+
+		"raw_copper": {
+			"type": "item",
+			"content": "minecraft:raw_copper",
+			"amount": {
+				"min": 3,
+				"max": 18
+			},
+			"unitWorth": 350,
+			"forbids": [
+				{
+					"type": "item",
+					"content": "minecraft:copper_ingot"
+				}
+			]
+		},
+
+		"copper_ingot": {
+			"type": "item",
+			"content": "minecraft:copper_ingot",
+			"amount": {
+				"min": 3,
+				"max": 18
+			},
+			"unitWorth": 375
+		},
+
+		"raw_gold": {
+			"type": "item",
+			"content": "minecraft:raw_gold",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 3,
+				"max": 16
+			},
+			"unitWorth": 600
+		},
+
+		"gold_ingot": {
+			"type": "item",
+			"content": "minecraft:gold_ingot",
+			"rarity": "UNCOMMON",
+			"amount": {
+				"min": 2,
+				"max": 9
+			},
+			"unitWorth": 625
+		},
+
+		"iron_ingot": {
+			"type": "item",
+			"content": "minecraft:iron_ingot",
+			"amount": {
+				"min": 3,
+				"max": 24
+			},
+			"unitWorth": 500
+		},
+
+		"diamond": {
+			"type": "item",
+			"content": "minecraft:diamond",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"weightMult": 0.1
+		},
+
+		"netherite": {
+			"type": "item",
+			"rarity": "LEGENDARY",
+			"content": "minecraft:netherite_ingot",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 8000
+		}
+
+
+
+	}
+
+
+}

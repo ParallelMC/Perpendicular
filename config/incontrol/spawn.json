@@ -1,0 +1,63 @@
+[
+  {
+    "mob": [
+	  "quark:forgotten",
+	  "quark:stoneling",
+	  "quark:toretoise"
+	],
+    "biome": [
+	  "alexscaves:abyssal_chasm",
+	  "alexscaves:candy_cavity",
+	  "alexscaves:forlorn_hollows",
+      "alexscaves:magnetic_caves",
+      "alexscaves:primordial_caves",
+      "alexscaves:toxic_caves"
+    ],
+    "result": "deny"
+  },
+  {
+    "mob": "friendsandfoes:copper_golem",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "caverns_and_chasms_copper_golem_instead"
+  },
+  {
+    "mob": "friendsandfoes:glare",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "caverns_and_chasms_glare_instead"
+  },
+  {
+    "mob": "friendsandfoes:iceologer",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "savage_and_ravage_iceologer_instead"
+  },
+  {
+    "mob": "friendsandfoes:moobloom",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "buzzier_bees_moobloom_instead"
+  },
+  {
+    "mob": "naturalist:snail",
+    "when": "onjoin",
+	"result": "deny_with_actions",
+    "customevent": "autumnity_snail_instead"
+  }, 
+  {
+    "mob": "naturalist:tortoise",
+    "when": "onjoin",
+	"result": "deny"
+  },
+  {
+    "mob": "sullysmod:lanternfish",
+    "when": "onjoin",
+	"result": "deny"
+  },
+  {
+    "mob": "whatareyouvotingfor:crab",
+    "when": "onjoin",
+	"result": "deny"
+  }
+]

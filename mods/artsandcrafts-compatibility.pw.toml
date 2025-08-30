@@ -1,0 +1,13 @@
+name = "Arts & Crafts Compatibility"
+filename = "arts_and_crafts_compat-forge-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04de0970d5778ea1a17c8e540d0a7bc9003c5b02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6687446
+project-id = 1034792

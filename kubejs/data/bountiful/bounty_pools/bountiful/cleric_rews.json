@@ -1,0 +1,233 @@
+{
+	"content": {
+
+        "magma_cream": {
+            "type": "item",
+            "content": "minecraft:magma_cream",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 1000,
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:magma_cream"
+                }
+            ]
+        },
+
+        "potion_heals": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 1000,
+            "nbt": "{Potion:\"minecraft:healing\"}"
+        },
+
+        "potion_fire_resist": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000,
+            "nbt": "{Potion:\"minecraft:fire_resistance\"}"
+        },
+
+        "ench_book_unbreaking": {
+            "type": "item",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4000,
+            "nbt": "{StoredEnchantments:[{lvl:2s,id:\"minecraft:unbreaking\"}]}"
+        },
+
+        "glowstone": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:glowstone",
+            "amount": {
+                "min": 1,
+                "max": 16
+            },
+            "unitWorth": 750
+        },
+
+        "ghast_tear": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:ghast_tear",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000
+        },
+
+        "ender_pearl": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "minecraft:ender_pearl",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000
+        },
+
+        "potion_luck": {
+            "type": "item",
+            "rarity": "RARE",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2000,
+            "nbt": "{Potion:\"minecraft:luck\"}"
+        },
+
+        "xp_bottle": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:experience_bottle",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 750
+        },
+
+        "ender_pearl_bargain": {
+            "type": "item",
+			"rarity": "LEGENDARY",
+            "content": "minecraft:ender_pearl",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1500
+        },
+
+        "ench_book_mending": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 8000,
+            "nbt": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:mending\"}]}"
+        },
+
+		"magician_helm": {
+			"type": "item",
+			"content": "irons_spellbooks:wandering_magician_helmet",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1500,
+			"nbt": "{Damage:0}"
+		},
+
+		"magician_chest": {
+			"type": "item",
+			"content": "irons_spellbooks:wandering_magician_chestplate",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2400,
+			"nbt": "{Damage:0}"
+		},
+
+		"magician_legs": {
+			"type": "item",
+			"content": "irons_spellbooks:wandering_magician_leggings",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2100,
+			"nbt": "{Damage:0}"
+		},
+
+		"magician_boots": {
+			"type": "item",
+			"content": "irons_spellbooks:wandering_magician_boots",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1200,
+			"nbt": "{Damage:0}"
+		},
+
+		"arcane_essence": {
+			"type": "item",
+            "rarity": "UNCOMMON",
+			"content": "irons_spellbooks:arcane_essence",
+			"amount": {
+				"min": 1,
+				"max": 4
+			},
+			"unitWorth": 2500
+		},
+
+		"mana_bottle": {
+			"type": "item",
+            "rarity": "RARE",
+			"content": "botania:mana_bottle",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 5000
+		},
+
+        "warp_scroll": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "ars_nouveau:warp_scroll",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 3000
+        },
+
+		"source_pie": {
+			"type": "item",
+			"content": "ars_nouveau:source_berry_pie",
+			"amount": {
+				"min": 4,
+				"max": 16
+			},
+			"unitWorth": 800
+		},
+
+        "candy_tablet": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "alexscaves:cave_tablet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{CaveBiome:\"alexscaves:candy_cavity\"}"
+        }
+
+	}
+
+}

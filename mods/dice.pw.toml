@@ -1,0 +1,13 @@
+name = "Dice"
+filename = "Dice-[MC-1.20.1]-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "085b9b7ee0b72c2fd619935a9845e7d97866b42e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5230951
+project-id = 538587

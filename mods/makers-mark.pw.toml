@@ -1,0 +1,13 @@
+name = "Maker's mark"
+filename = "makersmark-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "699f22d7a3b8bb698db41a4fc5e76c19d5aaeadf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5935082
+project-id = 1147167

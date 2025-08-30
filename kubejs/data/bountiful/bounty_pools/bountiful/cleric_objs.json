@@ -1,0 +1,131 @@
+{
+	"content": {
+
+        "rotflesh": {
+            "type": "item",
+            "content": "minecraft:rotten_flesh",
+            "amount": {
+                "min": 12,
+                "max": 48
+            },
+            "unitWorth": 100
+        },
+
+        "gold_ingot": {
+            "type": "item",
+            "content": "minecraft:gold_ingot",
+            "amount": {
+                "min": 1,
+                "max": 7
+            },
+            "unitWorth": 400
+        },
+
+        "blaze_powder": {
+            "type": "item",
+            "content": "minecraft:blaze_powder",
+            "amount": {
+                "min": 2,
+                "max": 4
+            },
+            "unitWorth": 500,
+			"weightMult": 0.2
+        },
+
+        "potion_water": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 2,
+                "max": 8
+            },
+            "unitWorth": 100,
+            "nbt": "{Potion:\"minecraft:water\"}"
+        },
+
+        "potion_awkward": {
+            "type": "item",
+            "content": "minecraft:potion",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 500,
+            "nbt": "{Potion:\"minecraft:awkward\"}",
+			"weightMult": 0.5
+        },
+
+        "rabbit_foot": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:rabbit_foot",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2500
+        },
+
+        "cauldron": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:cauldron",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 2000
+        },
+
+        "glass_bottle": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "minecraft:glass_bottle",
+            "amount": {
+                "min": 4,
+                "max": 16
+            },
+            "unitWorth": 110
+        },
+
+        "scute": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "minecraft:scute",
+            "amount": {
+                "min": 2,
+                "max": 6
+            },
+            "unitWorth": 500,
+			"weightMult": 0.2
+        },
+
+        "nether_wart": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:nether_wart",
+            "amount": {
+                "min": 10,
+                "max": 40
+            },
+            "unitWorth": 85,
+			"weightMult": 0.5
+        },
+
+        "cure_zombie_villager": {
+            "type": "criteria",
+            "rarity": "EPIC",
+            "content": "minecraft:cured_zombie_villager",
+            "conditions": {},
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "timeMult": 5,
+			"weightMult": 0.2
+        }
+
+	}
+
+}

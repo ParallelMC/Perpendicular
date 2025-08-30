@@ -1,0 +1,12 @@
+name = "Better Clouds Reforged"
+side = "client"
+filename = "BetterClouds-1.1.jar"
+
+[update.curseforge]
+file-id = 5538311
+project-id = 983284
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "172289d960977eef7db83d31dd05835d171b3ef6"

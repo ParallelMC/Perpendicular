@@ -1,0 +1,13 @@
+name = "Arts & Crafts"
+filename = "arts_and_crafts-forge-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afe0671281f6b20e1ecae5dc5d873d4cf1acca9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6689158
+project-id = 1034791

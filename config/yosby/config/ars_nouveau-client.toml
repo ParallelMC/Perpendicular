@@ -1,0 +1,6 @@
+
+#Lighting
+[lights]
+	#Show the supporter message. This is set to false after the first time.
+	showSupporterMessage = false
+

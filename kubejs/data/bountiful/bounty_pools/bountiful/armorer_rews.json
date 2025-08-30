@@ -1,0 +1,262 @@
+
+{
+	"content": {
+
+        "bell": {
+            "type": "item",
+			"rarity": "UNCOMMON",
+            "content": "minecraft:bell",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6000
+        },
+
+        "gold_horse_armor": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "minecraft:golden_horse_armor",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 2000
+        },
+
+        "iron_horse_armor": {
+            "type": "item",
+			"rarity": "RARE",
+            "content": "minecraft:iron_horse_armor",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 1500,
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:iron_ingot"
+                }
+            ]
+        },
+
+        "diamond_horse_armor": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:diamond_horse_armor",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 10000,
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:diamond"
+                }
+            ],
+            "weightMult": 0.15
+        },
+
+        "diamond_helm": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:diamond_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 10000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:diamond"
+                }
+            ],
+            "weightMult": 0.15
+        },
+
+        "diamond_chest": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:diamond_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 16000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:diamond"
+                }
+            ],
+            "weightMult": 0.15
+        },
+
+        "diamond_legs": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:diamond_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 14000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:diamond"
+                }
+            ],
+            "weightMult": 0.15
+        },
+
+        "diamond_boots": {
+            "type": "item",
+			"rarity": "EPIC",
+            "content": "minecraft:diamond_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 8000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:diamond"
+                }
+            ],
+            "weightMult": 0.15
+        },
+
+        "nether_helm": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:netherite_helmet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 15000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:netherite_ingot"
+                }
+            ],
+            "weightMult": 0.1
+        },
+
+        "nether_chest": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:netherite_chestplate",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 24000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:netherite_ingot"
+                }
+            ],
+            "weightMult": 0.1
+        },
+
+        "nether_legs": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:netherite_leggings",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 21000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:netherite_ingot"
+                }
+            ],
+            "weightMult": 0.1
+        },
+
+        "nether_boots": {
+            "type": "item",
+            "rarity": "LEGENDARY",
+            "content": "minecraft:netherite_boots",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12000,
+            "nbt": "{Damage:0}",
+            "forbids": [
+                {
+                    "type": "item",
+                    "content": "minecraft:netherite_ingot"
+                }
+            ],
+            "weightMult": 0.1
+        },
+
+        "seared_brick": {
+            "type": "item",
+            "content": "tconstruct:seared_brick",
+            "amount": {
+                "min": 1,
+                "max": 60
+            },
+            "unitWorth": 200,
+            "weightMult": 3
+        },
+
+        "pirate_pouch": {
+            "type": "item",
+            "content": "aquamirae:pirate_pouch",
+            "amount": {
+                "min": 1,
+                "max": 4
+            },
+            "unitWorth": 1000,
+            "weightMult": 3
+        },
+
+        "ench_book_protection": {
+            "type": "item",
+            "rarity": "UNCOMMON",
+            "content": "minecraft:enchanted_book",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 6000,
+            "nbt": "{StoredEnchantments:[{lvl:3s,id:\"minecraft:protection\"}]}"
+        },
+
+        "toxic_tablet": {
+            "type": "item",
+            "rarity": "EPIC",
+            "content": "alexscaves:cave_tablet",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 5000,
+            "nbt": "{CaveBiome:\"alexscaves:toxic_caves\"}"
+        }
+
+	}
+
+}

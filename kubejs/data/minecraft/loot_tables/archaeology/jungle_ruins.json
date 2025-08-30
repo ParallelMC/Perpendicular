@@ -1,0 +1,223 @@
+{
+	"type": "minecraft:archaeology",
+	"pools": [
+		{
+			"name": "main",
+			"rolls": 1.0,
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:wild_armor_trim_smithing_template"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:sniffer_egg"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:skeleton_skull"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 2,
+					"name": "minecraft:diamond"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:friend_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:snort_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:arms_up_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:shelter_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:danger_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:heart_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:brewer_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 6,
+					"name": "minecraft:prize_pottery_sherd"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:emerald"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:iron_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:gold_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"name": "minecraft:lapis_lazuli"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"name": "minecraft:saddle"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:stone_axe"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:stone_pickaxe"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [
+						{
+							"function": "minecraft:set_damage",
+							"damage": {
+								"type": "minecraft:uniform",
+								"min": 0.6,
+								"max": 0.1
+							},
+							"add": false
+						}
+					],
+					"name": "minecraft:stone_shovel"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:brick"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:raw_gold"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:raw_iron"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:honeycomb"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:book"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:name_tag"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 20,
+					"name": "minecraft:lead"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 30,
+					"name": "minecraft:iron_nugget"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 30,
+					"name": "minecraft:gold_nugget"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 30,
+					"name": "minecraft:honey_bottle"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:bone"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:flint"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:stick"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:glass_bottle"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:glow_berries"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 40,
+					"name": "minecraft:cocoa_beans"
+				}
+			]
+		}
+	]
+}

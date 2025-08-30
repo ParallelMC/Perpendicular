@@ -1,0 +1,97 @@
+{
+	"content": {
+
+		"silver_helm": {
+			"type": "item",
+			"content": "caverns_and_chasms:silver_helmet",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1500,
+			"nbt": "{Damage:0}"
+		},
+
+		"silver_chest": {
+			"type": "item",
+			"content": "caverns_and_chasms:silver_chestplate",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2400,
+			"nbt": "{Damage:0}"
+		},
+
+		"silver_legs": {
+			"type": "item",
+			"content": "caverns_and_chasms:silver_leggings",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2100,
+			"nbt": "{Damage:0}"
+		},
+
+		"silver_boots": {
+			"type": "item",
+			"content": "caverns_and_chasms:silver_boots",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 1200,
+			"nbt": "{Damage:0}"
+		},
+
+		"ci_helm": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pneumaticcraft:compressed_iron_helmet",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2500,
+			"nbt": "{Damage:0}"
+		},
+
+		"ci_chest": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pneumaticcraft:compressed_iron_chestplate",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 4000,
+			"nbt": "{Damage:0}"
+		},
+
+		"ci_legs": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pneumaticcraft:compressed_iron_leggings",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 3500,
+			"nbt": "{Damage:0}"
+		},
+
+		"ci_boots": {
+			"type": "item",
+			"rarity": "UNCOMMON",
+			"content": "pneumaticcraft:compressed_iron_boots",
+			"amount": {
+				"min": 1,
+				"max": 1
+			},
+			"unitWorth": 2000,
+			"nbt": "{Damage:0}"
+		}
+
+	}
+}

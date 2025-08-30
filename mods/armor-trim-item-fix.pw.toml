@@ -1,0 +1,12 @@
+name = "Armor Trim Item Fix"
+side = "client"
+filename = "ArmorTrimItemFix-forge-1.20.1-1.2.0.jar"
+
+[update.curseforge]
+file-id = 6012450
+project-id = 895603
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "dbc1a172f22f7f83b060e16c8da7a9c15ea52182"
