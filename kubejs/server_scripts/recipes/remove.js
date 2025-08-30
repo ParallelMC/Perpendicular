@@ -85,6 +85,10 @@ ServerEvents.recipes(event => {
     // Toast
     'refurbished_furniture:toasting/toast',
 
+    // Eggs
+    'naturalist:cooked_egg_from_campfire_cooking',
+    'naturalist:cooked_egg_from_smoking',
+
     // Salt
     'refurbished_furniture:baking/sea_salt',
     'meadow:alpine_salt_from_smelting_alpine_salt_ore',

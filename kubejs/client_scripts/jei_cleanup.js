@@ -47,6 +47,10 @@ JEIEvents.hideItems(event => {
     'refurbished_furniture:toast',
     'mynethersdelight:toasts',
 
+    // Eggs
+    'farmersdelight:fried_egg',
+    'naturalist:cooked_egg',
+
     // Salt
     'refurbished_furniture:sea_salt',
     'meadow:alpine_salt_ore',
@@ -286,6 +290,9 @@ JEIEvents.hideItems(event => {
     'sullysmod:cooked_lanternfish',
     'whatareyouvotingfor:crab_spawn_egg',
     'whatareyouvotingfor:crab_claw',
+
+    // Silicon
+    'ae2:silicon',
 
     // Fluids
     'tconstruct:molten_lead',

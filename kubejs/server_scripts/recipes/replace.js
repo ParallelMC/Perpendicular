@@ -69,4 +69,8 @@ ServerEvents.recipes(event => {
 
   // Items for removed mobs
   event.replaceInput({id: 'naturalist:shellstone'}, 'naturalist:snail_shell', 'autumnity:snail_shell_piece')
+
+  // Silicon
+  replaceEverywhere('ae2:silicon', 'enderio:silicon')
+
 });
