@@ -715,11 +715,6 @@ hash = "da42d2a6e6e3f7bd10df625ab23d6ba8a50ecb3545c1c3c6bda4f826caa5d51b"
 metafile = true
 
 [[files]]
-file = "mods/advanced-book.pw.toml"
-hash = "bff16c1edbb74a5602e1771cddd8e50c348510e4df0af168d5c5abf0e9ad1aa7"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "a14189cc71f74aa0a0aac8fce6447f2cd5c84bbbed4764da9013216fe7e275ac"
 metafile = true
