@@ -397,10 +397,6 @@ file = "config/yosby/config/sleep_tight-client.toml"
 hash = "eff4ec77afdc5e1256f1b0d0a58d7bf6581a30029bbb7290238db166c3dd3088"
 
 [[files]]
-file = "config/yosby/config/stylisheffects-client.toml"
-hash = "4f6498b1b5eb08d1283755f722619f4880cb12b9cce5e52d216d445fe33892e3"
-
-[[files]]
 file = "config/yosby/config/toolstats.json"
 hash = "65761a39f4bb538303bc78cf3f7b2129d76f61724debb1ac60ac6db26a97c858"
 
