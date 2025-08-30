@@ -50,4 +50,76 @@ ServerEvents.tags('item', event => {
     'supplementaries:wrench',
     'thermal:wrench'
   ]);
+
+  // Unify cheeses
+  event.add('forge:cheese', [
+    'ad_astra:cheese',
+    'brewinandchewin:flaxen_cheese_wedge',
+    'brewinandchewin:scarlet_cheese_wedge',
+    'netherexp:glowcheese',
+    'rats:blue_cheese',
+    'rats:nether_cheese'
+  ]);
+
+  event.add('brewinandchewin:cheese_wedges', 'forge:cheese');
+
+  // Unify knives
+  event.add('farmersdelight:tools/knives', 'aquaculture:neptunium_fillet_knife');
+
+  // Unify gold bars
+  event.add('tconstuct:casts', 'caverns_and_chasms:golden_bars');
+  event.add('tconstuct:casts/empty/table', 'caverns_and_chasms:golden_bars');
+
+  // Shared recipes for plastic
+  event.add('perpendicular:plastic', [
+    'pneumaticcraft:plastic',
+    'industrialforegoing:plastic'
+  ]);
+
+  // Rock salt blocks
+  event.add('perpendicular:rock_salt_blocks', [
+    'galosphere:pink_salt',
+    'galosphere:rose_pink_salt',
+    'galosphere:pastel_pink_salt'
+  ]);
+
+  // Salt
+  event.add('meadow:salt', 'crossroads:dust_salt');
+  event.add('forge:dusts/salt', 'spelunkery:salt');
+
+  // Uranium ore tag
+  event.add('forge:ores/uranium', 'alexscaves:radrock_uranium_ore');
+
+  // -----------------
+  // Curios
+  // -----------------
+  
+  // AE2 terminals don't work with hotkey in curios slot
+  event.remove('curios:curio', 'expatternprovider:wireless_ex_pat');
+  
+  // Move prestigious palm to hand slot
+  event.remove('curios:charm', 'eidolon:prestigious_palm')
+  event.add('curios:hands', 'eidolon:prestigious_palm')
+
+  // Configure curios to fit in a few different slots
+  event.remove('curios:curio', [
+    'pneumaticcraft:memory_stick',
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:back', [
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:bundle', [
+    'crossroads:leyden_jar',
+    'pneumaticcraft:memory_stick',
+    'ad_astra_giselle_addon:oxygen_can',
+    'ad_astra_giselle_addon:netherite_oxygen_can'
+  ]);
+  event.add('curios:belt', [
+    'crossroads:leyden_jar',
+    'pneumaticcraft:memory_stick'
+  ])
+  event.add('curios:spellbook', 'aether_redux:solar_emblem')
 });

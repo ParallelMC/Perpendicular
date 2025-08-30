@@ -1,3 +1,22 @@
 {
-    "item.create.wrench": "Gold Wrench"
+    "item.create.wrench": "Gold Wrench",
+    "block.create.cut_limestone": "Cut White Limestone",
+    "block.create.cut_limestone_brick_slab": "Cut White Limestone Brick Slab",
+    "block.create.cut_limestone_brick_stairs": "Cut White Limestone Brick Stairs",
+    "block.create.cut_limestone_brick_wall": "Cut White Limestone Brick Wall",
+    "block.create.cut_limestone_bricks": "Cut White Limestone Bricks",
+    "block.create.cut_limestone_slab": "Cut White Limestone Slab",
+    "block.create.cut_limestone_stairs": "Cut White Limestone Stairs",
+    "block.create.cut_limestone_wall": "Cut White Limestone Wall",
+    "block.create.layered_limestone": "Layered White Limestone",
+    "block.create.limestone": "White Limestone",
+    "block.create.limestone_pillar": "White Limestone Pillar",
+    "block.create.polished_cut_limestone": "Polished Cut White Limestone",
+    "block.create.polished_cut_limestone_slab": "Polished Cut White Limestone Slab",
+    "block.create.polished_cut_limestone_stairs": "Polished Cut White Limestone Stairs",
+    "block.create.polished_cut_limestone_wall": "Polished Cut White Limestone Wall",
+    "block.create.small_limestone_brick_slab": "Small White Limestone Brick Slab",
+    "block.create.small_limestone_brick_stairs": "Small White Limestone Brick Stairs",
+    "block.create.small_limestone_brick_wall": "Small White Limestone Brick Wall",
+    "block.create.small_limestone_bricks": "Small White Limestone Bricks"
 }

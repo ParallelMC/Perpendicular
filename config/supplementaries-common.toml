@@ -238,13 +238,13 @@
 			glowing_duration = 200
 
 [building]
-	lapis_bricks = true
+	lapis_bricks = false
 	deepslate_lamp = true
 	end_stone_lamp = true
 	blackstone_lamp = true
 	stone_lamp = true
-	stone_tile = true
-	blackstone_tile = true
+	stone_tile = false
+	blackstone_tile = false
 	sconce = true
 	sconce_lever = true
 	pancake = true
@@ -373,7 +373,7 @@
 		unrestricted = false
 
 	[building.gravel_bricks]
-		enabled = true
+		enabled = false
 
 	[building.slidy_block]
 		enabled = true
