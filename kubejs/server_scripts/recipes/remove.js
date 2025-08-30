@@ -22,6 +22,10 @@ ServerEvents.recipes(event => {
     // New recipe for mob imprisonment tool
     'industrialforegoing:mob_imprisonment_tool',
 
+    // Remove chunkloader blocks
+    'pneumaticcraft:chunkloader_upgrade',
+    'ae2:network/blocks/spatial_anchor',
+
     // -----------------
     // Duplicate recipes
     // -----------------

@@ -17,6 +17,10 @@ JEIEvents.hideItems(event => {
     'industrialforegoing:infinity_launcher',
     'industrialforegoing:infinity_nuke',
 
+    // Remove chunkloader blocks
+    'pneumaticcraft:chunkloader_upgrade',
+    'ae2:spatial_anchor',
+
     // -----------------
     // Unification
     // -----------------
@@ -344,6 +348,7 @@ JEIEvents.hideItems(event => {
     // Honey
     'productivebees:honey_bucket',
     'tconstruct:honey_bucket',
+
   ]);
 });
 
