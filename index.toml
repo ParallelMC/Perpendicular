@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-but-better.pw.toml"
-hash = "5dd1e6a1ccfda5ce632e50c558c2ecd9ba31f3a6e748d76a3426a113688370fe"
+hash = "ca09122725bd0c7b9b848eeaee468d47290b5b879158bf0f2209733374f5fba6"
 metafile = true
 
 [[files]]
