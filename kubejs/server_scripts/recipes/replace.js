@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
   // -----------------
 
   // XP storage crystal
-  event.replaceInput({id: 'thermal:tools/xp_crystal'}, 'minecraft:experience_bottle', 'create_enchantment_industry:hyper_experience_bottle')
+  event.replaceInput({id: 'thermal:tools/xp_crystal'}, 'minecraft:experience_bottle', 'create:experience_block')
 
   // Give fur some uses
   event.replaceInput({id: 'meadow:fur_helmet'}, 'minecraft:rabbit_hide', 'naturalist:fur')

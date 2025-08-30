@@ -26,6 +26,9 @@ ServerEvents.recipes(event => {
     'pneumaticcraft:chunkloader_upgrade',
     'ae2:network/blocks/spatial_anchor',
 
+    // Gating flux blocks behind steel
+    'fluxnetworks:fluxblock',
+
     // -----------------
     // Duplicate recipes
     // -----------------

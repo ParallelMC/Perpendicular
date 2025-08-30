@@ -18,4 +18,6 @@ ServerEvents.recipes(event => {
     event.recipes.create.mixing(Fluid.of('pneumaticcraft:memory_essence', 1000), Fluid.of('cofh_core:experience', 1000)).id(`${MIXING_PREFIX}memory_essence_from_essence_of_knowledge`);
     event.recipes.create.mixing(Fluid.of('pneumaticcraft:memory_essence', 1000), Fluid.of('industrialforegoing:essence', 1000)).id(`${MIXING_PREFIX}memory_essence_from_essence`);
 
+    // Steel
+    event.recipes.create.mixing('thermal:steel_ingot', ['minecraft:iron_ingot', '#crossroads:blast_furnace_carbon']).heated().id(`${MIXING_PREFIX}steel`);
 })
