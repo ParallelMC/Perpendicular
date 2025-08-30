@@ -36,7 +36,7 @@ key_iris.keybind.reload:key.keyboard.r:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.o:CONTROL
 key_iris.keybind.toggleShaders:key.keyboard.k:CONTROL
 key_pneumaticcraft.armor.options:key.keyboard.o
-key_quark.keybind.change_hotbar:key.keyboard.grave.accent
+key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_key.solonion.open_food_book:key.keyboard.left.bracket
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.f10
