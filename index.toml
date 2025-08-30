@@ -6,7 +6,7 @@ hash = "5485217567618be395743fdfcbf5336712e6878c07b5149b20a4a31cfa752a11"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
-hash = "74eea0a267e0654b176e1e04c61b41adcfd2d32774b48af8a6b6948748408548"
+hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"

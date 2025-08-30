@@ -13,6 +13,7 @@ Changes:
 - Cleaned up dungeon chest loot
 - Restricted Productive Bees to raw materials
 - Fixed missing morph tool settings
+- Added an Open Parties and Claims config entry for Lecterns
 - Added some item descriptions to JEI
 - Hid some Ender IO items in the JEI list
 - Reordered Curios slots and adjusted some items' curio placement
