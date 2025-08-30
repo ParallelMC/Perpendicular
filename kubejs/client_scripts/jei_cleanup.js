@@ -357,6 +357,13 @@ JEIEvents.hideItems(event => {
     'create_confectionery:gingerbread_slab',
     'create_confectionery:gingerbread_man',
 
+    // -----------------
+    // Hide items with many variants
+    // -----------------
+    //Item.of('ae2:facade').ignoreNBT(),
+    Item.of('enderio:broken_spawner').ignoreNBT(),
+    Item.of('enderio:filled_soul_vial').ignoreNBT(),
+
   ]);
 });
 
@@ -388,7 +395,12 @@ JEIEvents.addItems(event => {
   event.add([
     // Create: Big Cannons hides the Create buckets for some reason
     'create:chocolate_bucket',
-    'create:honey_bucket'
+    'create:honey_bucket',
+
+    // Show single examples of these items
+    Item.of('ae2:facade', '{item:"minecraft:stone"}'),
+    'enderio:broken_spawner',
+    Item.of('enderio:filled_soul_vial', '{BlockEntityTag:{EntityStorage:{Entity:{id:"minecraft:zombie"}}}}')
   ]);
 });
 
