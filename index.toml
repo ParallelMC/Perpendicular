@@ -442,7 +442,7 @@ hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "43e496fb7745f38c3d26368eadeaacfc551a68a7607cb0f616c90be096a0629f"
+hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
@@ -450,11 +450,11 @@ hash = "43e496fb7745f38c3d26368eadeaacfc551a68a7607cb0f616c90be096a0629f"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
-hash = "43e496fb7745f38c3d26368eadeaacfc551a68a7607cb0f616c90be096a0629f"
+hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "f03f873b21efa44d906a691800c796a150f3aba77b9620289d2348590b83c7f4"
+hash = "ab7e7daa2cc854f6a5a75c34013efa36d653169bd2c01fe510a013e1cc2caf81"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -1286,7 +1286,7 @@ hash = "9086d6f38f72402e041870e611c6812cb5e37ae19f8e05e1d9cbfc3f6efc8a50"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
-hash = "34c3ce11e2ec73e56b6ddf5e5a605bfb3634115dbea8f5f740dabbed4bfcd067"
+hash = "5d4abf76640100f0674f91935b494329aa49d24c3d1c5543c7b10e35d966b9ea"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/stonecutting.js"
