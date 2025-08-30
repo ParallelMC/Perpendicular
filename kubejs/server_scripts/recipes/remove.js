@@ -254,7 +254,12 @@ ServerEvents.recipes(event => {
     'neapolitan:milk/milk_bottles_from_bucket',
     'neapolitan:milk/milk_bucket_from_bottles',
     'create:filling/compat/farmersdelight/milk_bottle',
-    'brewinandchewin:filling/create/milk_bottle'
+    'brewinandchewin:filling/create/milk_bottle',
+
+    // Oil
+    'productivebees:create/mixing/ad_astra/honeycomb_oily',
+    'productivebees:create/mixing/thermal/honeycomb_oily',
+    'ad_astra_giselle_addon:compat/industrial_foregoing/laser_drill_fluid/oil',    
 
   ].forEach((recipeID) => event.remove({id: recipeID}));
 

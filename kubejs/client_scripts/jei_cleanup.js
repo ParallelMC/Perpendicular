@@ -295,23 +295,15 @@ JEIEvents.hideItems(event => {
     'ae2:silicon',
 
     // Fluids
-    'tconstruct:molten_lead',
     'tconstruct:molten_lead_bucket',
-    'tconstruct:molten_steel',
     'tconstruct:molten_steel_bucket',
-    'tconstruct:molten_bronze',
     'tconstruct:molten_bronze_bucket',
-    'crossroads:molten_iron',
     'crossroads:molten_iron_bucket',
-    'crossroads:molten_gold',
     'crossroads:molten_gold_bucket',
-    'crossroads:molten_copper',
     'crossroads:molten_copper_bucket',
-    'crossroads:molten_tin',
     'crossroads:molten_tin_bucket',
 
     // Latex
-    'thermal:latex',
     'thermal:latex_bucket',
 
     // Rubber
@@ -319,13 +311,38 @@ JEIEvents.hideItems(event => {
     'industrialforegoing:tinydryrubber',
 
     // Milk
-    'farmersdelight:milk_bottle'
+    'farmersdelight:milk_bottle',
+
+    // Oil
+    'ad_astra:oil_bucket',
+    'thermal:crude_oil_bucket',
+
   ]);
 });
+
+// Hide fluids
+JEIEvents.hideFluids(event => {
+  event.hide([
+    'tconstruct:molten_lead',
+    'tconstruct:molten_steel',
+    'tconstruct:molten_bronze',
+    'crossroads:molten_iron',
+    'crossroads:molten_gold',
+    'crossroads:molten_copper',
+    'crossroads:molten_tin',
+    'thermal:latex',
+    'ad_astra:oil',
+    'thermal:crude_oil',
+  ]);
+});
+
 
 // Add items
 JEIEvents.addItems(event => {
   event.add([
+    // Create: Big Cannons hides the Create buckets for some reason
+    'create:chocolate_bucket',
+    'create:honey_bucket'
   ]);
 });
 

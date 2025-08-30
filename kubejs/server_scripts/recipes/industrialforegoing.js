@@ -17,4 +17,37 @@ ServerEvents.recipes(event => {
         "result": "thermal:stripped_rubberwood_log"
     }).id(`perpendicular:fluid_extractor/rubberwood`);
 
+
+    // -----------------
+    // Laser drill
+    // -----------------
+
+    event.custom({
+        "type": "industrialforegoing:laser_drill_fluid",
+        "catalyst": {
+            "item": "industrialforegoing:laser_lens7"
+        },
+        "entity": "minecraft:empty",
+        "output": "{Amount:50,FluidName:\"pneumaticcraft:oil\"}",
+        "pointer": 0,
+        "rarity": [
+            {
+                "blacklist": {},
+                "depth_max": 60,
+                "depth_min": 20,
+                "weight": 8,
+                "whitelist": {
+                    "type": "minecraft:worldgen/biome",
+                    "values": [
+                        "minecraft:ocean",
+                        "minecraft:cold_ocean",
+                        "minecraft:deep_cold_ocean",
+                        "minecraft:deep_frozen_ocean",
+                        "minecraft:deep_lukewarm_ocean",
+                        "minecraft:warm_ocean"
+                    ]
+                }
+            }
+        ]
+    }).id(`perpendicular:laser_drill_fluid/oil`);
 })
