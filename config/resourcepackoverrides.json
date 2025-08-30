@@ -9,18 +9,20 @@
 		"file/MobCrates_1.20.1_v1.zip",
         "file/lanostry_foxes.zip",		
         "file/Aether Regenerated v1.2.1.zip",
-		"file/mod-descriptions-v6.zip"
+		"file/mod-descriptions-v7.zip"
     ],
     "default_overrides": {
         "force_compatible": true
     },
     "required_packs": [
+		"file/DetailedAnimationsReworkedXJustExpressions - V1.15.zip",
 		"file/Vibrating Wither Fix.zip",		
         "file/updated_aquaculture-1.0.zip",		
         "file/Splendous Sniffers.zip",
 		"file/MobCrates_1.20.1_v1.zip",
         "file/lanostry_foxes.zip",		
-        "file/Aether Regenerated v1.2.1.zip"	
+        "file/Aether Regenerated v1.2.1.zip",
+		"file/mod-descriptions-v7.zip"
     ],
     "$$required_packs": {
         "required": true
