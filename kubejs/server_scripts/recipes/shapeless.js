@@ -12,6 +12,10 @@ ServerEvents.recipes(event => {
   event.shapeless('rats:cheese', 'meadow:piece_of_cheese').id(`${RECIPE_PREFIX}rats_cheese_from_meadow_cheese`);
   event.shapeless('meadow:piece_of_cheese', 'rats:cheese').id(`${RECIPE_PREFIX}meadow_cheese_from_rats_cheese`);
 
+  // Swap between XP gem types (both worth 3 XP = 60 mB)
+  event.shapeless('ars_nouveau:experience_gem', 'create:experience_nugget').id(`${RECIPE_PREFIX}xp_gem_from_nugget`);
+  event.shapeless('create:experience_nugget', 'ars_nouveau:experience_gem',).id(`${RECIPE_PREFIX}xp_nugget_from_gem`);
+
   // Use dragon egg for elytra duplication
   event.shapeless(Item.of('minecraft:elytra', '{Damage:0}'), ['minecraft:dragon_egg', 'minecraft:elytra']).keepIngredient('minecraft:elytra').id(`${RECIPE_PREFIX}elytra_duplication`);
   

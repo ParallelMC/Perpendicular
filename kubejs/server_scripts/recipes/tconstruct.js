@@ -83,5 +83,10 @@ ServerEvents.recipes(event => {
     // Gold bars
     melting('caverns_and_chasms:golden_bars', {tag: 'forge:molten_gold'}, 30, 700, 33, 'molten_gold_from_golden_bars')
 
+    // Experience
+    melting('ars_nouveau:experience_gem', {fluid: 'pneumaticcraft:memory_essence'}, 60, 450, 18, 'memory_essence_from_experience_gem')
+    melting('ars_nouveau:greater_experience_gem', {fluid: 'pneumaticcraft:memory_essence'}, 240, 450, 72, 'memory_essence_from_greater_experience_gem')
+    melting('create:experience_nugget', {fluid: 'pneumaticcraft:memory_essence'}, 60, 450, 18, 'memory_essence_from_experience_nugget')
+    melting('create:experience_block', {fluid: 'pneumaticcraft:memory_essence'}, 540, 450, 162, 'memory_essence_from_experience_block')
 
 })

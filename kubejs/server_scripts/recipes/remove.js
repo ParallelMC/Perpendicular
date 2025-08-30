@@ -178,6 +178,9 @@ ServerEvents.recipes(event => {
 
     // Equipment
     'thermal:tools/satchel',
+    
+    // XP
+    'thermal:machines/centrifuge/centrifuge_experience_bottle',
 
     // Old Crossroads recipes with molten metal
     'crossroads:crucible/dust_copper',
