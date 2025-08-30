@@ -193,6 +193,14 @@ file = "config/modernfix-mixins.properties"
 hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "102941bbec280464ebc55324ef321cd20b5cdc4232af1b95f1280064972955b1"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "43ef89c0e2da3a7ee2774279aadda8d555b06136b221f633b22e9e60def4d0ac"
+
+[[files]]
 file = "config/moonlight-client.toml"
 hash = "d1a34f21182241eefc355810faedb24bdbf2ad80ff9fdbecaf614aa521ae97e4"
 
