@@ -96,4 +96,7 @@ ServerEvents.recipes(event => {
   event.replaceInput({id: 'thermal:smelting/cured_rubber_from_smelting'}, 'thermal:rubber', 'industrialforegoing:dryrubber')
   event.replaceInput({id: 'industrialforegoing:plastic'}, 'industrialforegoing:dryrubber', 'thermal:cured_rubber')
 
+  // Milk
+  event.replaceOutput({id: 'thermal:compat/farmersdelight/bottler_farmersdelight_milk_bottle'}, 'farmersdelight:milk_bottle', 'neapolitan:milk_bottle')
+
 });

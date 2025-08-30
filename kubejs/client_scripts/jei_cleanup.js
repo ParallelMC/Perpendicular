@@ -317,6 +317,9 @@ JEIEvents.hideItems(event => {
     // Rubber
     'thermal:rubber',
     'industrialforegoing:tinydryrubber',
+
+    // Milk
+    'farmersdelight:milk_bottle'
   ]);
 });
 

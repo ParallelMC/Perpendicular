@@ -249,6 +249,13 @@ ServerEvents.recipes(event => {
     'thermal:rubber_from_dandelion',
     'industrialforegoing:dryrubber',
 
+    // Milk
+    'productivebees:milk_bucket',
+    'neapolitan:milk/milk_bottles_from_bucket',
+    'neapolitan:milk/milk_bucket_from_bottles',
+    'create:filling/compat/farmersdelight/milk_bottle',
+    'brewinandchewin:filling/create/milk_bottle'
+
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
   // By output
