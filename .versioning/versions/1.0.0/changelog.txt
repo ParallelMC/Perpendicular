@@ -1,0 +1,22 @@
+Changes:
+- Various item and recipe changes:
+  - Unified several item types (mainly food, crafting materials, and fluids)
+  - Removed redundant recipes, items, building blocks, and storage blocks
+  - Hid redundant recipe types (woodcutting and slicing)
+  - Added some cross-mod compatibility recipes
+  - Disabled some Industrial Foregoing infinity items and made mob catcher more expensive
+  - Disabled chunk loader blocks
+- Limited overenchanting to +1 level
+- Granted additional starter items
+- Guaranteed an egg for every dragon kill
+- Configured Nature's Compass
+- Cleaned up dungeon chest loot
+- Restricted Productive Bees to raw materials
+- Fixed missing morph tool settings
+- Added an Open Parties and Claims config entry for Lecterns
+- Added some item descriptions to JEI
+- Hid some Ender IO items in the JEI list
+- Reordered Curios slots and adjusted some items' curio placement
+- Adjusted Slice of Life buffs and food values
+- Fixed overlap between curios and effect display
+- Fixed our custom Modpack Update Checker config being missing
