@@ -103,4 +103,8 @@ ServerEvents.recipes(event => {
   event.replaceOutput({id: 'thermal:machines/centrifuge/centrifuge_oil_red_sand'}, Fluid.of('thermal:crude_oil'), Fluid.of('pneumaticcraft:oil'))
   event.replaceOutput({id: 'thermal:machines/centrifuge/centrifuge_oil_sand'}, Fluid.of('thermal:crude_oil'), Fluid.of('pneumaticcraft:oil'))
 
+
+  // Honey
+  event.replaceOutput({}, Fluid.of('productivebees:honey'), Fluid.of('create:honey'))
+  replaceEverywhere(Fluid.of('cofh_core:honey'), Fluid.of('create:honey'))
 });

@@ -317,10 +317,15 @@ JEIEvents.hideItems(event => {
     'ad_astra:oil_bucket',
     'thermal:crude_oil_bucket',
 
+    
+    // Honey
+    'productivebees:honey_bucket',
+    'tconstruct:honey_bucket',
   ]);
 });
 
 // Hide fluids
+/*
 JEIEvents.hideFluids(event => {
   event.hide([
     'tconstruct:molten_lead',
@@ -333,9 +338,12 @@ JEIEvents.hideFluids(event => {
     'thermal:latex',
     'ad_astra:oil',
     'thermal:crude_oil',
+    'productivebees:honey',
+    'cofh_core:honey',
+    'tconstruct:honey'
   ]);
 });
-
+*/
 
 // Add items
 JEIEvents.addItems(event => {

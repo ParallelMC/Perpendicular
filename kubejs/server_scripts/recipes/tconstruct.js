@@ -91,5 +91,23 @@ ServerEvents.recipes(event => {
     melting('ars_nouveau:greater_experience_gem', {fluid: 'pneumaticcraft:memory_essence'}, 240, 450, 72, 'memory_essence_from_greater_experience_gem')
     melting('create:experience_nugget', {fluid: 'pneumaticcraft:memory_essence'}, 60, 450, 18, 'memory_essence_from_experience_nugget')
     melting('create:experience_block', {fluid: 'pneumaticcraft:memory_essence'}, 540, 450, 162, 'memory_essence_from_experience_block')
+    melting('minecraft:honey_block', {fluid: 'create:honey'}, 1000, 1, 94, 'honey_block')
+
+    // -----------------
+    // Entity melting
+    // -----------------
+
+    // Create honey from bee melting
+    event.custom({
+        "type": "tconstruct:entity_melting",
+        "damage": 2,
+        "entity": {
+            "type": "minecraft:bee"
+        },
+        "result": {
+            "amount": 25,
+            "fluid": "create:honey"
+        }
+    }).id(`perpendicular:entity_melting/bee`);
 
 })
