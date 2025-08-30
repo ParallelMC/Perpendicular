@@ -42,6 +42,9 @@ ServerEvents.recipes(event => {
   // Toast
   event.replaceInput({}, 'refurbished_furniture:toast', 'some_assembly_required:toasted_bread_slice')
 
+  // Pancakes
+  event.replaceInput({id: 'supplementaries:pancake_fd'}, 'minecraft:sugar', 'autumnity:syrup_bottle')
+
   // Salt
   replaceEverywhere('spelunkery:rock_salt', 'galosphere:pink_salt_shard')
   event.replaceInput({}, 'spelunkery:rock_salt_block', '#perpendicular:rock_salt_blocks')
@@ -96,6 +99,9 @@ ServerEvents.recipes(event => {
   event.replaceInput({id: 'thermal:smelting/cured_rubber_from_smelting'}, 'thermal:rubber', 'industrialforegoing:dryrubber')
   event.replaceInput({id: 'industrialforegoing:plastic'}, 'industrialforegoing:dryrubber', 'thermal:cured_rubber')
 
+  // Fertilizer
+  replaceEverywhere('alexscaves:fertilizer', 'industrialforegoing:fertilizer')
+
   // Milk
   event.replaceOutput({id: 'thermal:compat/farmersdelight/bottler_farmersdelight_milk_bottle'}, 'farmersdelight:milk_bottle', 'neapolitan:milk_bottle')
 
@@ -103,6 +109,11 @@ ServerEvents.recipes(event => {
   event.replaceOutput({id: 'thermal:machines/centrifuge/centrifuge_oil_red_sand'}, Fluid.of('thermal:crude_oil'), Fluid.of('pneumaticcraft:oil'))
   event.replaceOutput({id: 'thermal:machines/centrifuge/centrifuge_oil_sand'}, Fluid.of('thermal:crude_oil'), Fluid.of('pneumaticcraft:oil'))
 
+  // Vegetable oil
+  event.replaceOutput({id: 'createaddition:compacting/seed_oil'}, Fluid.of('createaddition:seed_oil'), Fluid.of('pneumaticcraft:vegetable_oil'))
+
+  // Biofuel
+  event.replaceOutput({id: 'createaddition:mixing/bioethanol'}, Fluid.of('createaddition:bioethanol'), Fluid.of('pneumaticcraft:ethanol'))
 
   // Honey
   event.replaceOutput({}, Fluid.of('productivebees:honey'), Fluid.of('create:honey'))

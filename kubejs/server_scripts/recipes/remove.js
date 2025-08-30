@@ -89,6 +89,10 @@ ServerEvents.recipes(event => {
     'naturalist:cooked_egg_from_campfire_cooking',
     'naturalist:cooked_egg_from_smoking',
 
+    // Pancakes
+    'supplementaries:pancake',
+    'autumnity:pancake',
+
     // Salt
     'refurbished_furniture:baking/sea_salt',
     'meadow:alpine_salt_from_smelting_alpine_salt_ore',
@@ -249,17 +253,29 @@ ServerEvents.recipes(event => {
     'thermal:rubber_from_dandelion',
     'industrialforegoing:dryrubber',
 
+    // Silver equipment
+    'eidolon:silver_helmet',
+    'eidolon:silver_chestplate',
+    'eidolon:silver_leggings',
+    'eidolon:silver_boots',
+    'eidolon:silver_sword',
+    'eidolon:silver_pickaxe',
+    'eidolon:silver_axe',
+    'eidolon:silver_shovel',
+    'eidolon:silver_hoe',
+
     // Milk
     'productivebees:milk_bucket',
     'neapolitan:milk/milk_bottles_from_bucket',
     'neapolitan:milk/milk_bucket_from_bottles',
     'create:filling/compat/farmersdelight/milk_bottle',
     'brewinandchewin:filling/create/milk_bottle',
+    'productivebees:bottler/milk_bottle',
 
     // Oil
     'productivebees:create/mixing/ad_astra/honeycomb_oily',
     'productivebees:create/mixing/thermal/honeycomb_oily',
-    'ad_astra_giselle_addon:compat/industrial_foregoing/laser_drill_fluid/oil',    
+    'ad_astra_giselle_addon:compat/industrial_foregoing/laser_drill_fluid/oil',
 
     // Honey
     'the_bumblezone:honey_bucket/to_honey_bottle',

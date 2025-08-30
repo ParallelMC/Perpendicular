@@ -51,6 +51,9 @@ JEIEvents.hideItems(event => {
     'farmersdelight:fried_egg',
     'naturalist:cooked_egg',
 
+    // Pancakes
+    'autumnity:pancake',
+
     // Salt
     'refurbished_furniture:sea_salt',
     'meadow:alpine_salt_ore',
@@ -310,13 +313,33 @@ JEIEvents.hideItems(event => {
     'thermal:rubber',
     'industrialforegoing:tinydryrubber',
 
+    // Fertilizer
+    'alexscaves:fertilizer',
+
+    // Silver equipment
+    'eidolon:silver_helmet',
+    'eidolon:silver_chestplate',
+    'eidolon:silver_leggings',
+    'eidolon:silver_boots',
+    'eidolon:silver_sword',
+    'eidolon:silver_pickaxe',
+    'eidolon:silver_axe',
+    'eidolon:silver_shovel',
+    'eidolon:silver_hoe',
+
     // Milk
     'farmersdelight:milk_bottle',
+    'productivebees:milk_bottle',
 
     // Oil
     'ad_astra:oil_bucket',
     'thermal:crude_oil_bucket',
 
+    // Vegetable oil
+    'createaddition:seed_oil_bucket',
+    
+    // Biofuel
+    'createaddition:bioethanol',
     
     // Honey
     'productivebees:honey_bucket',
@@ -338,6 +361,8 @@ JEIEvents.hideFluids(event => {
     'thermal:latex',
     'ad_astra:oil',
     'thermal:crude_oil',
+    'createaddition:seed_oil',
+    'createaddition:bioethanol',
     'productivebees:honey',
     'cofh_core:honey',
     'tconstruct:honey'
