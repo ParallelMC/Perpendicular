@@ -43,6 +43,9 @@ ServerEvents.recipes(event => {
     // Unify flour
     sagMill('#forge:crops/wheat', [{item: 'pneumaticcraft:wheat_flour'}, {item: 'minecraft:wheat_seeds', chance: 0.2}], 2400, 'wheat')
 
+    // Salt
+    sagMill('galosphere:pink_salt_shard', [{item: 'spelunkery:salt', count: 2}, {item: 'spelunkery:salt', chance: 0.75}], 2400, 'salt')
+
     // -----------------
     // Alloy Smelting
     // -----------------

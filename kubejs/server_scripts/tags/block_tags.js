@@ -18,4 +18,12 @@ ServerEvents.tags('block', event => {
     'unusualprehistory:deepslate_tar_fossil',
     'unusualprehistory:permafrost_fossil'
   ]);
+  // Limestone blocks
+  event.add('perpendicular:limestone_blocks', [
+    'alexscaves:limestone',
+    'create:limestone',
+    'quark:limestone',
+    'meadow:limestone'
+  ]);
+
 });

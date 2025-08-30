@@ -3,6 +3,15 @@
 ServerEvents.recipes(event => {
 
     // -----------------
+    // Pulverizer
+    // -----------------
+    const PULVERIZER_PREFIX = 'perpendicular:pulverizer/';
+
+    // Salt
+    event.recipes.thermal.pulverizer(Item.of('spelunkery:salt').withChance(2.25), 'galosphere:pink_salt_shard').id(`${PULVERIZER_PREFIX}salt`);
+
+
+    // -----------------
     // Centrifuge
     // -----------------
 

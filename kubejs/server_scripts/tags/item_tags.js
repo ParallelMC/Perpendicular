@@ -75,4 +75,15 @@ ServerEvents.tags('item', event => {
     'pneumaticcraft:plastic',
     'industrialforegoing:plastic'
   ]);
+
+  // Rock salt blocks
+  event.add('perpendicular:rock_salt_blocks', [
+    'galosphere:pink_salt',
+    'galosphere:rose_pink_salt',
+    'galosphere:pastel_pink_salt'
+  ]);
+
+  // Salt
+  event.add('meadow:salt', 'crossroads:dust_salt');
+  event.add('forge:dusts/salt', 'spelunkery:salt');
 });

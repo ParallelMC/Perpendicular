@@ -49,6 +49,13 @@ JEIEvents.hideItems(event => {
 
     // Salt
     'refurbished_furniture:sea_salt',
+    'meadow:alpine_salt_ore',
+    'spelunkery:rock_salt',
+    'spelunkery:rock_salt_block',
+    'spelunkery:rock_salt_stairs',
+    'spelunkery:rock_salt_slab',
+    'spelunkery:rock_salt_wall',    
+    'v_slab_compat:spelunkery/rock_salt_vertical_slab',
 
     // Knives
     'aquaculture:wooden_fillet_knife',

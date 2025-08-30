@@ -30,6 +30,8 @@ ServerEvents.recipes(event => {
     'aether:aether_saddle',
     'essentials:name_tag',
     'essentials:piston',
+    'spelunkery:leather', // Use salt for jerky instead
+    'minecraft:gunpowder',
 
     // Gears
     'enderio:iron_gear',
@@ -85,6 +87,20 @@ ServerEvents.recipes(event => {
 
     // Salt
     'refurbished_furniture:baking/sea_salt',
+    'meadow:alpine_salt_from_smelting_alpine_salt_ore',
+    'meadow:alpine_salt_from_blasting_alpine_salt_ore',
+    'enderio:smelting/meadow/alpine_salt_from_smelting_alpine_salt_ore',
+    'meadow:cooking_pot/alpine_salt_from_limestone',
+    'meadow:cooking_pot/alpine_salt_from_calcite',
+    'spelunkery:rock_salt_block',
+    'spelunkery:rock_salt_stairs',
+    'spelunkery:rock_salt_stairs_from_stonecutting',
+    'spelunkery:rock_salt_slab',
+    'spelunkery:rock_salt_slab_from_stonecutting',
+    'spelunkery:rock_salt_wall',
+    'spelunkery:rock_salt_wall_from_stonecutting',
+    'v_slab_compat:spelunkery/rock_salt',
+    'v_slab_compat:spelunkery/rock_salt_stonecutter',
 
     // Knives
     'aquaculture:wooden_fillet_knife',

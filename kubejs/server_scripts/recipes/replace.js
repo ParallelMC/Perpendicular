@@ -28,6 +28,13 @@ ServerEvents.recipes(event => {
   // Toast
   event.replaceInput({}, 'refurbished_furniture:toast', 'some_assembly_required:toasted_bread_slice')
 
+  // Salt
+  replaceEverywhere('spelunkery:rock_salt', 'galosphere:pink_salt_shard')
+  event.replaceInput({}, 'spelunkery:rock_salt_block', '#perpendicular:rock_salt_blocks')
+  event.replaceInput({id: 'crossroads:base_materials/salt_block'}, '#forge:dusts/salt', 'crossroads:dust_salt')
+  event.replaceInput({id: 'galosphere:cured_membrane'}, 'galosphere:pink_salt_shard', '#forge:dusts/salt')
+  event.replaceInput({id: 'galosphere:salted_jerky'}, 'galosphere:pink_salt_shard', '#forge:dusts/salt')
+
   // Storage blocks
   event.replaceOutput({id: 'thermal:machines/press/packing3x3/press_apple_packing'}, 'thermal:apple_block', 'quark:apple_crate')
   event.replaceInput({id: 'thermal:machines/press/unpacking/press_apple_unpacking'}, 'thermal:apple_block', 'quark:apple_crate')
