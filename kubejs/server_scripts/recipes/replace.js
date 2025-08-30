@@ -7,6 +7,20 @@ ServerEvents.recipes(event => {
   };
 
   // -----------------
+  // Material integration
+  // -----------------
+
+  // XP storage crystal
+  event.replaceInput({id: 'thermal:tools/xp_crystal'}, 'minecraft:experience_bottle', 'create_enchantment_industry:hyper_experience_bottle')
+
+  // Give fur some uses
+  event.replaceInput({id: 'meadow:fur_helmet'}, 'minecraft:rabbit_hide', 'naturalist:fur')
+  event.replaceInput({id: 'meadow:fur_chestplate'}, 'minecraft:rabbit_hide', 'naturalist:fur')
+  event.replaceInput({id: 'meadow:fur_leggings'}, 'minecraft:rabbit_hide', 'naturalist:fur')
+  event.replaceInput({id: 'meadow:fur_boots'}, 'minecraft:rabbit_hide', 'naturalist:fur')
+  event.replaceInput({id: 'naturalist:teddy_bear'}, 'minecraft:string', 'naturalist:fur')
+
+  // -----------------
   // UNIFICATION
   // -----------------
 

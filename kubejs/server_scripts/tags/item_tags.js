@@ -61,7 +61,7 @@ ServerEvents.tags('item', event => {
     'rats:nether_cheese'
   ]);
 
-  event.add('brewinandchewin:cheese_wedges', '#forge:cheese');
+  event.add('brewinandchewin:cheese_wedges', 'forge:cheese');
 
   // Unify knives
   event.add('farmersdelight:tools/knives', 'aquaculture:neptunium_fillet_knife');
@@ -86,4 +86,7 @@ ServerEvents.tags('item', event => {
   // Salt
   event.add('meadow:salt', 'crossroads:dust_salt');
   event.add('forge:dusts/salt', 'spelunkery:salt');
+
+  // Uranium ore tag
+  event.add('forge:ores/uranium', 'alexscaves:radrock_uranium_ore');
 });

@@ -18,6 +18,10 @@ ServerEvents.tags('block', event => {
     'unusualprehistory:deepslate_tar_fossil',
     'unusualprehistory:permafrost_fossil'
   ]);
+
+  // AE2 growth accelerator compat
+  event.add('ae2:growth_acceleratable', 'opalescence:budding_opal');
+
   // Limestone blocks
   event.add('perpendicular:limestone_blocks', [
     'alexscaves:limestone',
