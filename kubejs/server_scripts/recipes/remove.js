@@ -4,6 +4,17 @@ ServerEvents.recipes(event => {
   // By recipe ID
   [
     // -----------------
+    // Bugged items
+    // -----------------
+    'crittersandcompanions:grappling_hook',
+
+    // -----------------
+    // WIP and deprecated items
+    // -----------------
+    'enderio:glider_wing',
+    'ad_astra_giselle_addon:crafting/gravity_normalizer',
+
+    // -----------------
     // Nerfs
     // -----------------
     

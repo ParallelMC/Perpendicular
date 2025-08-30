@@ -5,6 +5,26 @@ JEIEvents.hideItems(event => {
   event.hide([
 
     // -----------------
+    // Bugged items
+    // -----------------
+    'crittersandcompanions:grappling_hook',
+
+    // -----------------
+    // WIP and deprecated items
+    // -----------------
+    'enderio:glider_wing',
+    'compressedcreativity:heater',
+    'eidolon:scriptorium',
+    'crossroads:cooling_coil',
+    'crossroads:crystal_cooling_coil',
+    'ad_astra_giselle_addon:gravity_normalizer',
+
+    // -----------------
+    // Debug items
+    // -----------------
+    /structure_gel/,
+
+    // -----------------
     // Nerfs
     // -----------------
     
