@@ -1,9 +1,9 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "Beta 1.0.0",
+  "currentVersion": "1.0.0",
   "modpackName": "Perpendicular",
   "modpackAuthor": "The Parallel Team",
-  "modpackReleaseType": "beta",
+  "modpackReleaseType": "stable",
   "updateCheckerId": "https://raw.githubusercontent.com/ParallelMC/Perpendicular/main/.versioning/",
   "advanced": {
     "bccEnabled": false,
