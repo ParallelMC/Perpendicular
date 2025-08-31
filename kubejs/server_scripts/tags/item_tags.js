@@ -82,6 +82,14 @@ ServerEvents.tags('item', event => {
     'galosphere:rose_pink_salt',
     'galosphere:pastel_pink_salt'
   ]);
+    
+  // Limestone blocks
+  event.add('perpendicular:limestone_blocks', [
+    'alexscaves:limestone',
+    'create:limestone',
+    'quark:limestone',
+    'meadow:limestone'
+  ]);
 
   // Salt
   event.add('meadow:salt', 'crossroads:dust_salt');
