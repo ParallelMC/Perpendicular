@@ -65,5 +65,10 @@
     "when": "finalize",
     "result": "default",
     "healthset": 20.0
+  },
+  {
+    "mod": "aquaculture",
+    "random": 0.4,
+    "result": "deny"
   }
 ]
