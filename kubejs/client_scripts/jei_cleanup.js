@@ -380,7 +380,7 @@ JEIEvents.hideItems(event => {
     // -----------------
     // Hide items with many variants
     // -----------------
-    //Item.of('ae2:facade').ignoreNBT(),
+    Item.of('ae2:facade').ignoreNBT(),
     Item.of('enderio:broken_spawner').ignoreNBT(),
     Item.of('enderio:filled_soul_vial').ignoreNBT(),
 
