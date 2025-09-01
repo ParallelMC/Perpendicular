@@ -59,5 +59,11 @@
     "mob": "whatareyouvotingfor:crab",
     "when": "onjoin",
 	"result": "deny"
+  },
+  {
+    "mob": "minecraft:skeleton",
+    "when": "finalize",
+    "result": "default",
+    "healthset": 20.0
   }
 ]
