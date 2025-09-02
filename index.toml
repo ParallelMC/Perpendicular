@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "5485217567618be395743fdfcbf5336712e6878c07b5149b20a4a31cfa752a11"
+hash = "1b953ae7f28b9c7162e33f195b87afd4277da797108f78fab96ab941ad71d439"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
