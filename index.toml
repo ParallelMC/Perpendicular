@@ -105,6 +105,10 @@ file = "config/blockswap/block_swap.json5"
 hash = "e1d95028c4f2aef994864f808882d222ef6d9167526bdc538f8397440fe08301"
 
 [[files]]
+file = "config/bobby.toml"
+hash = "3be89a11a0ec9aa79e6c29657b3b7aefc93011364598964f612cfd337d11a2c9"
+
+[[files]]
 file = "config/botania-common.toml"
 hash = "35c54cc03dbfdc948bfaee6c45a3f5ac0156abff12abf879f91337497ee865db"
 
@@ -343,10 +347,6 @@ hash = "1ecba87b0813f507046abe6d8466363da557d52ee28deb8454306b0a01b04b81"
 [[files]]
 file = "config/yosby/config/betterf3.toml"
 hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
-
-[[files]]
-file = "config/yosby/config/bobby.toml"
-hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
 
 [[files]]
 file = "config/yosby/config/cpm.json"
@@ -1644,6 +1644,11 @@ hash = "192b4e3d282f8fb2b64de240e470a1f53c8b0b7a5b2a2a2f3d04c9fcfabb6334"
 metafile = true
 
 [[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "05c8e52651ff1fabebb2a7fe40291bc486e27e61289007aeabd7e6ba1c363cfe"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -2106,11 +2111,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "a6313c759ee8e9ab0afb8fc056c6ce6d2be7ee87063c0ec85905b83302382af0"
 metafile = true
 
 [[files]]
