@@ -123,6 +123,8 @@ ServerEvents.recipes(event => {
   event.replaceOutput({id: 'create_confectionery:candy_cane_recipe'}, 'create_confectionery:candy_cane', 'alexscaves:candy_cane')
   event.replaceInput({id: 'create_confectionery:music_disc_the_bright_side_recipe'}, 'create_confectionery:candy_cane', 'alexscaves:candy_cane')
 
+  // Slag
+  replaceEverywhere('thermal:slag', 'crossroads:slag')
 
   // Withered bones
   replaceEverywhere('architects_palette:withered_bone', 'tconstruct:necrotic_bone')
