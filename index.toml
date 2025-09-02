@@ -10,7 +10,7 @@ hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
-hash = "b3f8ec2bfb6af159d392cee40d85c3be03ca74c95b269e3cb84680e38d186363"
+hash = "b77d839e832cbbc895192ffffe76c67ebb72af867922515c6f1387a2858f533c"
 
 [[files]]
 file = "config/Advancedperipherals/peripherals.toml"
