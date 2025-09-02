@@ -1,0 +1,98 @@
+New Mods:
+- Almost Unified
+- Backported Animal Variants
+- Backported Wolves
+- Block Swap
+- Crash Assistant
+- Create Slice & Dice
+- Create: Steam 'n' Rails (readded)
+- Figura (readded)
+- Integrated Villages
+- Modpack Update Checker
+- Save Loot Tables
+- Shadered
+- Structure Layout Optimizer
+- Tectonic
+- Unsafe World Random Access Detector
+- Vanillin
+- Vertical Slabs Compat
+Library Mods:
+- Integrated API
+- Lithostitched
+
+Removed Mods:
+- Advanced Book (causing console spam when advanced books are opened)
+- Applied Kinetics (not needed)
+- Bigger Reactors (don't need this much power)
+- Create: Central Kitchen (crash bug with Sleep Tight, replaced with Create: Slice & Dice)
+- Create: The Factory Must Grow (has a bug that spams logs with vigor)
+- Customizable Player Models (replaced with Figura)
+- Fast Async World Save (more testing needed for this mod)
+- IllagerBlabber (included unsafe async functions) 
+- KubeJS TFMG (dependent on TFMG)
+- Luki's Grand Capitals (replaced with Integrated Villages)
+- More Mob Variants (included unsafe async functions)
+- Not Enough Crashes (replaced with Crash Assistant)
+- Queen Bee (has a crash bug)
+- Towns and Towers (replaced with Integrated Villages)
+Library Mods:
+- Cristel Lib
+- Quartz
+- Phosphophyllite
+
+Changes:
+- Added custom ocean planet (Lacrimosa) and custom dessert planet (Vulcandy)
+- Increased the world height to y=640 to allow players to build normally on Tectonic's mountain ranges
+- Gave structures, world features, and mob spawns a ton of extra compatibility with modded biomes 
+- Removed duplicates + unnecessary versions for a ton of ore-based items and generation
+- Blocks we're not using in the modpack will now swap to a block we *are* using during world generation
+- Duplicate mob types will no longer spawn
+- Increased tectonic ocean offset slightly (makes continents + islands slightly larger)
+- The modpack will now notify players whenever a new version has been released
+- Players can now access the modpack's changelog from the title screen
+- Expanded Morphing Tool support + cleaned up unnecessary wrench items
+- Players will now spawn into a world with an Eccentric Tome containing every guidebook that exists in the modpack (+ will no longer have the individual guidebooks clutter their inventory)
+- Made bounty board rewards much more valuable
+- Fixed an issue causing vanilla caves to be sparser with Tectonic world generation
+- Fixed Abyssal Chasms not spawning correctly in Tectonic's deeper oceans
+- Removed Ad Astra oil wells
+- Modified the Astrodux to have correct info on where to find oil
+- Made Alex's Caves biomes more common
+- Slightly decreased the rarity of Nether + End Cataclysm structures
+- Amber from Sully's Mod now prevents dinosaur eggs from Alex's Caves from hatching
+- Fixed Oreganized silver ore not generating correctly
+- Fixed Alex's Caves biomes not spawning on certain planets
+- Fixed noise settings for Mercury's worldgen
+- Fixed boundroid winches not being able to survive on Mercury 
+- Fix sky slime bee not being recognized
+- Disable biome map villager trades (redundant with Nature's Compass)
+- Disabled Quark hedges (using Mr. Crayfish's instead)
+- Increased the Terrablender overworld biome region size to allow modded biome sizes to be closer to vanilla biome sizes
+- Recipe advancements are now no longer loaded, greatly optimizing world saving times
+- Enabled Vanillin rendering for items, item frames, and glow item frames (this may be disabled if bugs are found with this)
+- Unbound the Quark hotbar swapper hotkey
+- Fixed some mod registering archaeology loot tables incorrectly (we figured this out because they misspelled "archaeology" lol
+- Tweaked some config options to allow Figura stuff to render properly
+- Made Blue Flame Burning mod be included server-side too
+
+Mod Updates:
+- [Let's Do] Vinery 1.4.39 -> 1.4.40
+- All the Leaks 1.0.0 -> 1.0.2
+- Botania 448 -> 450
+- Building But Better 1.1.1 -> 1.0.1 (downgrade to work with Curseforge)
+- Critters and Companions 2.2.2 -> 2.3.1
+- Entity Model Features 2.4.1 -> 3.0.1
+- Entity Texture Features 6.2.9 -> 7.0.1
+- Ghosts 1.1.0 -> 1.2.0
+- L_Ender's Cataclysm 3.06 -> 3.16
+- Oh The Biomes We've Gone 1.6.2 -> 1.6.4
+- Oreganized 4.1.1 -> 4.2.3
+- Tinkers' Construct 3.10.1.76 -> 3.10.2.92
+- Tinkers' Integrations and Tweaks 2.0.25.9 -> 2.0.25.10
+Library Mods:
+- Mantle 1.11.63 -> 1.11.79
+
+Resource Pack Updates:
+- Lanostry's Foxes 4.1 -> 4.2
+- Mod Descriptions v6 -> v7
+- Updated Aquaculture 1.0 -> 1.1

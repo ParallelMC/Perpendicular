@@ -121,16 +121,16 @@
 	"Japanese Palette" = true
 	"Leaf Carpet" = true
 	Midori = true
-	"More Brick Types" = false
+	"More Brick Types" = true
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
 	"Raw Metal Bricks" = true
-	Rope = false
+	Rope = true
 	"Shear Vines" = true
-	Shingles = false
-	"Soul Sandstone" = false
+	Shingles = true
+	"Soul Sandstone" = true
 	Stools = true
 	"Sturdy Stone" = true
 	Thatch = true
@@ -141,7 +141,7 @@
 	"Vertical Planks" = true
 	"Vertical Slabs" = true
 	"Wooden Posts" = true
-	"More Stone Variants" = false
+	"More Stone Variants" = true
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -154,22 +154,22 @@
 		"Blaze Lantern Fuel Time" = 24000
 		#Allowed values: [0,)
 		"Stick Block Fuel Time" = 900
-		"Enable Charcoal Block" = false
+		"Enable Charcoal Block" = true
 		"Enable Sugar Cane Block" = true
 		"Enable Cactus Block" = true
 		"Enable Chorus Fruit Block" = true
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
 		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = false
-		"Enable Carrot Crate" = false
+		"Enable Potato Crate" = true
+		"Enable Carrot Crate" = true
 		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = false
+		"Enable Beetroot Crate" = true
 		"Enable Cocoa Bean Sack" = true
 		"Enable Nether Wart Sack" = true
 		"Enable Gunpowder Sack" = true
-		"Enable Berry Sack" = false
-		"Enable Glow Berry Sack" = false
+		"Enable Berry Sack" = true
+		"Enable Glow Berry Sack" = true
 		"Enable Blaze Lantern" = true
 		"Enable Bonded Leather" = true
 		"Enable Bonded Rabbit Hide" = true
@@ -205,17 +205,17 @@
 
 	[building.more_brick_types]
 		#This also comes with a utility recipe for Red Nether Bricks
-		"Enable Blue Nether Bricks" = false
+		"Enable Blue Nether Bricks" = true
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
-		"Enable Sandstone Bricks" = false
+		"Enable Sandstone Bricks" = true
 		#This also includes Mossy Cobblestone Bricks
-		"Enable Cobblestone Bricks" = false
+		"Enable Cobblestone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Blackstone Bricks" = false
+		"Enable Blackstone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Dirt Bricks" = false
+		"Enable Dirt Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Netherrack Bricks" = false
+		"Enable Netherrack Bricks" = true
 
 	[building.rainbow_lamps]
 		"Light Level" = 15
@@ -277,9 +277,9 @@
 		"Allow Side Connections" = true
 
 	[building.more_stone_variants]
-		"Enable Bricks" = false
-		"Enable Chiseled Bricks" = false
-		"Enable Pillar" = false
+		"Enable Bricks" = true
+		"Enable Chiseled Bricks" = true
+		"Enable Pillar" = true
 
 [management]
 	"Automatic Tool Restock" = true
@@ -767,7 +767,7 @@
 
 [world]
 	"Ancient Wood" = true
-	"Azalea Wood" = false
+	"Azalea Wood" = true
 	"Big Stone Clusters" = true
 	"Blossom Trees" = true
 	"Chorus Vegetation" = true
@@ -1951,4 +1951,3 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
-

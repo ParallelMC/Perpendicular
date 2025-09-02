@@ -1,13 +1,13 @@
 name = "Updated Aquaculture"
-filename = "updated_aquaculture-1.0.zip"
+filename = "updated_aquaculture-1.1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "147695850a58cdcbdebeb4602076926f20593e65"
+hash = "1c153018918de3d75417da9188b161ae850ab449"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3862192
+file-id = 6392870
 project-id = 640645

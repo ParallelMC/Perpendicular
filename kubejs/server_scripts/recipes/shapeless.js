@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
   event.shapeless(Item.of('minecraft:elytra', '{Damage:0}'), ['minecraft:dragon_egg', 'minecraft:elytra']).keepIngredient('minecraft:elytra').id(`${RECIPE_PREFIX}elytra_duplication`);
   
   // Milk
-  event.shapeless('4x neapolitan:milk_bottle', ['minecraft:milk_bucket', '4x minecraft:glass_bottle']).replaceIngredient('neapolitan:milk_bucket', 'minecraft:bucket').id(`${RECIPE_PREFIX}milk_bottles_from_bucket`);
+  event.shapeless('4x neapolitan:milk_bottle', ['minecraft:milk_bucket', '4x minecraft:glass_bottle']).replaceIngredient('minecraft:milk_bucket', 'minecraft:bucket').id(`${RECIPE_PREFIX}milk_bottles_from_bucket`);
   event.shapeless('minecraft:milk_bucket', ['minecraft:bucket', '4x neapolitan:milk_bottle']).replaceIngredient('neapolitan:milk_bottle', 'minecraft:glass_bottle').id(`${RECIPE_PREFIX}milk_bucket_from_bottles`);
 
 });
