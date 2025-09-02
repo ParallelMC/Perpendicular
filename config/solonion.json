@@ -81,6 +81,10 @@
       "diversity": 2
     },
     {
+      "ingredient": "{id:\"item\",item:\"some_assembly_required:sandwich\"}",
+      "diversity": 2.5
+    },
+    {
       "ingredient": "{id:\"item\",item:\"ars_nouveau:source_berry_pie\"}",
       "diversity": 2.5
     },
