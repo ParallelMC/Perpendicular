@@ -106,6 +106,7 @@ ServerEvents.recipes(event => {
     // Eggs
     'naturalist:cooked_egg_from_campfire_cooking',
     'naturalist:cooked_egg_from_smoking',
+    'naturalist:cooked_egg',
 
     // Pancakes
     'supplementaries:pancake',
