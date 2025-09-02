@@ -377,6 +377,9 @@ JEIEvents.hideItems(event => {
     'create_confectionery:gingerbread_slab',
     'create_confectionery:gingerbread_man',
 
+    // Withered bones
+    'architects_palette:withered_bone',
+
     // -----------------
     // Hide items with many variants
     // -----------------

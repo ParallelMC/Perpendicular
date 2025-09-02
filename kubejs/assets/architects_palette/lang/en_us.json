@@ -12,5 +12,6 @@
     "block.architects_palette.calcite_brick_stairs": "Cobbled Calcite Stairs",
     "block.architects_palette.calcite_brick_wall": "Cobbled Calcite Wall",
     "block.architects_palette.chiseled_packed_ice": "Chiseled Ice",
-    "block.architects_palette.packed_ice_pillar": "Ice Pillar"    
+    "block.architects_palette.packed_ice_pillar": "Ice Pillar",
+    "block.architects_palette.withered_bone_block": "Necrotic Bone Block"
 }
