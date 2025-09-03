@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "1b953ae7f28b9c7162e33f195b87afd4277da797108f78fab96ab941ad71d439"
+hash = "df00ccae06c15da0cf9e09d7d6ccbc2f3f51627554a656364d7d9bfae9c4b8d9"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
 hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
+
+[[files]]
+file = ".versioning/versions/1.0.1/changelog.txt"
+hash = "3d67415bd2f1bb01fb0de5260bdcd7e312de7d9692c7b43d2e3fd4b30afb3c51"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -226,7 +230,7 @@ hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3437382b439c1c03272cc48e84d6a5c7edad2b1e8f8c2c2491a0e9987d5e7fb9"
+hash = "97fe1b8aeb3751788717adaf2033384477d5a6306f5dae4eccafc129f33964a9"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"

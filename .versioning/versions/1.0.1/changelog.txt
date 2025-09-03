@@ -1,0 +1,24 @@
+New Mods:
+- Bobby Reforged (re-added)
+
+Removed Mods:
+- Farsight (using Bobby Reforged instead)
+
+Changes:
+- Updated some effects given from increasing your Spice of Life food diversity score
+- Nerfed food diversity for assembled sandwiches 
+- Fixed players becoming the Flash from increasing their Spice of Life food diversity score
+- Lowered Thrasher spawn rate and maximum spawn height to account for Tectonic's deeper oceans
+- Fixed squids spawning way too rarely
+- Fixed Caverns and Chasms changing skeleton health from 20 HP to 10 HP
+- Entities that spawn with backpacks now no longer have a chance to spawn with the Jukebox upgrade (this will be tested and re-enabled in the future if it isn't a problem)
+- Players can no longer pick up Lootr chests, ComputerCraft blocks, and EnderIO conduits (certain features or systems break when they're picked up)
+- Fixed Botania mana spreaders not working properly in claims
+- Removed claim protection from Quark totems 
+- Wardens are now excluded from Immersive Optimization distance-based tick optimizations
+- Removed Neapolitan milk cauldrons to fix Rats cheese recipes
+- Replaced Architect's Palette withered bone with Tinkers' Construct necrotic bone
+- Replaced Thermal slag with Crossroads slag
+- Fixed duplicate cooked egg recipe 
+- Hid AE2 facades in JEI again
+- Fixed the item tag for limestone block  being added incorrectly
