@@ -14,7 +14,7 @@
     },
     {
       "threshold": 5,
-      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:1.0d}"
+      "benefit": "{key:\"aquamirae:swim_speed\",type:\"eff\",val:0.0d}"
     },
     {
       "threshold": 7,
@@ -26,15 +26,15 @@
     },
     {
       "threshold": 15,
-      "benefit": "{key:\"minecraft:haste\",type:\"eff\",val:0.0d}"
+      "benefit": "{key:\"minecraft:speed\",type:\"eff\",val:0.0d}"
     },
     {
       "threshold": 20,
-      "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
+      "benefit": "{key:\"minecraft:haste\",type:\"eff\",val:0.0d}"
     },
     {
       "threshold": 25,
-      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:1.0d}"
+      "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
     },
     {
       "threshold": 30,
@@ -47,10 +47,6 @@
     {
       "threshold": 40,
       "benefit": "{key:\"tconstruct:experienced\",type:\"eff\",val:1.0d}"
-    },
-    {
-      "threshold": 45,
-      "benefit": "{key:\"minecraft:generic.movement_speed\",op:0,type:\"att\",val:2.0d}"
     },
     {
       "threshold": 50,
@@ -83,6 +79,10 @@
     {
       "ingredient": "{id:\"item\",item:\"farmersdelight:stuffed_potato\"}",
       "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"some_assembly_required:sandwich\"}",
+      "diversity": 2.5
     },
     {
       "ingredient": "{id:\"item\",item:\"ars_nouveau:source_berry_pie\"}",
@@ -181,7 +181,7 @@
       "diversity": 3.5
     },
     {
-      "ingredient": "{id:\"item\",item:\"unusual_prehistory:yellow_fruit\"}",
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:yellow_fruit\"}",
       "diversity": 3.5
     },
     {
@@ -209,7 +209,7 @@
       "diversity": 4
     },
     {
-      "ingredient": "{id:\"item\",item:\"unusual_prehistory:blue_fruit\"}",
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:blue_fruit\"}",
       "diversity": 4
     },
     {
