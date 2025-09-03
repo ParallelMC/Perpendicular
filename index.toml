@@ -10,7 +10,7 @@ hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
 
 [[files]]
 file = ".versioning/versions/1.0.1/changelog.txt"
-hash = "3d67415bd2f1bb01fb0de5260bdcd7e312de7d9692c7b43d2e3fd4b30afb3c51"
+hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"

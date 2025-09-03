@@ -21,4 +21,4 @@ Changes:
 - Replaced Thermal slag with Crossroads slag
 - Fixed duplicate cooked egg recipe 
 - Hid AE2 facades in JEI again
-- Fixed the item tag for limestone block  being added incorrectly
+- Fixed the item tag for limestone block being added incorrectly
