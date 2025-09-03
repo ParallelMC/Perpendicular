@@ -22,4 +22,10 @@ ServerEvents.tags('block', event => {
   // AE2 growth accelerator compat
   event.add('ae2:growth_acceleratable', 'opalescence:budding_opal');
 
+  // Logs
+  event.add('minecraft:logs', [
+    'biomeswevegone:imbued_blue_enchanted_wood',
+    'biomeswevegone:imbued_green_enchanted_wood'
+]);
+
 });
