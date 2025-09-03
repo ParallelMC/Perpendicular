@@ -181,7 +181,7 @@
       "diversity": 3.5
     },
     {
-      "ingredient": "{id:\"item\",item:\"minecraft:air\"}",
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:yellow_fruit\"}",
       "diversity": 3.5
     },
     {
@@ -209,7 +209,7 @@
       "diversity": 4
     },
     {
-      "ingredient": "{id:\"item\",item:\"minecraft:air\"}",
+      "ingredient": "{id:\"item\",item:\"unusualprehistory:blue_fruit\"}",
       "diversity": 4
     },
     {
