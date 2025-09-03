@@ -117,6 +117,10 @@ file = "config/bountiful/bountiful.json"
 hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "08c159980a80dc9663f2a7662ca56b4f6ae743b0485be9993ca62638e9268633"
+
+[[files]]
 file = "config/cofh_core-client.toml"
 hash = "cc61b0d1fe59dc5e215a28de0434d567047c6f2959c31886617ce9d1a5ad6428"
 
@@ -206,7 +210,7 @@ hash = "76aa5f75ef75c581a3f3b7b7764c487a1d002a8271ba33203c3375e4a0eb3806"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "ff5a6dc03cb0dc93240a949a3da4613a1c3558d374adddae2e7bda6a122b3f70"
+hash = "a1346c252862ad82fad76d9228fa0a6e3d11b169c33445c0f43b12f5e97fcdbe"
 
 [[files]]
 file = "config/lmft.json"
@@ -239,6 +243,10 @@ hash = "71b207495d5655a7110b94227774466d8220677681c68dd4fba7164a4dec359d"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "c4dc4ef55d544026c1625fb08b11a2f59eea865829aeecee76067edb6eabdcc5"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "92a781f8c6a6c5e615ebf4a08ed66c8947b23f91636a6959cc7ed89925f7f527"
 
 [[files]]
 file = "config/nostartupmessages-common.toml"
@@ -286,7 +294,7 @@ hash = "784004cffb8be0961bcc800835105c2eb622e1f6c918dcc7117acc91098db288"
 
 [[files]]
 file = "config/solonion.json"
-hash = "2da1e441ff530a6236826600ddd942417ae854b1cc2e6b2232153d37bcbd1cd8"
+hash = "47d0e4ca47b8e56fe5ac38937f3e899763c72e57988366ef0b158f8d5649df50"
 
 [[files]]
 file = "config/spelunkery-client.toml"
@@ -323,6 +331,10 @@ hash = "2c13dc94794ed54c3a74d8a3d195db26753b74fc9100d4ad15a6689220a50503"
 [[files]]
 file = "config/terrablender.toml"
 hash = "acd11ba2c9e0f323b5bc123d9a35b2d4e100862b745ffc5f2b0d9ae36554a327"
+
+[[files]]
+file = "config/upgrade_aquatic-common.toml"
+hash = "b7b27934f38ea2a9b15a24fbf11c11bc3a72713ab7cdc97a1fecc66e26a32614"
 
 [[files]]
 file = "config/vanillin-client.toml"
@@ -454,7 +466,7 @@ hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "ab7e7daa2cc854f6a5a75c34013efa36d653169bd2c01fe510a013e1cc2caf81"
+hash = "cc691a08231d0a728d7d18cc27bdc1c7c6e89562302376ccc44de74fa502d6ae"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -478,7 +490,7 @@ hash = "48becb3d41f98cd452423a5caed03bd86bb8766426486c8df0221c1c7c15b4f5"
 
 [[files]]
 file = "kubejs/assets/architects_palette/lang/en_us.json"
-hash = "a0531541afc30f4837bd8a954843a88fe7726d86f3d24e297e51ab2f8e023525"
+hash = "c7c8ea40ff5f48493645006ee7aca94c6bb04c227805aa8293cbec9db2cfda26"
 
 [[files]]
 file = "kubejs/assets/bbb/lang/en_us.json"
@@ -550,7 +562,7 @@ hash = "858f26ae4c9ab0178e256e21c36ac0c79fa863b9f77ec0e95218033127cadfdd"
 
 [[files]]
 file = "kubejs/client_scripts/jei_cleanup.js"
-hash = "498f28344cd9a80c57cc4aa3529506a1d4b079578da10d1e6736eb6971999566"
+hash = "2d1b24c1f308817aff460f7f22e5a9735351e757b0f68569dba36e749326ce29"
 
 [[files]]
 file = "kubejs/client_scripts/jei_info.js"
@@ -1274,11 +1286,11 @@ hash = "fda2dc0eaf1fe485542f75acc5689458923467ef3294f467f8f475515e4c382b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "4bb0fd29f021b6ee74bcb96b3370e554f3c36cef91ef0c140ba88fcfb61f51f6"
+hash = "fe03e844f4615869f9a82112c4a6ffa590ae9feabb8f9a581628014f992d28e0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "320c893eb181fe1d898f4e47b31434bec93895387985d3ca8c3af3eefe1c18ac"
+hash = "d0006de597da89746bad629d910c06466bf6bdd014191e1105d2670f3e8042e3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
@@ -1310,7 +1322,7 @@ hash = "3736611309e9b40212da2483bba8ee6a7dff358a6cc5cee3c43d36f9ee86c6b7"
 
 [[files]]
 file = "kubejs/server_scripts/tags/block_tags.js"
-hash = "5d025e8fd2a6d0a7c0bc5694f2061e0699810ee6e1d9273d97d530f15672671a"
+hash = "403b6788f5c891f2ec5d49b0432cd36a9da29c3b4cbe3f3a6eb9b9146f077ec2"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
@@ -1322,7 +1334,7 @@ hash = "e06386b1ca80ad664437c259708ff9a730e4f029a1717a09ca06738d91b319be"
 
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
-hash = "4c09836754eb56a791cd7f922f071c8adb8e62eb1ed92ddca6647acef76943a7"
+hash = "e8fe9668bec48ebb3df873c516ff4d3d2a7288f6613fd8420fe8f649333d90de"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
