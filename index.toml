@@ -198,7 +198,7 @@ hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
 
 [[files]]
 file = "config/immersive_optimization.json"
-hash = "2a461cb34e9278577de30c508946c068ac9334545d4d6fd8cea08404ca13f70d"
+hash = "0a198fcb057342e04409eeb118e2679b53fad79ca832cdba031a32b186a25c19"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -458,7 +458,7 @@ hash = "ab7e7daa2cc854f6a5a75c34013efa36d653169bd2c01fe510a013e1cc2caf81"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "1eefb330073e04c0249c740d09e13070efee7f75d4a76b16d2f3e09b67d38356"
+hash = "9a4ce361aa5e5a4cbc654f447ad02ead62e371209f55f6f91d2076638d25f529"
 
 [[files]]
 file = "defaultconfigs/torchslabmod-server.toml"
