@@ -377,10 +377,16 @@ JEIEvents.hideItems(event => {
     'create_confectionery:gingerbread_slab',
     'create_confectionery:gingerbread_man',
 
+    // Slag
+    'thermal:slag',
+
+    // Withered bones
+    'architects_palette:withered_bone',
+
     // -----------------
     // Hide items with many variants
     // -----------------
-    //Item.of('ae2:facade').ignoreNBT(),
+    Item.of('ae2:facade').ignoreNBT(),
     Item.of('enderio:broken_spawner').ignoreNBT(),
     Item.of('enderio:filled_soul_vial').ignoreNBT(),
 

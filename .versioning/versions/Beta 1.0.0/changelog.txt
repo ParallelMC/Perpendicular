@@ -96,6 +96,3 @@ Resource Pack Updates:
 - Lanostry's Foxes 4.1 -> 4.2
 - Mod Descriptions v6 -> v7
 - Updated Aquaculture 1.0 -> 1.1
-
-KNOWN BUGS:
-- Commands don't tab-complete, but still work

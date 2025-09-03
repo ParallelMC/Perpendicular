@@ -22,12 +22,4 @@ ServerEvents.tags('block', event => {
   // AE2 growth accelerator compat
   event.add('ae2:growth_acceleratable', 'opalescence:budding_opal');
 
-  // Limestone blocks
-  event.add('perpendicular:limestone_blocks', [
-    'alexscaves:limestone',
-    'create:limestone',
-    'quark:limestone',
-    'meadow:limestone'
-  ]);
-
 });

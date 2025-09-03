@@ -139,7 +139,7 @@
 			#Prefix "anything$" is the same as no prefix but allows interaction with any item held in the hand. Please make sure that no item does anything bad when used at an entity with such an exception.
 			#Add the same entity/tag multiple times to use multiple prefixes. Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:villager", "break$minecraft:villager", "break$minecraft:(trader_|)llama"]
-			forcedEntityProtectionExceptionList = ["minecraft:minecart"]
+			forcedEntityProtectionExceptionList = ["minecraft:minecart", "anything$quark:totem", "break$quark:totem"]
 			#Custom groups of entities that a player/claim config should be able to make protection exceptions for. Each group can consist of multiple entities and entity tags.
 			#A group without a prefix creates a player config option for the right-click interaction with the group entities. The format for an entity group is <group ID>{<entities/tags/wildcards separated by ,>}.
 			#The group ID should consist of at most 32 characters that are letters A-Z, numbers 0-9 or the - and _ characters, e.g. "ePiC-GUYS98{minecraft:pig, minecraft:c(ow|at), #minecraft:beehive_inhabitors}".
@@ -169,7 +169,7 @@
 			#Projectile landing on blocks requires non-break block access through this option or blockAccessEntityGroups.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGrief = ["minecraft:sheep", "interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+			entitiesAllowedToGrief = ["minecraft:sheep", "interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg", "botania:mana_burst"]
 			#Entities that can bypass all protection of other entities. Supports entity type tags.
 			#Prefixing an entity id/tag with "interact$" creates an exception which tries to exclude attacks.
 			#Prefixing an entity id/tag with "break$" creates an exception that only includes attacks.
@@ -179,7 +179,7 @@
 			#Projectile landing on entities requires non-attack entity access through this option or entityAccessEntityGroups.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
-			entitiesAllowedToGriefEntities = ["interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg"]
+			entitiesAllowedToGriefEntities = ["interact$minecraft:potion", "interact$minecraft:trident", "interact$minecraft:(*_|)arrow", "interact$minecraft:ender_pearl", "interact$minecraft:egg", "botania:mana_burst"]
 			#Entities that can bypass all dropped item protection. Supports entity type tags.
 			#Supports patterns with special characters *, (, ) and |, where * matches anything, ( ) are used for grouping and | means OR.
 			#For example ["minecraft:(v|p)illager", "minecraft:*illager", "#minecraft:raiders"]
@@ -295,4 +295,3 @@
 			#This can become very slow on a server if we also add the necessary claim protection checks in the mix.
 			#This option makes it so most collisions with boats are randomly ignored, which helps the performance without affecting gameplay all that much.
 			reducedBoatEntityCollisions = true
-
