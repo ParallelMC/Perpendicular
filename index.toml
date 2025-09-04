@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "1b953ae7f28b9c7162e33f195b87afd4277da797108f78fab96ab941ad71d439"
+hash = "df00ccae06c15da0cf9e09d7d6ccbc2f3f51627554a656364d7d9bfae9c4b8d9"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
 hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
+
+[[files]]
+file = ".versioning/versions/1.0.1/changelog.txt"
+hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -105,12 +109,20 @@ file = "config/blockswap/block_swap.json5"
 hash = "e1d95028c4f2aef994864f808882d222ef6d9167526bdc538f8397440fe08301"
 
 [[files]]
+file = "config/bobby.toml"
+hash = "3be89a11a0ec9aa79e6c29657b3b7aefc93011364598964f612cfd337d11a2c9"
+
+[[files]]
 file = "config/botania-common.toml"
 hash = "35c54cc03dbfdc948bfaee6c45a3f5ac0156abff12abf879f91337497ee865db"
 
 [[files]]
 file = "config/bountiful/bountiful.json"
 hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "08c159980a80dc9663f2a7662ca56b4f6ae743b0485be9993ca62638e9268633"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -194,7 +206,7 @@ hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
 
 [[files]]
 file = "config/immersive_optimization.json"
-hash = "2a461cb34e9278577de30c508946c068ac9334545d4d6fd8cea08404ca13f70d"
+hash = "0a198fcb057342e04409eeb118e2679b53fad79ca832cdba031a32b186a25c19"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -202,7 +214,7 @@ hash = "76aa5f75ef75c581a3f3b7b7764c487a1d002a8271ba33203c3375e4a0eb3806"
 
 [[files]]
 file = "config/incontrol/spawn.json"
-hash = "ff5a6dc03cb0dc93240a949a3da4613a1c3558d374adddae2e7bda6a122b3f70"
+hash = "a1346c252862ad82fad76d9228fa0a6e3d11b169c33445c0f43b12f5e97fcdbe"
 
 [[files]]
 file = "config/lmft.json"
@@ -218,7 +230,7 @@ hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3437382b439c1c03272cc48e84d6a5c7edad2b1e8f8c2c2491a0e9987d5e7fb9"
+hash = "97fe1b8aeb3751788717adaf2033384477d5a6306f5dae4eccafc129f33964a9"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -235,6 +247,10 @@ hash = "71b207495d5655a7110b94227774466d8220677681c68dd4fba7164a4dec359d"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "c4dc4ef55d544026c1625fb08b11a2f59eea865829aeecee76067edb6eabdcc5"
+
+[[files]]
+file = "config/neapolitan-common.toml"
+hash = "92a781f8c6a6c5e615ebf4a08ed66c8947b23f91636a6959cc7ed89925f7f527"
 
 [[files]]
 file = "config/nostartupmessages-common.toml"
@@ -282,7 +298,7 @@ hash = "784004cffb8be0961bcc800835105c2eb622e1f6c918dcc7117acc91098db288"
 
 [[files]]
 file = "config/solonion.json"
-hash = "2da1e441ff530a6236826600ddd942417ae854b1cc2e6b2232153d37bcbd1cd8"
+hash = "47d0e4ca47b8e56fe5ac38937f3e899763c72e57988366ef0b158f8d5649df50"
 
 [[files]]
 file = "config/spelunkery-client.toml"
@@ -321,6 +337,10 @@ file = "config/terrablender.toml"
 hash = "acd11ba2c9e0f323b5bc123d9a35b2d4e100862b745ffc5f2b0d9ae36554a327"
 
 [[files]]
+file = "config/upgrade_aquatic-common.toml"
+hash = "b7b27934f38ea2a9b15a24fbf11c11bc3a72713ab7cdc97a1fecc66e26a32614"
+
+[[files]]
 file = "config/vanillin-client.toml"
 hash = "0439dabb59e19e999cbcffa2f36e9b9cf456d753d0904c4b768e2e2ede51d442"
 
@@ -343,10 +363,6 @@ hash = "1ecba87b0813f507046abe6d8466363da557d52ee28deb8454306b0a01b04b81"
 [[files]]
 file = "config/yosby/config/betterf3.toml"
 hash = "9b505428a0351e1e069ebe87eda97cfeb1f426308d0528f660869519ccff011f"
-
-[[files]]
-file = "config/yosby/config/bobby.toml"
-hash = "3d0aad23d9217dde8a0a515ed74faf66098634b8f337045000359cb6ee8c0852"
 
 [[files]]
 file = "config/yosby/config/cpm.json"
@@ -454,11 +470,11 @@ hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "ab7e7daa2cc854f6a5a75c34013efa36d653169bd2c01fe510a013e1cc2caf81"
+hash = "cc691a08231d0a728d7d18cc27bdc1c7c6e89562302376ccc44de74fa502d6ae"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "1eefb330073e04c0249c740d09e13070efee7f75d4a76b16d2f3e09b67d38356"
+hash = "9a4ce361aa5e5a4cbc654f447ad02ead62e371209f55f6f91d2076638d25f529"
 
 [[files]]
 file = "defaultconfigs/torchslabmod-server.toml"
@@ -478,7 +494,7 @@ hash = "48becb3d41f98cd452423a5caed03bd86bb8766426486c8df0221c1c7c15b4f5"
 
 [[files]]
 file = "kubejs/assets/architects_palette/lang/en_us.json"
-hash = "a0531541afc30f4837bd8a954843a88fe7726d86f3d24e297e51ab2f8e023525"
+hash = "c7c8ea40ff5f48493645006ee7aca94c6bb04c227805aa8293cbec9db2cfda26"
 
 [[files]]
 file = "kubejs/assets/bbb/lang/en_us.json"
@@ -550,7 +566,7 @@ hash = "858f26ae4c9ab0178e256e21c36ac0c79fa863b9f77ec0e95218033127cadfdd"
 
 [[files]]
 file = "kubejs/client_scripts/jei_cleanup.js"
-hash = "498f28344cd9a80c57cc4aa3529506a1d4b079578da10d1e6736eb6971999566"
+hash = "2d1b24c1f308817aff460f7f22e5a9735351e757b0f68569dba36e749326ce29"
 
 [[files]]
 file = "kubejs/client_scripts/jei_info.js"
@@ -1274,11 +1290,11 @@ hash = "fda2dc0eaf1fe485542f75acc5689458923467ef3294f467f8f475515e4c382b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "4bb0fd29f021b6ee74bcb96b3370e554f3c36cef91ef0c140ba88fcfb61f51f6"
+hash = "fe03e844f4615869f9a82112c4a6ffa590ae9feabb8f9a581628014f992d28e0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "320c893eb181fe1d898f4e47b31434bec93895387985d3ca8c3af3eefe1c18ac"
+hash = "d0006de597da89746bad629d910c06466bf6bdd014191e1105d2670f3e8042e3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
@@ -1310,7 +1326,7 @@ hash = "3736611309e9b40212da2483bba8ee6a7dff358a6cc5cee3c43d36f9ee86c6b7"
 
 [[files]]
 file = "kubejs/server_scripts/tags/block_tags.js"
-hash = "5d025e8fd2a6d0a7c0bc5694f2061e0699810ee6e1d9273d97d530f15672671a"
+hash = "403b6788f5c891f2ec5d49b0432cd36a9da29c3b4cbe3f3a6eb9b9146f077ec2"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
@@ -1322,7 +1338,7 @@ hash = "e06386b1ca80ad664437c259708ff9a730e4f029a1717a09ca06738d91b319be"
 
 [[files]]
 file = "kubejs/server_scripts/tags/item_tags.js"
-hash = "4c09836754eb56a791cd7f922f071c8adb8e62eb1ed92ddca6647acef76943a7"
+hash = "e8fe9668bec48ebb3df873c516ff4d3d2a7288f6613fd8420fe8f649333d90de"
 
 [[files]]
 file = "kubejs/startup_scripts/worldgen.js"
@@ -1641,6 +1657,11 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "192b4e3d282f8fb2b64de240e470a1f53c8b0b7a5b2a2a2f3d04c9fcfabb6334"
+metafile = true
+
+[[files]]
+file = "mods/bobby-reforged.pw.toml"
+hash = "05c8e52651ff1fabebb2a7fe40291bc486e27e61289007aeabd7e6ba1c363cfe"
 metafile = true
 
 [[files]]
@@ -2106,11 +2127,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite.pw.toml"
 hash = "49431cb48a66b264c2cb7702c7bb80155d1a59a42d384348e30700ce0ebc1e4c"
-metafile = true
-
-[[files]]
-file = "mods/farsight.pw.toml"
-hash = "a6313c759ee8e9ab0afb8fc056c6ce6d2be7ee87063c0ec85905b83302382af0"
 metafile = true
 
 [[files]]
