@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
   event.shaped('2x biomeswevegone:red_quicksand', ['AAA', 'ABA', 'AAA'], {A: 'minecraft:red_sand', B: 'minecraft:water_bucket'}).replaceIngredient('minecraft:water_bucket', 'minecraft:bucket').id(`${RECIPE_PREFIX}red_quicksand`);
 
   // Mob imprisonment tool
-  bordered('industrialforegoing:mob_imprisonment_tool', '#perpendicular:plastic', 'minecraft:nether_star', 'mob_imprisonment_tool')
+  bordered('industrialforegoing:mob_imprisonment_tool', '#perpendicular:plastic', '#minecraft:soul_fire_base_blocks', 'mob_imprisonment_tool')
 
   // Ice cream
   event.shaped('neapolitan:vanilla_ice_cream', ['A', 'B'], {A: 'alexscaves:vanilla_ice_cream_scoop', B: 'minecraft:bowl'}).id(`${RECIPE_PREFIX}vanilla_ice_cream`);
