@@ -72,6 +72,7 @@ ServerEvents.recipes(event => {
     'crossroads:base_materials/tin_ingot_nugg',
     'crossroads:base_materials/raw_tin_block',
     'crossroads:base_materials/tin_raw_block',
+    'crossroads:base_materials/bronze_alloy_ingot',
 
     // -----------------
     // Unification
