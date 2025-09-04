@@ -308,7 +308,7 @@ ServerEvents.recipes(event => {
     'productivebees:tconstruct/honey_to_block',
     'productivebees:thermal/machine/chiller/honey_to_honey_block',
     'tconstruct:smeltery/melting/slime/honey_block',
-    'tconstrust:smeltery/entity_melting/bee',
+    'tconstruct:smeltery/entity_melting/bee',
 
     // Clean up bee processing recipes that didn't get automatically removed
     'productivebees:centrifuge/materials/honeycomb_plastic',
