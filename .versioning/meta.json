@@ -31,6 +31,16 @@
                 }
             },
 			"updateType": "minor"
+        },
+		{
+            "id": "1.0.2",
+            "releasedAt": 1757986488876,
+            "promotions": {
+                "downloads": {
+                    "curseforge": "https://curseforge.com/minecraft/modpacks/perpendicular"
+                }
+            },
+			"updateType": "minor"
         }
     ]
 }

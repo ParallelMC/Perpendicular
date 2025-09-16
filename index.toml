@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "df00ccae06c15da0cf9e09d7d6ccbc2f3f51627554a656364d7d9bfae9c4b8d9"
+hash = "11cdbbddaa5d75db504de0b8338a6365061ba17794a60319d68e6b680ebf6ea9"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -11,6 +11,10 @@ hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
 [[files]]
 file = ".versioning/versions/1.0.1/changelog.txt"
 hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
+
+[[files]]
+file = ".versioning/versions/1.0.2/changelog.txt"
+hash = "75e5ef4646c54b03abf776664afc7ff1d29adce857f79d3c118851eecec1be40"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -1955,6 +1959,11 @@ hash = "700c59fbc53a53bc313479d3cee2358c447ce2d26587f24e91bb08434330befe"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-worldborder-continuation.pw.toml"
+hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "a716901105d5753dfc6feca9da07ebc73cb8258d0e01509be3b4fcaa3c02e6b5"
 metafile = true
@@ -2265,6 +2274,11 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "ce8dc71934349263c04acf24e9ecbd28168cfc4b8b050c5158b8d95040afaf72"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
 metafile = true
@@ -2507,6 +2521,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "4601ee47d4e35f5c17d26adc73179a92cf85fcded063736539a286b0d243969a"
 metafile = true
 
 [[files]]
@@ -3187,11 +3206,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
 
 [[files]]
