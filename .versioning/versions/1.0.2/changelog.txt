@@ -5,3 +5,6 @@ New Mods:
 
 Removed Mods:
 - Too Fast (replaced with I'm Fast)
+
+Changes:
+- Fixed players getting teleported back during "Moved Wrongly" errors and other similar errors
