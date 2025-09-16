@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "df00ccae06c15da0cf9e09d7d6ccbc2f3f51627554a656364d7d9bfae9c4b8d9"
+hash = "11cdbbddaa5d75db504de0b8338a6365061ba17794a60319d68e6b680ebf6ea9"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -11,6 +11,10 @@ hash = "8a50749350b7ecaf7596bb240dbd29eafe1c40ba78714ca3457e0a4b73d074f5"
 [[files]]
 file = ".versioning/versions/1.0.1/changelog.txt"
 hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
+
+[[files]]
+file = ".versioning/versions/1.0.2/changelog.txt"
+hash = "763ca1cc819ea9a270f520bf33cd06417d74bbd41e3038ca03fbaeab55c63af6"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
