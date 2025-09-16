@@ -1,3 +1,7 @@
 New Mods:
 - Dimensional World Border
+- I'm Fast
 - Longer Chat History
+
+Removed Mods:
+- Too Fast (replaced with I'm Fast)

@@ -14,7 +14,7 @@ hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
 
 [[files]]
 file = ".versioning/versions/1.0.2/changelog.txt"
-hash = "763ca1cc819ea9a270f520bf33cd06417d74bbd41e3038ca03fbaeab55c63af6"
+hash = "75e5ef4646c54b03abf776664afc7ff1d29adce857f79d3c118851eecec1be40"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -2274,6 +2274,11 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
+file = "mods/im-fast.pw.toml"
+hash = "ce8dc71934349263c04acf24e9ecbd28168cfc4b8b050c5158b8d95040afaf72"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
 metafile = true
@@ -3201,11 +3206,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
 
 [[files]]
