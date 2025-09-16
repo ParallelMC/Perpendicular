@@ -1955,6 +1955,11 @@ hash = "700c59fbc53a53bc313479d3cee2358c447ce2d26587f24e91bb08434330befe"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-worldborder-continuation.pw.toml"
+hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "a716901105d5753dfc6feca9da07ebc73cb8258d0e01509be3b4fcaa3c02e6b5"
 metafile = true
@@ -2507,6 +2512,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
+metafile = true
+
+[[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "4601ee47d4e35f5c17d26adc73179a92cf85fcded063736539a286b0d243969a"
 metafile = true
 
 [[files]]
