@@ -153,10 +153,6 @@ file = "config/creeperoverhaul.jsonc"
 hash = "7ed52c7f86be331882f5c94d23c4842a12b206ac40c05ec628303d087124a003"
 
 [[files]]
-file = "config/crossroads-server.toml"
-hash = "ac2920ac79e4a4e78c95850a881fda579814427ced61e90b348664be3c31e678"
-
-[[files]]
 file = "config/curios-common.toml"
 hash = "1810ee39ff02aee5ec6e3fb3d45807cbbaecd06f87e324f26bfc7fcfbb741f3c"
 
