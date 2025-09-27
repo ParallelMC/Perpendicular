@@ -126,7 +126,7 @@ hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "08c159980a80dc9663f2a7662ca56b4f6ae743b0485be9993ca62638e9268633"
+hash = "b3174b55ef055cacdc18bdca7e72f838591ca4f38c2cc5f7e12c120513bfc646"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -210,7 +210,7 @@ hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
 
 [[files]]
 file = "config/immersive_optimization.json"
-hash = "0a198fcb057342e04409eeb118e2679b53fad79ca832cdba031a32b186a25c19"
+hash = "a7f293642797e63724b16dadb87664556ce926953fd98ebf92966cc1c479a2b9"
 
 [[files]]
 file = "config/incontrol/events.json"
@@ -457,6 +457,10 @@ file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "879a7dadec35b930cc02656e3d991b3d8d093177e7475b19f18304e09b067b1d"
 
 [[files]]
+file = "defaultconfigs/crossroads-server.toml"
+hash = "49c15e42838ae24776b7b1c03c3fe405ea6c4422c80c583fd66926d9821cd6d6"
+
+[[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
 hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
 
@@ -474,7 +478,7 @@ hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "cc691a08231d0a728d7d18cc27bdc1c7c6e89562302376ccc44de74fa502d6ae"
+hash = "d29e227e9a77490562d8894c60b5473aee5dce633222fb82ca87222372f722d7"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -1294,7 +1298,7 @@ hash = "fda2dc0eaf1fe485542f75acc5689458923467ef3294f467f8f475515e4c382b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "fe03e844f4615869f9a82112c4a6ffa590ae9feabb8f9a581628014f992d28e0"
+hash = "c8dca260b5d89c85be1cfd409979b9d98940f4af5fb2d1fd09e641942d5e56d9"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1302,7 +1306,7 @@ hash = "d0006de597da89746bad629d910c06466bf6bdd014191e1105d2670f3e8042e3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shaped.js"
-hash = "9086d6f38f72402e041870e611c6812cb5e37ae19f8e05e1d9cbfc3f6efc8a50"
+hash = "2965327220f079d1234cf4bcb013902efa8ce152f1c81d8efac2e432aea2114f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/shapeless.js"
@@ -1330,7 +1334,7 @@ hash = "3736611309e9b40212da2483bba8ee6a7dff358a6cc5cee3c43d36f9ee86c6b7"
 
 [[files]]
 file = "kubejs/server_scripts/tags/block_tags.js"
-hash = "403b6788f5c891f2ec5d49b0432cd36a9da29c3b4cbe3f3a6eb9b9146f077ec2"
+hash = "bd41c3297d056dab61a0f0c3a70ef52bb8cf9d28e8be365094e16fa9f6aa7907"
 
 [[files]]
 file = "kubejs/server_scripts/tags/entity_type_tags.js"
