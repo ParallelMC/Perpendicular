@@ -1,0 +1,15 @@
+New Mods:
+- FancyMenu
+
+Changes:
+- Added a custom main menu screen!
+- Reduced default player claim limit from 500 to 200 chunks
+- Reduced default player forceload limit from 10 to 8 chunks
+- Whitelisted mounts and vehicles in claims
+- Made mob imprisonment tool recipe cheaper 
+- Disabled picking up vanilla spawners, treacherous candles, and resonance extractors via CarryOn
+- Removed Crossroads bronze recipe
+- Updated list of bosses to blacklist from Immersive Optimization 
+- Added log tags to BWG imbued enchanted wood 
+- Fixed typo in recipe removal KubeJS script
+- Fixed the Crossroads server config not being applied properly (it was in the wrong folder)

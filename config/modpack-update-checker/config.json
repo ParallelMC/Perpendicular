@@ -1,6 +1,6 @@
 {
   "schemaVersion": 9,
-  "currentVersion": "1.0.1",
+  "currentVersion": "1.1.0",
   "modpackName": "Perpendicular",
   "modpackAuthor": "The Parallel Team",
   "modpackReleaseType": "stable",
@@ -11,6 +11,7 @@
     "updateCheckerType": 2,
 	"addButton": false,
     "retroWarning": false,
-    "modpackMods": []
+    "modpackMods": [],
+	"markdownRenderer": "builtin:basic"
   }
 }
