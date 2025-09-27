@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "11cdbbddaa5d75db504de0b8338a6365061ba17794a60319d68e6b680ebf6ea9"
+hash = "354eb26fffb1790c46c14bac3158aa7ea43e85464f79443f88b587a2ce29eb2d"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -15,6 +15,10 @@ hash = "bcafdd3b930f068637a9894ea56b3253e43c2bbbc6ca9d5505fff9ab288f94c1"
 [[files]]
 file = ".versioning/versions/1.0.2/changelog.txt"
 hash = "d25589f0d294f1e30ded0a49e6ee059dd96a8e5760a5ce6857e5767b8face67d"
+
+[[files]]
+file = ".versioning/versions/1.1.0/changelog.txt"
+hash = "479e7272c2da932031afddcd71972d03a849a3049ce37971f68b346bc8bd9744"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -126,7 +130,7 @@ hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "b3174b55ef055cacdc18bdca7e72f838591ca4f38c2cc5f7e12c120513bfc646"
+hash = "40d203f625273096f7eccba9c0616a220a00f695e8b7a62db986b35595572ff6"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -175,6 +179,110 @@ hash = "e777def014d5bdf9165fa6a88b6568d05ab1788c54111053dfb80d4cf71e20cf"
 [[files]]
 file = "config/fallingleaves-client.toml"
 hash = "950cdae0262dff23a0397cb7896eff04f3f9d665271386776ece980e69c2350e"
+
+[[files]]
+file = "config/fancymenu/assets/changelog_button.png"
+hash = "634f5f1050a03bb09bc3ab7d982286641df7ea8296e0e4623869fcfbe3af29e1"
+
+[[files]]
+file = "config/fancymenu/assets/changelog_button_hover.png"
+hash = "1b51a2cab0e315c2adbb06112b7325324477d3adeadfe9e3fc1212d296ee815e"
+
+[[files]]
+file = "config/fancymenu/assets/mods_button.png"
+hash = "c55dc014d467996c52df6b7cbb5a7396733dba497a23bc0363bf94fa7a8dc59e"
+
+[[files]]
+file = "config/fancymenu/assets/mods_button_hover.png"
+hash = "d0ac6a5725ecd03b255b6e4b916b0ec6e77ddba28e33a0d227f37ec36e620117"
+
+[[files]]
+file = "config/fancymenu/assets/mods_button_inactive.png"
+hash = "5e09f86968dfcbd70924cfe62f3914f93a1db95d34bd141df5c7c721cf59f862"
+
+[[files]]
+file = "config/fancymenu/assets/perpendicular_logo.png"
+hash = "a762831ac96d420042543f732be1852d2e37a2c6b74e4d847a2eb6b8af2e3835"
+
+[[files]]
+file = "config/fancymenu/assets/perpendicular_logo_16x16.png"
+hash = "300c370e1041ba1d18a5a5e2a204a6c3d9919ba042dd6c8d9a642771154359f2"
+
+[[files]]
+file = "config/fancymenu/assets/perpendicular_logo_32x32.png"
+hash = "119bf50b984f8d8c127c5946796f9ff2e1ebe3ac3453c5c04ac2d830e1cc9025"
+
+[[files]]
+file = "config/fancymenu/assets/perpendicular_logo_mac.icns"
+hash = "743d8bf95c37dc3b5be5a35c6c2b008ea1e22557a14e57f3dff01defdcf5e325"
+
+[[files]]
+file = "config/fancymenu/assets/perpendicular_title.png"
+hash = "e8ecbda18f84446c9cd899d53e824f8c9c227a7c779ec2c7296114456dfd6cd6"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "6d65c204167d30359823b1854340cbf9cb59a66de1f3017a353102844a0f1b15"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "6f5b5e5181d10ead382e5d314d76cb2d87badbbd2b78cd5efa5a0cf65d063abe"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_0.png"
+hash = "3c30cecb3b00f7e083f63df64edcc10a9d78eb430ed41c42ad75c9e3394bae17"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_1.png"
+hash = "117da2b9ad440b8478d12081a1942ac796674939e45e6d5f53c107cd9b1ed83b"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_2.png"
+hash = "7439d897d9d4a518b49d4e6c92ffbe5cb2aee2b394eacd9df81d42b924e48881"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_3.png"
+hash = "15a6a37c74c961f90a045e8e5090de6edcc4a775232ab571e9579fa3be997995"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_4.png"
+hash = "81962823ae474d9a35250bc39cb0d264dc982310350eecac8e851720121b7011"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/panorama/panorama_5.png"
+hash = "8d3f8a08d9a1334e9290679125f85beae4434f32fe0e8454bce336c2f154789a"
+
+[[files]]
+file = "config/fancymenu/panoramas/title_screen/properties.txt"
+hash = "6168304fa0143837c2d6563de96bab508cc3175819995bdc2fa6af6b0a1b7bcb"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -234,7 +342,7 @@ hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "97fe1b8aeb3751788717adaf2033384477d5a6306f5dae4eccafc129f33964a9"
+hash = "b979dbae303ee3e045ec217200c228ef518726f6c70cc45d78a1fc3e155475eb"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -2130,6 +2238,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "ce8c3236059c4405b9bb4b7aafb7a0016fb4a0f48c2a33e420d589d215c520aa"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "32318a41da064ac15e752250ae7a758763ca9530b47fde11a4fa77c6d9c65a3b"
 metafile = true
 
 [[files]]
