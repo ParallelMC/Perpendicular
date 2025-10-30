@@ -393,6 +393,10 @@ ServerEvents.recipes(event => {
     // Slag
     'enderio:smelting/thermal/rockwool/white_rockwool_from_smelting',
 
+    // Laser drill
+    // each catalyst can support only one type of entity, so original recipe needs to be removed
+    'industrialforegoing:laser_drill_fluid/ether_gas',
+
   ].forEach((recipeID) => event.remove({id: recipeID}));
 
   // By output

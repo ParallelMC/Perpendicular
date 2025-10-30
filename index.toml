@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "354eb26fffb1790c46c14bac3158aa7ea43e85464f79443f88b587a2ce29eb2d"
+hash = "8017e537a68c9efe24b0fcaf02ceac6a0fcc94bc5b1bd28444dde808b6451978"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -19,6 +19,10 @@ hash = "d25589f0d294f1e30ded0a49e6ee059dd96a8e5760a5ce6857e5767b8face67d"
 [[files]]
 file = ".versioning/versions/1.1.0/changelog.txt"
 hash = "479e7272c2da932031afddcd71972d03a849a3049ce37971f68b346bc8bd9744"
+
+[[files]]
+file = ".versioning/versions/1.2.0/changelog.txt"
+hash = "5f0a24a758d7c81a234074411a8f10955d1d7ad1e328ab9c00a334e5743a0e4e"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -338,7 +342,7 @@ hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "b979dbae303ee3e045ec217200c228ef518726f6c70cc45d78a1fc3e155475eb"
+hash = "1174e986488fe89cc4a17581f95d3c7e79aa4b6b203041087af7f9b05a408c2b"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -513,6 +517,10 @@ file = "config/yosby/config/oculus.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
 [[files]]
+file = "config/yosby/config/pvp_flagging-client.toml"
+hash = "d86adb371acec08a10828db25d811923bdff7c6e3d931952706b26b581bfc379"
+
+[[files]]
 file = "config/yosby/config/shulkerboxtooltip.json5"
 hash = "625f185b95cd1256b69b36a289756b4ba1f79c4e68a7b0c8ab906b39a2ac49f7"
 
@@ -566,7 +574,7 @@ hash = "49c15e42838ae24776b7b1c03c3fe405ea6c4422c80c583fd66926d9821cd6d6"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
-hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
+hash = "af827ebbf680f242d911617caf2950c99d455715119b8a747b0af865d1cea4f6"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
@@ -583,6 +591,10 @@ hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
 hash = "d29e227e9a77490562d8894c60b5473aee5dce633222fb82ca87222372f722d7"
+
+[[files]]
+file = "defaultconfigs/pvp_flagging-server.toml"
+hash = "9524a5e9f8904ff7f1ccad187e0681204bbb4f8074162b76366b4d783e1f78db"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -1390,7 +1402,7 @@ hash = "b6fbf805ca32a4b75cd4a8e7d048e35d0f100eb128792d16eab0320dd38865b0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/industrialforegoing.js"
-hash = "d6d3cd0d1d658967bc477a3990ff3687f0f2a4b98d5f6444a7c46e26c8990610"
+hash = "734a46d9069d47fdbd41547ef469f08df7bf9e140107b8d4dea447a3fdf5ebd5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/meadow.js"
@@ -1402,7 +1414,7 @@ hash = "fda2dc0eaf1fe485542f75acc5689458923467ef3294f467f8f475515e4c382b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "c8dca260b5d89c85be1cfd409979b9d98940f4af5fb2d1fd09e641942d5e56d9"
+hash = "492f340a65954e53fb4a9db5fc2e1e3b6d33a2c87c5839747ab387895c052607"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
@@ -1457,6 +1469,11 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "afd7e169ed7c7a74bf942886779b7fc39fbec20a7422755de15e702fe8652bd9"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "7dd9dc01340eb4fbd334ac9d4277b403dfd1e406e0230111aed4b9210465b116"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "2aa8ec6a3cab2c9d7cbc728bbde3364c4f36cc8c71b7527cd683edfb59cb6f5a"
 metafile = true
@@ -1469,6 +1486,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "a14189cc71f74aa0a0aac8fce6447f2cd5c84bbbed4764da9013216fe7e275ac"
+metafile = true
+
+[[files]]
+file = "mods/advancedae.pw.toml"
+hash = "db2b2be56b661668acd7799856656b2f4585ce99231dd8cbcb8038b744c5e448"
 metafile = true
 
 [[files]]
@@ -1582,8 +1604,13 @@ hash = "276ce628e43d33191605204300202bae93973005a5ed51eb74908f12ce200253"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "996bcdca15e510d8082da82f061304ab42e0ec92d861290ecc6b6f6f907fa564"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "2477a2166d3514dcba5ca03f7f14edab215b98ec8e06ccdfd1330fe9b6a2eb75"
+hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
 metafile = true
 
 [[files]]
@@ -1619,6 +1646,11 @@ metafile = true
 [[files]]
 file = "mods/ars-artifice.pw.toml"
 hash = "7fd2cae6cdbdf609a729b64874a16fee503970417c8c26aacc9908ad0253b076"
+metafile = true
+
+[[files]]
+file = "mods/ars-botania.pw.toml"
+hash = "c0f4986f73853bb87bdf05232c517eb6d42ac492a88cf9015000644f6e4ae298"
 metafile = true
 
 [[files]]
@@ -1937,6 +1969,11 @@ hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4123cb2c965568652799530427cdd9e94b5f6f463ba3a8e92b715ef7b0ed10eb"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "28053b4a334c4079b5d4c7ea2d3b8d48f8fa61420498f1bed0ff83cd316bbba0"
 metafile = true
@@ -1944,6 +1981,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -2067,6 +2109,11 @@ hash = "700c59fbc53a53bc313479d3cee2358c447ce2d26587f24e91bb08434330befe"
 metafile = true
 
 [[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "99bdb5859c70dec40821273adbb72b6f61dae8d80854e02056eb6ca85f7ca8a5"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-worldborder-continuation.pw.toml"
 hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
 metafile = true
@@ -2094,6 +2141,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
 metafile = true
 
 [[files]]
@@ -2687,6 +2739,11 @@ hash = "a433c965c277b4f3b89606b2e87c56545bca0c42568e5ee0e75962628ddd939e"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "10f1b6b632db719ee2da37deb6899ed42e78251a3aba52e75446c74096779e65"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "bd52722f1417e24a4acee3bf4fc59c5bf074627f7aaaaf8fd33056c7ef170bc3"
 metafile = true
@@ -2937,6 +2994,11 @@ hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
 
 [[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
+metafile = true
+
+[[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "9244e3ce294b09a630e6343fba1bea75c3bb3f661441a7fc7462446bd888c932"
 metafile = true
@@ -2954,6 +3016,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "62a76c5212c04d15c27d7c1141f0a0d7d803aa10d172444359e4dacbdba6da7b"
+metafile = true
+
+[[files]]
+file = "mods/pvp-flagging.pw.toml"
+hash = "6783ec380906eef7c1c5422c451b87303c1a0cedc8f25ebd5c605191213812d1"
 metafile = true
 
 [[files]]
@@ -3344,6 +3411,11 @@ metafile = true
 [[files]]
 file = "mods/underlay.pw.toml"
 hash = "3979a7a981cbca0bf3ddf78531919b471da75dbea2d7e4b2ac385652eb04f59a"
+metafile = true
+
+[[files]]
+file = "mods/unlimitedperipheralworks.pw.toml"
+hash = "5ff0056117dfcad45a09289cdbd6c0496c27a09737f0fcf99a528c1dbfff7a41"
 metafile = true
 
 [[files]]

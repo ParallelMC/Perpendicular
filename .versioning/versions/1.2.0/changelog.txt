@@ -1,0 +1,20 @@
+New Mods:
+- 'Dustrial Decor
+- Abnormals Delight
+- Advanced AE
+- Applied Energistics 2 Wireless Terminals
+- Ars Botania
+- Cosmetic Armor Reworked
+- Create: Copycats+
+- Digital Items
+- MEGA Cells
+- Polymorphic Energistics
+- PVP Flagging
+- UnlimitedPeripheralWorks 
+
+Changes:
+- Fixed ether gas recipe not being able to extract from the Wither
+- Buffed flux storage battery capacity
+
+Mod Updates:
+- Applied Energistics 2 15.4.5 -> 15.4.10
