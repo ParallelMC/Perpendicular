@@ -1485,6 +1485,11 @@ hash = "a14189cc71f74aa0a0aac8fce6447f2cd5c84bbbed4764da9013216fe7e275ac"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "db2b2be56b661668acd7799856656b2f4585ce99231dd8cbcb8038b744c5e448"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
 metafile = true
@@ -1601,7 +1606,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "2477a2166d3514dcba5ca03f7f14edab215b98ec8e06ccdfd1330fe9b6a2eb75"
+hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
 metafile = true
 
 [[files]]
@@ -1637,6 +1642,11 @@ metafile = true
 [[files]]
 file = "mods/ars-artifice.pw.toml"
 hash = "7fd2cae6cdbdf609a729b64874a16fee503970417c8c26aacc9908ad0253b076"
+metafile = true
+
+[[files]]
+file = "mods/ars-botania.pw.toml"
+hash = "c0f4986f73853bb87bdf05232c517eb6d42ac492a88cf9015000644f6e4ae298"
 metafile = true
 
 [[files]]
@@ -2095,6 +2105,11 @@ hash = "700c59fbc53a53bc313479d3cee2358c447ce2d26587f24e91bb08434330befe"
 metafile = true
 
 [[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "99bdb5859c70dec40821273adbb72b6f61dae8d80854e02056eb6ca85f7ca8a5"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-worldborder-continuation.pw.toml"
 hash = "e899641e3474aa1fe250ed1fb1c4877a2b41c6e05fc688472316fc72aaba4aec"
 metafile = true
@@ -2122,6 +2137,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
+metafile = true
+
+[[files]]
+file = "mods/dustrial-decor.pw.toml"
+hash = "f55c33bbcf1b7d49b0ab93345a4e311f36c30f7c3177cf5c70d91c973a95c029"
 metafile = true
 
 [[files]]
