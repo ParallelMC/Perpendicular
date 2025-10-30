@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "8017e537a68c9efe24b0fcaf02ceac6a0fcc94bc5b1bd28444dde808b6451978"
+hash = "41346b0a4c606b4b510b7d89fac3eb35b7b5e8a85a68445948a46329fd1949d7"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -23,6 +23,10 @@ hash = "479e7272c2da932031afddcd71972d03a849a3049ce37971f68b346bc8bd9744"
 [[files]]
 file = ".versioning/versions/1.2.0/changelog.txt"
 hash = "5f0a24a758d7c81a234074411a8f10955d1d7ad1e328ab9c00a334e5743a0e4e"
+
+[[files]]
+file = ".versioning/versions/1.2.1/changelog.txt"
+hash = "0b2a1bff9aacfc7ae3611a65542abe47b94fa43d193e196b50f19ee7827cdd06"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -342,7 +346,7 @@ hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "1174e986488fe89cc4a17581f95d3c7e79aa4b6b203041087af7f9b05a408c2b"
+hash = "17359dfae9e03ea4fb82634787cf2e88adce87ee9383c2fc49288648f3fb7d58"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -1646,11 +1650,6 @@ metafile = true
 [[files]]
 file = "mods/ars-artifice.pw.toml"
 hash = "7fd2cae6cdbdf609a729b64874a16fee503970417c8c26aacc9908ad0253b076"
-metafile = true
-
-[[files]]
-file = "mods/ars-botania.pw.toml"
-hash = "c0f4986f73853bb87bdf05232c517eb6d42ac492a88cf9015000644f6e4ae298"
 metafile = true
 
 [[files]]
