@@ -570,7 +570,7 @@ hash = "49c15e42838ae24776b7b1c03c3fe405ea6c4422c80c583fd66926d9821cd6d6"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
-hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
+hash = "af827ebbf680f242d911617caf2950c99d455715119b8a747b0af865d1cea4f6"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
@@ -1398,7 +1398,7 @@ hash = "b6fbf805ca32a4b75cd4a8e7d048e35d0f100eb128792d16eab0320dd38865b0"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/industrialforegoing.js"
-hash = "d6d3cd0d1d658967bc477a3990ff3687f0f2a4b98d5f6444a7c46e26c8990610"
+hash = "734a46d9069d47fdbd41547ef469f08df7bf9e140107b8d4dea447a3fdf5ebd5"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/meadow.js"
@@ -1410,7 +1410,7 @@ hash = "fda2dc0eaf1fe485542f75acc5689458923467ef3294f467f8f475515e4c382b"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "c8dca260b5d89c85be1cfd409979b9d98940f4af5fb2d1fd09e641942d5e56d9"
+hash = "492f340a65954e53fb4a9db5fc2e1e3b6d33a2c87c5839747ab387895c052607"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
