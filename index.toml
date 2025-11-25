@@ -1493,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "9fb849cf2f9989b064fdd9d43b99691f1aea7442571e333c61704ba85da7a275"
+hash = "a14189cc71f74aa0a0aac8fce6447f2cd5c84bbbed4764da9013216fe7e275ac"
 metafile = true
 
 [[files]]
@@ -1888,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "94615e505b64b850d3df7b50c292407a3b2f327ed1989c4e7d2907bb79785cde"
+hash = "0d2af99a5efb2c1ec10180c7c91d8469c0b7eacd7b186432485e61a51fae2d29"
 metafile = true
 
 [[files]]
@@ -2864,11 +2864,6 @@ metafile = true
 [[files]]
 file = "mods/no-startup-messages-please.pw.toml"
 hash = "7f5c409da117b348b3220c3c13d258417d1f6d78fdafd39d303bf1052924eb40"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
