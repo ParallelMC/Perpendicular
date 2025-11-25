@@ -1,0 +1,70 @@
+Changes:
+- Noisium now downloads from Modrinth (CurseForge files were deleted)
+
+Important Changes From Mod Updates:
+- Added Dragon Charges + numerous fireball and cauldron changes (Amendments)
+- Added new chant scrolls, new incenses, and the mirecap plant (Eidolon: Repraised)
+- Added Cosmic Elytra effect and migrated elytra trim recipes to the Smithing Table (Elytra Trims)
+- Added the kodama (Ghosts)
+- Added the bamboo hopper + mechanical dials and fixed aircraft sinking (Immersive Aircraft)
+- Added the eclipse block (Shadered)
+- Added a bunch of new blocks, plants, and advancements + fixed some bugs related to collecting some of the custom blocks (Some More Blocks)
+- Added the Orion constellation in the night sky + fixed & optimized a bunch of night sky things (Stellar View)
+- Added a new Hive Lifeline treasure enchantment (The Bumblezone)
+- Added taming, temper, trusting, and transformation categories to Just Enough Breeding info in JEI and added integration with more mods
+- Updated animations + textures of some animals (Critters and Companions)
+- Numerous EnderIO QoL changes
+- Several ExtendedAE QoL changes, including a compare filter for the precise storage bus
+- Televisions will now lose signal during thunderstorms (MrCrayfish's Furniture Mod: Refurbished)
+- Miscellaneous Inventory Essentials changes, including middle-click sorting
+- Miscellaneous bug fixes and behavior changes for the various bosses (Progressive Bosses)
+- Numerous voice chat fixes and improvements (Simple Voice Chat)
+- Miscellaneous Every Compat improvements
+- Rich Soil Farmland can now be hydrated by any fluid type capable of hydration (Farmer's Delight)
+- Miscellaneous fixes for player animations (Not Enough Animations)
+- Fixed book edits not saving under certain circumstances (Scholar)
+- Added some simple hopper behavior for inserting items into a crafting table (Visual Workbench)
+- Added a setting for pick block to request the item when not available (Applied Energistics 2 Wireless Terminals)
+- Miscellaneous bug fixes and small performance improvements (ModernFix)
+
+Mod Updates:
+- Advanced Peripherals 0.7.44r -> 0.7.46r
+- ae2CraftingTree 1.1.0 -> 1.1.1
+- Amendments 1.2.19 -> 2.2.3
+- Applied Energistics 2 Wireless Terminals 15.3.0 -> 15.3.3
+- Aquamirae 6.API15 -> 6.1.2
+- The Bumblezone 7.8.0 -> 7.9.5
+- CC: Tweaked 1.116.0 -> 1.116.2
+- Critters and Companions 2.3.1 -> 2.3.5
+- Eidolon: Repraised 0.3.8.15 -> 0.3.9.5
+- Elytra Trims 3.5.9 -> 3.9.3
+- Ender IO 6.2.11-beta -> 6.2.16-beta
+- Every Compat 2.8.10 -> 2.9.12
+- ExtendedAE 1.4.3 -> 1.4.9
+- Farmer's Delight 1.2.8 -> 1.2.9
+- Ghosts 1.2.0 -> 1.2.2
+- Immersive Aircraft 1.2.2 -> 1.4.0
+- Inventory Essentials 8.2.7 -> 8.2.14
+- Just Enough Breeding 1.5.0 -> 2.3.0
+- ModernFix 5.24.0 -> 5.25.1
+- MrCrayfish's Furniture Mod: Refurbished 1.0.14 -> 1.0.20
+- Not Enough Animations 1.10.0 -> 1.10.6
+- PneumaticCraft: Repressurized 6.0.20 -> 6.0.21
+- Progressive Bosses 4.3.5 -> 4.3.11
+- Scholar 1.1.5.1 -> 1.1.9
+- Shadered 1.0.13 -> 1.0.15
+- Simple Voice Chat 2.5.33 -> 2.6.6
+- Some Assembly Required 4.2.0 -> 4.2.2
+- Some More Blocks 1.0.2 -> 1.0.7
+- Stellar View 0.4.6 -> 0.5.2
+- Supplementaries 3.1.34 -> 3.1.41
+- Tinkers' Integrations and Tweaks 2.0.25.10 -> 2.0.25.17
+- Visual Workbench 8.0.0 -> 8.0.1
+Library Mods:
+- Balm 7.3.31 -> 7.3.37
+- InsaneLib 1.21.12 -> 1.21.21
+- Moonlight Library 2.14.11 -> 2.16.16
+- Puzzles Lib 8.1.32 -> 8.1.33
+
+Resource Pack Updates:
+- Mod Descriptions 7 -> 8.1

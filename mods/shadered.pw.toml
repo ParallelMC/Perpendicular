@@ -1,13 +1,13 @@
 name = "Shadered"
-filename = "shadered-1.0.13.jar"
+filename = "shadered-1.0.15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b9de513916f3de5df43203735a4c1db19a81927c"
+hash = "5bdb69a9f6bd32575ab7446a9a911af24669bc42"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6840661
+file-id = 6853683
 project-id = 1158056
