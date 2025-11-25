@@ -1,5 +1,5 @@
-Changes:
-- Noisium now downloads from Modrinth (CurseForge files were deleted)
+Removed Mods:
+- Noisium (removed from CurseForge and Modrinth)
 
 Important Changes From Mod Updates:
 - Added Dragon Charges + numerous fireball and cauldron changes (Amendments)
@@ -28,13 +28,11 @@ Important Changes From Mod Updates:
 - Miscellaneous bug fixes and small performance improvements (ModernFix)
 
 Mod Updates:
-- Advanced Peripherals 0.7.44r -> 0.7.46r
 - ae2CraftingTree 1.1.0 -> 1.1.1
 - Amendments 1.2.19 -> 2.2.3
 - Applied Energistics 2 Wireless Terminals 15.3.0 -> 15.3.3
 - Aquamirae 6.API15 -> 6.1.2
 - The Bumblezone 7.8.0 -> 7.9.5
-- CC: Tweaked 1.116.0 -> 1.116.2
 - Critters and Companions 2.3.1 -> 2.3.5
 - Eidolon: Repraised 0.3.8.15 -> 0.3.9.5
 - Elytra Trims 3.5.9 -> 3.9.3
