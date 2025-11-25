@@ -40,6 +40,7 @@
 
 		[types.wood_type.netherexp]
 			claret = true
+			smokestalk = true
 
 		[types.wood_type.ars_nouveau]
 			archwood = true
@@ -503,6 +504,9 @@
 			mossy_brick = true
 			bone_brick = true
 			bone_tile = true
+			polished_basalt_brick = true
+			polished_basalt_tile = true
+			corrupted_polished_basalt_brick = true
 
 		[types.cut_block_type.ad_astra]
 			iron_plating = true
@@ -1407,6 +1411,15 @@
 
 		[types.cut_block_type.etcetera]
 			leveled_stone = true
+
+		[types.cut_block_type.dustrial_decor]
+			cast_iron_brick = true
+			sheet_metal_plating = true
+			sheet_metal_treading = true
+			rusty_sheet_metal_plating = true
+			rusty_sheet_metal_treading = true
+			cinder_brick = true
+			smooth_cardboard = true
 
 #Disables specific entries
 [entries]

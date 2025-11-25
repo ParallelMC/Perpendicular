@@ -178,7 +178,7 @@ hash = "4593e67d665ff9c888543c9488548b060aecb48e4ed50ccd8dcfe5e2d52ae3f5"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "e777def014d5bdf9165fa6a88b6568d05ab1788c54111053dfb80d4cf71e20cf"
+hash = "b82a67b6bedf0f7559ba552d9e6da05cc4ac3f833bdac99891e7e326df7fd484"
 
 [[files]]
 file = "config/fallingleaves-client.toml"
@@ -342,7 +342,7 @@ hash = "4c38703df36b13467072a180265992430ce864e7b62b99eb27f33634f9c00050"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "37e269c1419c4b2ec59f25031e07697075d24b7fc7f0c77373f5cf1763ecd37b"
+hash = "5e2d87125ae28c4c072024d4cdcdc0b7b24bd1ae178b62138603744d51a2c84d"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
@@ -354,7 +354,7 @@ hash = "43ef89c0e2da3a7ee2774279aadda8d555b06136b221f633b22e9e60def4d0ac"
 
 [[files]]
 file = "config/moonlight-client.toml"
-hash = "d1a34f21182241eefc355810faedb24bdbf2ad80ff9fdbecaf614aa521ae97e4"
+hash = "9bc8f1f2f0a1f4bb9a12f3577197e0dfe444964afe85a3c243e91d5938030195"
 
 [[files]]
 file = "config/morphtool-common.toml"
@@ -386,7 +386,7 @@ hash = "b5a09def79c15c1f2d75a2aa5683b2c0c3401cc5581e0c77dda1ce811a9e0077"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "874270f2c5d1983bcb347d66d666d0fafb8e23ba4695042556a9d03c4eb13966"
+hash = "46e87bc69ca2beb52b3eb86e9dc5c90f8dc6977a12411b3c2080358f27f78ada"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -430,11 +430,11 @@ hash = "22c9ebfaa8932f0e4be69226bcb44b764fee7009e20f0ff632665a3fb0e0db32"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "d4c0799020412095ec068332021151f2ac2ec6876e5304e2931ffde9afc4755a"
+hash = "5ed775e6837f9d5f4b8221ea606245dad8dab7720126d58c558ac3103afaf169"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "8bf5d47ed126c2a29587eec28e75a03405bed08fafb002d2cca59fdcfebec1b3"
+hash = "4ce7586cbddfcbcd99dbe090d0d13c9ecdd052ee104115f0176bbbfd1b5615c4"
 
 [[files]]
 file = "config/tconstruct-client.toml"
