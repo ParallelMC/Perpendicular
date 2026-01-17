@@ -1,5 +1,4 @@
 {
-  "checkForNewUpdates": false,
   "enableCopperGolem": true,
   "generateCopperGolemAreaStructure": true,
   "copperGolemAreaStructureWeight": 1,
@@ -36,7 +35,7 @@
   "moobloomSpawnMaxGroupSize": 4,
   "enableIceologer": true,
   "enableIceologerSpawn": true,
-  "enableIceologerInRaids": true,
+  "enableIceologerInRaids": false,
   "generateIceologerCabinStructure": true,
   "enableIllusioner": true,
   "enableIllusionerSpawn": true,

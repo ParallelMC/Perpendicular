@@ -1,0 +1,7 @@
+Changes:
+- Block Swap will no longer generate all known blockstates in the config folder and take up a lot of storage
+- Blacklisted all of Crossroads from Carry On
+
+Changes that were made already on the public server but not in the modpack itself:
+- Disabled the Friends and Foes Iceologer from spawning in raids (it's the wrong type of Iceologer)
+- Increased the maximum player claims limit from 200 to 300
