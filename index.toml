@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".versioning/meta.json"
-hash = "841da3f926c6c7e7e3c2ab55d7a6ce44991a1f6935efa1ef9e99f29fb818c479"
+hash = "f1de0dea8f43aad1041b481b61007f0cb1514d1cbf00df8de1c9bfeeaf4ba4cb"
 
 [[files]]
 file = ".versioning/versions/1.0.0/changelog.txt"
@@ -31,6 +31,10 @@ hash = "0b2a1bff9aacfc7ae3611a65542abe47b94fa43d193e196b50f19ee7827cdd06"
 [[files]]
 file = ".versioning/versions/1.3.0/changelog.txt"
 hash = "b58e8b7eb4b1d2fcd5e1146499c7ddcb11aeb782ecff43f2af2b96ae0d593fa3"
+
+[[files]]
+file = ".versioning/versions/1.3.1/changelog.txt"
+hash = "760275be7604133d85b966d3d6896d3eba0d37aa09ae81a7eb1dadfb63cc0188"
 
 [[files]]
 file = ".versioning/versions/Beta 1.0.0/changelog.txt"
@@ -126,7 +130,7 @@ hash = "71ec39144914c78dd1685d4abcab8413ae2d4d0dd19af23667d58b12571b48db"
 
 [[files]]
 file = "config/blockswap/block_swap.json5"
-hash = "e1d95028c4f2aef994864f808882d222ef6d9167526bdc538f8397440fe08301"
+hash = "8e2e48ffc2cdb576c33be80748b11efa93aa0e0d02e4fd3ee2ec4798874e61df"
 
 [[files]]
 file = "config/bobby.toml"
@@ -142,7 +146,7 @@ hash = "294a7d05c298048de1a38147ebf856202c74ea60a417f9d4fd63f67a6bb7667e"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "40d203f625273096f7eccba9c0616a220a00f695e8b7a62db986b35595572ff6"
+hash = "f6ea5acb7c19bf4070bf6c442e4177db88ec199c2e35a50d850486cac5cff6bc"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -314,7 +318,7 @@ hash = "28beea0faba0f955b2150d44f717a43168aa0d8a987b6ba1bb77356f95b82775"
 
 [[files]]
 file = "config/friendsandfoes.json"
-hash = "987befa8c0219ef63c3656d975c2ec7abc201c0297c6e3224e25d723b0d2a157"
+hash = "833105e77a257540f99d2b088d97d87d201397abfa810e2f9f1cb88fe2a24fc0"
 
 [[files]]
 file = "config/hauntedharvest-common.toml"
@@ -350,7 +354,7 @@ hash = "5e2d87125ae28c4c072024d4cdcdc0b7b24bd1ae178b62138603744d51a2c84d"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "6b9e2ef63564cf72a01864b1d7c5044f57c1f9e3bdbc2be0e39385f535c06dda"
+hash = "375d8c1b3d5ef830acf1684724d6f3d1209c2f23d0e9e657958cfd1d9a16e539"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
@@ -598,7 +602,7 @@ hash = "42f5a9c9fbc4616c1af01257efc94588abe6379c2e8d7f7068b8dc3fa763ef1d"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "d29e227e9a77490562d8894c60b5473aee5dce633222fb82ca87222372f722d7"
+hash = "9b10e172a6000a5bf09a86eab4bccad4128b0204ee7fc050bdc86ddeb0368616"
 
 [[files]]
 file = "defaultconfigs/pvp_flagging-server.toml"
